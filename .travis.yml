@@ -1,37 +1,24 @@
 language: node_js
-
 sudo: false
-
 node_js:
-  - '8.10.0'
-
+- 8.10.0
 branches:
   only:
-    - master
-
+  - master
 cache:
   directories:
-    - node_modules
-
+  - node_modules
 before_install:
-- openssl aes-256-cbc -K $encrypted_4e3fef400adf_key -iv $encrypted_4e3fef400adf_iv
-  -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
-
-# 改变文件权限
+- openssl aes-256-cbc -K $encrypted_859e2228a869_key -iv $encrypted_859e2228a869_iv
+  -in .travis/travis.enc -out ~/.ssh/id_rsa -d
 - chmod 600 ~/.ssh/id_rsa
-# 配置 ssh
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa
 - cp .travis/ssh_config ~/.ssh/config
-# 配置 git 替换为自己的信息
 - git config --global user.name 's-w-k'
 - git config --global user.email 's979612095@gmail.com'
-
-# 安装依赖
 install:
 - npm install hexo-cli -g
 - npm install
-
-# 部署的命令
 script:
-  - hexo clean && hexo g -d
+- hexo clean && hexo g -d
