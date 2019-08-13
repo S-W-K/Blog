@@ -59,51 +59,51 @@ A service that analyzes docker images and applies user-defined acceptance polici
 ### Language: Any
 1. [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)
 A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-2. [gym](https://github.com/openai/gym)
-A toolkit for developing and comparing reinforcement learning algorithms.
-3. [mastodon](https://github.com/tootsuite/mastodon)
-Your self-hosted, globally interconnected microblogging community
-4. [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-Python - 100天从新手到大师
-5. [LiteOS](https://github.com/LiteOS/LiteOS)
-code and manual
-6. [spacemacs](https://github.com/syl20bnr/spacemacs)
-A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
-7. [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
-If you want to keep a secret, you must also hide it from yourself.
-8. [rt-thread](https://github.com/RT-Thread/rt-thread)
-RT-Thread is an open source IoT operating system from China.
-9. [Shift-AI-models-to-real-world-products](https://github.com/lonelygo/Shift-AI-models-to-real-world-products)
-Share some useful guides and references about how to shift AI models to real world products or projects.
-10. [gnuradio](https://github.com/gnuradio/gnuradio)
-GNU Radio
-11. [trackerslist](https://github.com/ngosang/trackerslist)
-Updated list of public BitTorrent trackers
-12. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
-Command-line program to download videos from YouTube.com and other video sites
-13. [sherlock](https://github.com/sherlock-project/sherlock)
-Find usernames across social networks
-14. [wabt](https://github.com/WebAssembly/wabt)
-The WebAssembly Binary Toolkit
-15. [faceswap](https://github.com/deepfakes/faceswap)
-Deepfakes Software For All
-16. [mc.js](https://github.com/ian13456/mc.js)
+2. [mc.js](https://github.com/ian13456/mc.js)
 Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
-17. [voidrice](https://github.com/LukeSmithxyz/voidrice)
-My dotfiles (deployed by LARBS)
-18. [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
+3. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+Command-line program to download videos from YouTube.com and other video sites
+4. [LiteOS](https://github.com/LiteOS/LiteOS)
+code and manual
+5. [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+Python - 100天从新手到大师
+6. [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
 定投改变命运 —— 让时间陪你慢慢变富
-19. [entt](https://github.com/skypjack/entt)
-Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
-20. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-The  open source codebase and curriculum. Learn to code for free together with millions of people.
-21. [gpmall](https://github.com/2227324689/gpmall)
+7. [gpmall](https://github.com/2227324689/gpmall)
 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka
-22. [gibMacOS](https://github.com/corpnewt/gibMacOS)
-Py2/py3 script that can download macOS components direct from Apple
-23. [system-design-primer](https://github.com/donnemartin/system-design-primer)
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-24. [QuestieDev](https://github.com/AeroScripts/QuestieDev)
-Questie: the vanilla quest helper
-25. [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-A collection of pure bash alternatives to external processes.
+8. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+A complete computer science study plan to become a software engineer.
+9. [mastodon](https://github.com/tootsuite/mastodon)
+Your self-hosted, globally interconnected microblogging community
+10. [UGATIT](https://github.com/taki0112/UGATIT)
+Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+11. [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+12. [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)
+fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+13. [Shift-AI-models-to-real-world-products](https://github.com/lonelygo/Shift-AI-models-to-real-world-products)
+Share some useful guides and references about how to shift AI models to real world products or projects.
+14. [sherlock](https://github.com/sherlock-project/sherlock)
+Find usernames across social networks
+15. [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
+To Be Top Javaer - Java工程师成神之路
+16. [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+A curated list of awesome Deep Learning tutorials, projects and communities.
+17. [miaosha](https://github.com/qiurunze123/miaosha)
+⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析
+18. [favorite-link](https://github.com/guanguans/favorite-link)
+每日收集喜欢的开源项目
+19. [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
+This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol (This repository will be updated after BlackHat 2019)
+20. [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
+周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+21. [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+22. [C-OCR](https://github.com/ctripcorp/C-OCR)
+C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。
+23. [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
+PC版微信机器人
+24. [internships](https://github.com/Zackhardtoname/internships)
+A collection of internship applications for the summer of 2020
+25. [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui)
+A cross-platform Reddit client built in SwiftUI
