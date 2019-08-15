@@ -43,7 +43,7 @@ favicon:
   small: /images/favicon.jpg
   medium: /images/favicon.jpg
   apple_touch_icon: /images/favicon.jpg
-  #safari_pinned_tab: /images/logo.svg
+  #safari_pinned_tab: /images/favicon.jpg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -151,11 +151,12 @@ baidu_push: true
 # External url should start with http:// or https://
 menu:
   home: / || home
-  about: /about/ || user
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
   Trending: /trending/ || line-chart
+  about: /about/ || user
+  Message Board: /messageboard/ || comment-o
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -422,7 +423,7 @@ safari_rainbow: false
 custom_scrollbar: false
 
 # Custom Logo (Do not support scheme Mist)
-custom_logo: #/uploads/custom-logo.jpg
+#custom_logo: /images/avatar.gif
 
 codeblock:
   # Code Highlight theme
@@ -440,7 +441,7 @@ codeblock:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: false
-  permalink: https://github.com/yourname
+  permalink: https://github.com/s-w-k
   title: Follow me on GitHub
 
 
