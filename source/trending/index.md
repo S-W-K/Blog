@@ -5,8 +5,7 @@ comments: false
 
 > Scraped from [GitHub](https://github.com/trending?since=daily), auto-deployed with [Travis Ci](https://travis-ci.org/).
 
-
-### Language: Python
+### Python Projects
 1. [tlroadmap](https://github.com/tlbootcamp/tlroadmap)
 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
 2. [localstack](https://github.com/localstack/localstack)
@@ -22,41 +21,43 @@ Deep Learning Examples
 7. [gym](https://github.com/openai/gym)
 A toolkit for developing and comparing reinforcement learning algorithms.
 8. [code_snippets](https://github.com/CoreyMSchafer/code_snippets)
-Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+No description
 9. [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-Face Analysis Project on MXNet
+Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 10. [insightface](https://github.com/deepinsight/insightface)
-Simple real time visualisation of the execution of a Python program.
+Face Analysis Project on MXNet
 11. [heartrate](https://github.com/alexmojaki/heartrate)
-Universal Command Line Interface for Amazon Web Services
+Simple real time visualisation of the execution of a Python program.
 12. [aws-cli](https://github.com/aws/aws-cli)
-Open deep learning compiler stack for cpu, gpu and specialized accelerators
+Universal Command Line Interface for Amazon Web Services
 13. [tvm](https://github.com/dmlc/tvm)
-Magnificent app which corrects your previous console command.
+Open deep learning compiler stack for cpu, gpu and specialized accelerators
 14. [thefuck](https://github.com/nvbn/thefuck)
-Object detection, 3D detection, and pose estimation using center point detection:
+Magnificent app which corrects your previous console command.
 15. [CenterNet](https://github.com/xingyizhou/CenterNet)
-Google AI Research
+Object detection, 3D detection, and pose estimation using center point detection:
 16. [google-research](https://github.com/google-research/google-research)
-Face recognition using Tensorflow
+Google AI Research
 17. [facenet](https://github.com/davidsandberg/facenet)
-学习强国 自动学习 答题 视听 每天积41分
+Face recognition using Tensorflow
 18. [AutoXue](https://github.com/kessil/AutoXue)
-Create HTML profiling reports from pandas DataFrame objects
+学习强国 自动学习 答题 视听 每天积41分
 19. [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
-A Python Interpreter written in Rust
+Create HTML profiling reports from pandas DataFrame objects
 20. [RustPython](https://github.com/RustPython/RustPython)
-A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch
+A Python Interpreter written in Rust
 21. [apex](https://github.com/NVIDIA/apex)
-python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助，如果喜欢记得给个star哦
+A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch
 22. [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
-A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
+python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助，如果喜欢记得给个star哦
 23. [anchore-engine](https://github.com/anchore/anchore-engine)
-Training Course for Ansible Automation
+A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
 24. [workshops](https://github.com/ansible/workshops)
+Training Course for Ansible Automation
+25. [allennlp](https://github.com/allenai/allennlp)
 An open-source NLP research library, built on PyTorch.
 
-### Language: Any
+### All Projects
 1. [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)
 A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 2. [coil](https://github.com/coil-kt/coil)
