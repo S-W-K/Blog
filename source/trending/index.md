@@ -180,7 +180,13 @@ It’s not always about you!
 Reporting my brother to Child Protective Services was the first step toward ending a decades-long cycle
 6. [**This is Why We Can’t Have Nice Things**](https://psiloveyou.xyz/this-is-why-we-cant-have-nice-things-812b66617233?source=topic_page---------5------------------1)
 The greatest love story I’d ever written, until it wasn’t.
-82. [**Could Climate Change Really End the World?**](https://onezero.medium.com/could-climate-change-really-end-the-world-d0e7eb7f5b09?source=topic_page---------6------------------1)
-   Species are going extinct and the climate is warming rapidly — yet at least materially, humans are doing better than ever. Welcome to the…
-   <!-- endtab -->
-   {% endtabs %}
+7. [**Could Climate Change Really End the World?**](https://onezero.medium.com/could-climate-change-really-end-the-world-d0e7eb7f5b09?source=topic_page---------6------------------1)
+Species are going extinct and the climate is warming rapidly — yet at least materially, humans are doing better than ever. Welcome to the…
+8. [**What Nobody Told Me About Having Sex for the First Time**](https://humanparts.medium.com/what-nobody-told-me-about-having-sex-for-the-first-time-3972942a2fb2?source=topic_page---------7------------------1)
+I thought my wedding night would be amazing, but it brought more pain than pleasure
+9. [**5 Defining Traits Of The Truly Cool**](https://psiloveyou.xyz/5-defining-traits-of-the-truly-cool-458f332a3bd7?source=topic_page---------8------------------1)
+They start by embracing small talk
+10. [**How I Made $11,000 From Writing in 30 Days**](/better-marketing/how-i-made-11-000-from-writing-in-30-days-9c55d1e69723?source=topic_page---------9------------------1)
+And what it took to get there
+<!-- endtab -->
+{% endtabs %}
