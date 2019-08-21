@@ -92,7 +92,7 @@ live2d:
   tagMode: false
   debug: false
   model:
-    use: shizuku
+    use: pio
   display:
     position: left
     width: 150
@@ -128,7 +128,7 @@ filter_optimize:
        #- default is ['css/main.css']
     inlines:
     excludes:
-      - '**/font-awesome.min.css'
+      #- '**/font-awesome.min.css'
 
   js:
      #bundle loaded js file into the one
@@ -136,7 +136,7 @@ filter_optimize:
     excludes:
   # set the priority of this plugin,
   # lower means it will be executed first, default is 10
-  priority: 12
+  priority:
 
 # hexo-neat
 # post minify
@@ -149,7 +149,7 @@ neat_html:
 neat_css:
   enable: true
   exclude:
-    - '**/*.min.css'
+    #- '**/*.min.css'
 # js minify
 neat_js:
   enable: true
@@ -157,13 +157,15 @@ neat_js:
   output:
   compress:
   exclude:
-    - '**/*.min.js'
-    - '**/index.js'
+    #- '**/*.min.js'
+    #- '**/index.js'
 
 
 # music
 aplayer:
   meting: true
+  cdn: https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js
+  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
