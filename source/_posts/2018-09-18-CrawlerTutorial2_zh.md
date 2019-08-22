@@ -5,7 +5,7 @@ date: 2018-09-18
 tags: [Crawler, Python, Chinese]
 ---
 
-# 了解正则表达式　
+## 了解正则表达式　
 
 > 正则表达式，又称规则表达式。（英语：Regular Expression，在代码中常简写为regex、regexp或RE），计算机科学的一个概念。正则表达式通常被用来检索、替换那些符合某个模式(规则)的文本。　(百度百科)  
 
@@ -14,14 +14,14 @@ Python自带的re模块，就提供了对正则表达式的支持，下面就让
 
 <!-- more -->
 
-# 正则表达式的语法
+## 正则表达式的语法
 
-## 正则总结表
+### 正则总结表
 
 此表出自CSDN，详细地总结了python支持的正则的语法规则，大家先大概看一遍，后面我们再来慢慢熟悉。
 ![RegularExpression.png](https://raw.githubusercontent.com/S-W-K/Images/master/img/RegularExpression.png)
 
-## Python的re模块
+### Python的re模块
 
 1. re.match(pattern, string, flags=0)  
 

@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /about/ 
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /images/
+Disallow: /live2dw/
+
+Sitemap: https://s-w-k.top/sitemap.xml
+Sitemap: https://s-w-k.top/baidusitemap.xml
+

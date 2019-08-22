@@ -11,7 +11,7 @@ tags: [Web, Jekyll, Blog, Japanese]
 
 > このブログは[NexT](https://github.com/Simpleyyt/jekyll-theme-next) Themeに基づいて作ったもの．[Simpleyyt](https://github.com/Simpleyyt)に感謝...
 
-# 環境の設定
+## 環境の設定
 
 Linuxでの実装過程を示す．（他のOSでの実装方法自分で調べなさい，使うものは同じだから）
 
@@ -44,7 +44,7 @@ Linuxでの実装過程を示す．（他のOSでの実装方法自分で調べ�
    ```
 <!-- more -->
 
-# ブログの設定
+## ブログの設定
 
 まず，NexT Themeをパソコンに`git clone`：
 
@@ -72,9 +72,9 @@ bundle exec jekyll server
 
 後は自分らしいのものに加工して，GitHubに載せるだけ．
 
-# Theme設定
+## Theme設定
 
-## Schemeを選択
+### Schemeを選択
 
 SchemeはNexTが提供している特性の一つで，Schemeを通して，NexTは様々な外観テーマを提供している．今，NexTには３種類のSchemeがある：
 
@@ -92,7 +92,7 @@ Schemeの変更はフォルダにある`_config.yml`をいじればいい，sche
 scheme: Pisces
 ```
 
-## 言語の設定
+### 言語の設定
 
 NexTは多様な言語をサポートしている．`_config.yml`を編輯することで，言語サポートを指定する．例えば，日本語にしたい場合は，以下のように設定：
 
@@ -115,7 +115,7 @@ language: ja
 | Indonesian   | `id`                 | `language: id`                      |
 | Korean       | `ko`                 | `language: ko`                      |
 
-## メニューの設定
+### メニューの設定
 
 メニューは３つの部分から構成されている，１つ目はメニュー項目（名称とリンク），２つ目は表示するテキスト，３つ目はメニュー項目に対応するアイコン．NexTは [Font Awesome](https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/)のアイコンを利用しており，600+のアイコンを提供し，ほとんどの使用シーンをカバーできると同時に，アイコンがRetinaスクリンでのぼやける問題も心配する必要がない．
 
@@ -156,7 +156,7 @@ language: ja
      archives: archive
    ```
 
-## サイドバーの設定
+### サイドバーの設定
 
 デフォルトの場合，サイドバーは文章のページ（見出しがある時）でしか出ない．ポジションは右側．`_config.yml`を編輯することで，サイドバーのポジションと出現タイミングを変えられる．
 
@@ -186,7 +186,7 @@ language: ja
 
    > P.S サイドバーは`use motion: false`（サイトのアニメーションを利用しない）の場合，出現しない．
 
-## プロフィール画像の設定
+### プロフィール画像の設定
 
 `_config.yml`をオープン，`avatar`のところを編輯する．画像のリンクはインタネットのリンクでもいいし，サイト内のリンクでもいい：
 
@@ -201,25 +201,25 @@ language: ja
 avatar: http://example.com/avatar.png
 ```
 
-## 作者のニックネームの設定
+### 作者のニックネームの設定
 
 `_config.yml`にある`author`をほしいニックネームに設定する．
 
-## サイトの紹介
+### サイトの紹介
 
 `_config.yml`にある`description`のところに，サイトの紹介を書く．好きな座右の銘を書いても構わない :)
 
-# サードパーティのサービス
+## サードパーティのサービス
 
 NexTに様々なサードパーティのサービス（コメントとか字数の統計とか）が統合されてある．自分の必要に応じて，`_config.yml`をいじってください．
 
-# Live2Dの追加
+## Live2Dの追加
 
 私のブログを見た方々は，この左下の子に気づいたでしょう．この子は[live2d](https://www.live2d.com/ja/about/whats_live2d)という技術で作られた子で，サイトに追加する過程がちょっと複雑で，他の記事に書く．
 
 ![](https://i.loli.net/2019/07/26/5d3aac61b8f4469960.png)
 
-# GitHubにアップロード
+## GitHubにアップロード
 
 さあ，どうやって自分のブログをインタネットを通して他の人に見せるの？
 

@@ -7,7 +7,7 @@ tags: [Crawler, Python, Chinese]
 
 网上全是想要的数据，亦或是美图，甚至是教育片，想要收藏进硬盘，中饱私囊。奈何没有适合的手段，那么爬虫就是为你量身定做的利器了。自己也是走了一些弯路，学会了点皮毛。觉得爬虫确实是个好东西，于是就把一些心得写在这里，希望能帮助到有需要的人。
 
-# 网页的真实面目
+## 网页的真实面目
 
 鼠标随手点开一个网页，恩～？！它是这样的：
 ![](https://raw.githubusercontent.com/S-W-K/Images/master/img/crawler_tutorial1_1.png)
@@ -21,7 +21,7 @@ tags: [Crawler, Python, Chinese]
 
 在HTML中基本上实质内容都被`<div>...</div>，<li>...</li>`这样的标签包围着，标签里面又有着`href="http://www.gakki.cute.com"，class="Gakki"`之类的属性，或者包含着`>Gakki is my wife<`这样的文本。我们要爬取的也基本就是这些隐藏在标签中的链接和文本了。
 
-# 工具
+## 工具
 
 有米之炊无巧妇难为，要把资源装进包，趁手利器不可少。  
 >人生苦短,我用 Python。 

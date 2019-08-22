@@ -5,7 +5,7 @@ date: 2019-07-29
 tags: [Web, Jekyll, Blog, Japanese,Live2D]
 ---
 
-# Live2D
+## Live2D
 
 左下のこの子をどうやって生成したか？この記事で説明する．
 
@@ -15,13 +15,13 @@ tags: [Web, Jekyll, Blog, Japanese,Live2D]
 
 <!-- more -->
 
-# Jekyllで実装
+## Jekyllで実装
 
 私はlazyな人なので，原理を究明してJekyllにコンパイルすることは〜，さすがにしない！ここで「バカ」な方法で解決する．
 
 作者がHexoでの実装方法を提供しているから，いっそうHexoでキャラクターをコンパイルして，キャラクターのコードを直接Jekyllに移植すればいいじゃん？JekyllでもHexoでも**静的**サイトジェネレータでしょう．最終的に，コンパイルの結果が出る．その結果から，キャラクターのコードを探し出すのは今回の要務．
 
-## Hexoをインストール
+### Hexoをインストール
 
 ```shell
 npm install hexo-cli -g
@@ -33,7 +33,7 @@ hexo s
 
 はい！Hexoのウェブページが出たでしょう．オーケー，問題なし，いったんserverを閉じて，次に行こう．
 
-## Live2Dをインストール
+### Live2Dをインストール
 
 ```shell
 npm install --save hexo-helper-live2d
@@ -69,7 +69,7 @@ live2d:
     - shizuku
       - moc, mtn, shizuku.model.json...
 
-## コードを抽出
+### コードを抽出
 
 もう一回`hexo s`を実行して，shizukuちゃんでたでしょう．
 

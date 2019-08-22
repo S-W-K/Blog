@@ -9,7 +9,7 @@ In this era of information, everyone should notice the value of information. Whe
 
 I'm a beginner in the field of web crawler. The purpose of this blog is to record my learning and hope these articles could also help you to learn web crawler. My English is not very good, so it would be appreciated if you could point out my grammar mistakes.
 
-# The truth of a web page
+## The truth of a web page
 
 Let us open a website to have a look. It may look like this:
 ![](https://raw.githubusercontent.com/S-W-K/Images/master/img/crawler_tutorial1_1.png)
@@ -24,7 +24,7 @@ It looks like some kind of programming language, doesn't it? We call it HTML(Hyp
 
 Anyway, when we right-click the web page we can get its source code, and we'll obtain the data we want from the source code. Basically, every useful content is included in labels like `<div>...</div>，<li>...</li>`, and labels contains attributes like `href="http://www.gakki.cute.com", class="Gakki"`, or texts like `>Gakki is my wife<`. These links or texts contained in the labels are usually what we want to download from websites.
 
-# Tools
+## Tools
 
 For the sake of acquiring those data from the Internet. We need a handy tool.  
 > Life is short, you need Python.
