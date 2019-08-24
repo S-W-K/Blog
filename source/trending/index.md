@@ -21,7 +21,7 @@ Microsoft Web Template Studio quickly builds web applications using a wizard-bas
 Companion webpage to the book "Mathematics For Machine Learning"
 5. [**google / mediapipe**](https://github.com/google/mediapipe)
 MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
-6. [**tikazyq / crawlab**](https://github.com/tikazyq/crawlab)
+6. [**crawlab-team / crawlab**](https://github.com/crawlab-team/crawlab)
 Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 7. [**NLP-LOVE / ML-NLP**](https://github.com/NLP-LOVE/ML-NLP)
 此项目是机器学习(Machine Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
@@ -56,7 +56,7 @@ HTML5 FLV Player
 22. [**macrozheng / mall**](https://github.com/macrozheng/mall)
 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 23. [**actions / toolkit**](https://github.com/actions/toolkit)
-A toolkit for developing GitHub Actions.
+The GitHub ToolKit for developing GitHub Actions.
 24. [**SoftwareBrothers / admin-bro**](https://github.com/SoftwareBrothers/admin-bro)
 AdminBro is an admin panel for apps written in node.js
 25. [**YMFE / yapi**](https://github.com/YMFE/yapi)
@@ -71,7 +71,7 @@ Learn Go with test-driven development
 unc0ver jailbreak for iOS 11.0 - 12.4
 4. [**yangshun / tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
 💯 Materials to help you rock your next coding interview
-5. [**tikazyq / crawlab**](https://github.com/tikazyq/crawlab)
+5. [**crawlab-team / crawlab**](https://github.com/crawlab-team/crawlab)
 Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 6. [**CorentinJ / Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -168,12 +168,12 @@ To Be Top Javaer - Java工程师成神之路
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
-1. [**Kellyanne Conway’s Curiously Relevant Family History**](https://gen.medium.com/kellyanne-conways-curiously-relevant-family-history-88c0f86876de?source=topic_page---------------------------20)
+1. [**You’re Not Lazy, Bored, or Unmotivated**](https://forge.medium.com/youre-not-lazy-bored-or-unmotivated-35891b1f3376?source=topic_page---------------------------20)
+And the cure for what really ails you can be found in an advertising slogan you’ve heard before
+2. [**Kellyanne Conway’s Curiously Relevant Family History**](https://gen.medium.com/kellyanne-conways-curiously-relevant-family-history-88c0f86876de?source=topic_page---------0------------------1)
 After Conway asked a journalist to disclose his ethnicity at a press conference, I took it as an open invitation to explore her own…
-2. [**An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone**](https://medium.com/personal-growth/an-fbi-behaviour-expert-explains-how-to-quickly-build-trust-with-anyone-94a05be01cea?source=topic_page---------0------------------1)
+3. [**An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone**](https://medium.com/personal-growth/an-fbi-behaviour-expert-explains-how-to-quickly-build-trust-with-anyone-94a05be01cea?source=topic_page---------1------------------1)
 It’s not always about you!
-3. [**You’re Not Lazy, Bored, Or Unmotivated**](https://medium.com/@ngoeke/youre-not-lazy-bored-or-unmotivated-35891b1f3376?source=topic_page---------1------------------1)
-You are afraid — and only Nike’s cliché slogan can fix it
 4. [**The Art of Waking Up Earlier Than Everyone Else**](https://humanparts.medium.com/the-truth-about-why-you-need-to-wake-up-early-4ce358303617?source=topic_page---------2------------------1)
 Getting up at the crack of dawn is so much more than a productivity hack
 5. [**What are the Happiest Jobs in Tech?**](https://towardsdatascience.com/what-are-the-happiest-jobs-in-tech-4c4d33e065f0?source=topic_page---------4------------------1)
