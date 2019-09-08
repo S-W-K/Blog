@@ -972,12 +972,12 @@ three:
 # Canvas-nest
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest
 canvas_nest:
-  enable: false
+  enable: true
   onmobile: false # display on mobile or not
   color: "96,96,96" # RGB values, use `,` to separate
-  opacity: 0.5 # the opacity of line: 0~1
+  opacity: 0.7 # the opacity of line: 0~1
   zIndex: -1 # z-index property of the background
-  count: 200 # the number of lines
+  count: 222 # the number of lines
 
 # Canvas-ribbon
 # Dependencies: https://github.com/theme-next/theme-next-canvas-ribbon
@@ -1067,10 +1067,10 @@ vendors:
   # Internal version: 1.0.0
   # See: https://github.com/theme-next/theme-next-canvas-nest
   # Example:
-  # canvas_nest: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-nest@1/canvas-nest.min.js
-  # canvas_nest_nomobile: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-nest@1/canvas-nest-nomobile.min.js
-  canvas_nest:
-  canvas_nest_nomobile:
+  canvas_nest: https://cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-nest@1/canvas-nest.min.js
+  canvas_nest_nomobile: https://cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-nest@1/canvas-nest-nomobile.min.js
+  #canvas_nest:
+  #canvas_nest_nomobile:
 
   # Internal version: 1.0.0
   # See: https://github.com/theme-next/theme-next-three
