@@ -13,106 +13,106 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab Daily -->
 1. [**commanderx16/x16-emulator**](https://github.com/commanderx16/x16-emulator)
 Emulator for the Commander X16 8-bit computer
-2. [**Tencent/InjectFix**](https://github.com/Tencent/InjectFix)
-InjectFix is a hot-fix solution library for Unity
-3. [**onnx/onnx**](https://github.com/onnx/onnx)
-Open Neural Network Exchange
-4. [**keybase/client**](https://github.com/keybase/client)
-Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-5. [**dotnet/samples**](https://github.com/dotnet/samples)
-Sample code and snippets used in the .NET documentation
-6. [**ixy-languages/ixy-languages**](https://github.com/ixy-languages/ixy-languages)
-A high-speed network driver written in C, Rust, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python
-7. [**salesforce/ctrl**](https://github.com/salesforce/ctrl)
-Conditional Transformer Language Model for Controllable Generation (https://einstein.ai/presentations/ctrl.pdf)
-8. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
-A libre lightweight streaming front-end for Android.
-9. [**yeahhub/Hacking-Security-Ebooks**](https://github.com/yeahhub/Hacking-Security-Ebooks)
-Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com
-10. [**NLP-LOVE/ML-NLP**](https://github.com/NLP-LOVE/ML-NLP)
-此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-11. [**30-seconds/30-seconds-of-python**](https://github.com/30-seconds/30-seconds-of-python)
-A curated collection of useful Python snippets that you can understand in 30 seconds or less.
-12. [**GoogleChrome/puppeteer**](https://github.com/GoogleChrome/puppeteer)
-Headless Chrome Node.js API
-13. [**sql-machine-learning/elasticdl**](https://github.com/sql-machine-learning/elasticdl)
-Kubernetes-native Deep Learning Framework
-14. [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions)
-A curated list of awesome actions to use on GitHub
-15. [**opendatacam/opendatacam**](https://github.com/opendatacam/opendatacam)
-An open source tool to quantify the world
-16. [**rolling-scopes-school/lectures**](https://github.com/rolling-scopes-school/lectures)
-No repo_description
-17. [**dsgiitr/d2l-pytorch**](https://github.com/dsgiitr/d2l-pytorch)
-This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
-18. [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge)
-A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-19. [**microsoft/recommenders**](https://github.com/microsoft/recommenders)
+2. [**microsoft/recommenders**](https://github.com/microsoft/recommenders)
 Best Practices on Recommendation Systems
-20. [**chinese-poetry/chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
-最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-21. [**halgari/wabbajack**](https://github.com/halgari/wabbajack)
-A mod list downloader & installer for Skyrim/Oblivion and Fallout games
-22. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful mobile apps.
-23. [**terraform-providers/terraform-provider-aws**](https://github.com/terraform-providers/terraform-provider-aws)
-Terraform AWS provider
-24. [**rockdevourer/borderlands**](https://github.com/rockdevourer/borderlands)
-Interact with Shift
-25. [**ossu/computer-science**](https://github.com/ossu/computer-science)
-🎓 Path to a free self-taught education in Computer Science!
+3. [**explosion/spaCy**](https://github.com/explosion/spaCy)
+💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+4. [**microsoft/ai-edu**](https://github.com/microsoft/ai-edu)
+AI education materials for Chinese students, teachers and IT professionals.
+5. [**daumann/ECMAScript-new-features-list**](https://github.com/daumann/ECMAScript-new-features-list)
+A comprehensive list of new ES features, including ES2015 (ES6), ES2016 (ES7), ES2017 (ES8), ES2018 (ES9), ES2019 (ES10)
+6. [**tuvtran/project-based-learning**](https://github.com/tuvtran/project-based-learning)
+Curated list of project-based tutorials
+7. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
+🤓 Build your own (insert technology here)
+8. [**yeahhub/Hacking-Security-Ebooks**](https://github.com/yeahhub/Hacking-Security-Ebooks)
+Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com
+9. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
+Command-line program to download videos from YouTube.com and other video sites
+10. [**Licoy/girls-reptile**](https://github.com/Licoy/girls-reptile)
+🎨 Beautiful girl picture collector based on electron-vue development, Support for Mac/Windows
+11. [**kgrzybek/modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd)
+Full Modular Monolith application with Domain-Driven Design approach.
+12. [**dsgiitr/d2l-pytorch**](https://github.com/dsgiitr/d2l-pytorch)
+This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
+13. [**catchorg/Catch2**](https://github.com/catchorg/Catch2)
+A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+14. [**keybase/client**](https://github.com/keybase/client)
+Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+15. [**coil-kt/coil**](https://github.com/coil-kt/coil)
+Image loading for Android backed by Kotlin Coroutines.
+16. [**Harvard-IACS/2019-CS109A**](https://github.com/Harvard-IACS/2019-CS109A)
+https://harvard-iacs.github.io/2019-CS109A/
+17. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+Cheat Sheets
+18. [**GoogleChrome/puppeteer**](https://github.com/GoogleChrome/puppeteer)
+Headless Chrome Node.js API
+19. [**openshift/origin**](https://github.com/openshift/origin)
+The self-managing, auto-upgrading, Kubernetes distribution for everyone
+20. [**30-seconds/30-seconds-of-python**](https://github.com/30-seconds/30-seconds-of-python)
+A curated collection of useful Python snippets that you can understand in 30 seconds or less.
+21. [**odoo/odoo**](https://github.com/odoo/odoo)
+Odoo. Open Source Apps To Grow Your Business.
+22. [**apache/nifi**](https://github.com/apache/nifi)
+Mirror of Apache NiFi
+23. [**quarkusio/quarkus**](https://github.com/quarkusio/quarkus)
+Quarkus: Supersonic Subatomic Java.
+24. [**grpc-ecosystem/grpc-gateway**](https://github.com/grpc-ecosystem/grpc-gateway)
+gRPC to JSON proxy generator following the gRPC HTTP spec
+25. [**prometheus/alertmanager**](https://github.com/prometheus/alertmanager)
+Prometheus Alertmanager
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
 12306智能刷票，订票
-2. [**jedisct1/dsvpn**](https://github.com/jedisct1/dsvpn)
-A Dead Simple VPN.
-3. [**elunez/eladmin**](https://github.com/elunez/eladmin)
-项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-4. [**Yorko/mlcourse.ai**](https://github.com/Yorko/mlcourse.ai)
-Open Machine Learning Course
-5. [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge)
-A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-6. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
-前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
-7. [**rapid7/metasploit-framework**](https://github.com/rapid7/metasploit-framework)
-Metasploit Framework
-8. [**qunarcorp/bistoury**](https://github.com/qunarcorp/bistoury)
-Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
-9. [**inorichi/tachiyomi**](https://github.com/inorichi/tachiyomi)
-Free and open source manga reader for Android
-10. [**spmallick/learnopencv**](https://github.com/spmallick/learnopencv)
-Learn OpenCV : C++ and Python Examples
-11. [**chinese-poetry/chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
-最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-12. [**desktop/desktop**](https://github.com/desktop/desktop)
-Simple collaboration from your desktop
-13. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful mobile apps.
-14. [**pjialin/py12306**](https://github.com/pjialin/py12306)
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-15. [**instagrambot/instabot**](https://github.com/instagrambot/instabot)
-🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
-16. [**hecrj/iced**](https://github.com/hecrj/iced)
-A renderer-agnostic GUI library for Rust, inspired by Elm
-17. [**linlinjava/litemall**](https://github.com/linlinjava/litemall)
-又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-18. [**starship/starship**](https://github.com/starship/starship)
+2. [**google/eng-practices**](https://github.com/google/eng-practices)
+Google's Engineering Practices documentation
+3. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+Windows system utilities to maximize productivity
+4. [**chakra-ui/chakra-ui**](https://github.com/chakra-ui/chakra-ui)
+⚡️Simple, Modular & Accessible UI Components for your React Applications
+5. [**google/differential-privacy**](https://github.com/google/differential-privacy)
+No repo_description
+6. [**FIRST-Tech-Challenge/SkyStone**](https://github.com/FIRST-Tech-Challenge/SkyStone)
+FTC SDK
+7. [**starship/starship**](https://github.com/starship/starship)
 ☄🌌️ The cross-shell prompt for astronauts.
-19. [**firefly-iii/firefly-iii**](https://github.com/firefly-iii/firefly-iii)
-Firefly III: a personal finances manager
-20. [**ddbourgin/numpy-ml**](https://github.com/ddbourgin/numpy-ml)
-Machine learning, in numpy
-21. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-22. [**dsgiitr/d2l-pytorch**](https://github.com/dsgiitr/d2l-pytorch)
-This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
-23. [**HowProgrammingWorks/Index**](https://github.com/HowProgrammingWorks/Index)
-Repositories Index
-24. [**dotnet/samples**](https://github.com/dotnet/samples)
+8. [**jedisct1/dsvpn**](https://github.com/jedisct1/dsvpn)
+A Dead Simple VPN.
+9. [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge)
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+10. [**instagrambot/instabot**](https://github.com/instagrambot/instabot)
+🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
+11. [**desktop/desktop**](https://github.com/desktop/desktop)
+Simple collaboration from your desktop
+12. [**rapid7/metasploit-framework**](https://github.com/rapid7/metasploit-framework)
+Metasploit Framework
+13. [**linlinjava/litemall**](https://github.com/linlinjava/litemall)
+又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+14. [**onnx/onnx**](https://github.com/onnx/onnx)
+Open Neural Network Exchange
+15. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
+Command-line program to download videos from YouTube.com and other video sites
+16. [**qunarcorp/bistoury**](https://github.com/qunarcorp/bistoury)
+Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
+17. [**dotnet/samples**](https://github.com/dotnet/samples)
 Sample code and snippets used in the .NET documentation
-25. [**ColorlibHQ/AdminLTE**](https://github.com/ColorlibHQ/AdminLTE)
-AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
+18. [**spmallick/learnopencv**](https://github.com/spmallick/learnopencv)
+Learn OpenCV : C++ and Python Examples
+19. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
+20. [**pjialin/py12306**](https://github.com/pjialin/py12306)
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+21. [**donnemartin/data-science-ipython-notebooks**](https://github.com/donnemartin/data-science-ipython-notebooks)
+Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+22. [**microsoft/ai-edu**](https://github.com/microsoft/ai-edu)
+AI education materials for Chinese students, teachers and IT professionals.
+23. [**hecrj/iced**](https://github.com/hecrj/iced)
+A renderer-agnostic GUI library for Rust, inspired by Elm
+24. [**firefly-iii/firefly-iii**](https://github.com/firefly-iii/firefly-iii)
+Firefly III: a personal finances manager
+25. [**dsgiitr/d2l-pytorch**](https://github.com/dsgiitr/d2l-pytorch)
+This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**google/mediapipe**](https://github.com/google/mediapipe)
@@ -125,46 +125,46 @@ Clone a voice in 5 seconds to generate arbitrary speech in real-time
 Play with fluids in your browser (works even on mobile)
 5. [**Yorko/mlcourse.ai**](https://github.com/Yorko/mlcourse.ai)
 Open Machine Learning Course
-6. [**justauth/JustAuth**](https://github.com/justauth/JustAuth)
-💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐和Gitlab等第三方平台的授权登录。 Login, so easy!
-7. [**pwn20wndstuff/Undecimus**](https://github.com/pwn20wndstuff/Undecimus)
+6. [**pwn20wndstuff/Undecimus**](https://github.com/pwn20wndstuff/Undecimus)
 unc0ver jailbreak for iOS 11.0 - 12.4
-8. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
+7. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
 DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
-9. [**quii/learn-go-with-tests**](https://github.com/quii/learn-go-with-tests)
-Learn Go with test-driven development
-10. [**crawlab-team/crawlab**](https://github.com/crawlab-team/crawlab)
-Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-11. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
+8. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
 💯 Materials to help you rock your next coding interview
-12. [**deepfakes/faceswap**](https://github.com/deepfakes/faceswap)
+9. [**crawlab-team/crawlab**](https://github.com/crawlab-team/crawlab)
+Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+10. [**deepfakes/faceswap**](https://github.com/deepfakes/faceswap)
 Deepfakes Software For All
-13. [**tophubs/TopList**](https://github.com/tophubs/TopList)
-今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html
-14. [**google/iosched**](https://github.com/google/iosched)
-The Google I/O 2019 Android App
-15. [**shengqiangzhang/examples-of-web-crawlers**](https://github.com/shengqiangzhang/examples-of-web-crawlers)
-一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-16. [**hope-for/hope-boot**](https://github.com/hope-for/hope-boot)
-🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。
-17. [**elunez/eladmin**](https://github.com/elunez/eladmin)
+11. [**quii/learn-go-with-tests**](https://github.com/quii/learn-go-with-tests)
+Learn Go with test-driven development
+12. [**elunez/eladmin**](https://github.com/elunez/eladmin)
 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-18. [**nondanee/UnblockNeteaseMusic**](https://github.com/nondanee/UnblockNeteaseMusic)
+13. [**nondanee/UnblockNeteaseMusic**](https://github.com/nondanee/UnblockNeteaseMusic)
 Revive unavailable songs for Netease Cloud Music
-19. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
-A High-Quality Real Time Upscaler for Anime Video
-20. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+14. [**shengqiangzhang/examples-of-web-crawlers**](https://github.com/shengqiangzhang/examples-of-web-crawlers)
+一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+15. [**google/iosched**](https://github.com/google/iosched)
+The Google I/O 2019 Android App
+16. [**tophubs/TopList**](https://github.com/tophubs/TopList)
+今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html
+17. [**hope-for/hope-boot**](https://github.com/hope-for/hope-boot)
+🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。
+18. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 Cheat Sheets
-21. [**ziishaned/learn-regex**](https://github.com/ziishaned/learn-regex)
-Learn regex the easy way
-22. [**2227324689/gpmall**](https://github.com/2227324689/gpmall)
-【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
-23. [**coil-kt/coil**](https://github.com/coil-kt/coil)
+19. [**coil-kt/coil**](https://github.com/coil-kt/coil)
 Image loading for Android backed by Kotlin Coroutines.
-24. [**kaldi-asr/kaldi**](https://github.com/kaldi-asr/kaldi)
+20. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
+A High-Quality Real Time Upscaler for Anime Video
+21. [**laravel/laravel**](https://github.com/laravel/laravel)
+A PHP framework for web artisans
+22. [**kaldi-asr/kaldi**](https://github.com/kaldi-asr/kaldi)
 This is the official location of the Kaldi project.
-25. [**vmware/octant**](https://github.com/vmware/octant)
-A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+23. [**Vay-keen/Machine-learning-learning-notes**](https://github.com/Vay-keen/Machine-learning-learning-notes)
+周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+24. [**ziishaned/learn-regex**](https://github.com/ziishaned/learn-regex)
+Learn regex the easy way
+25. [**iawia002/annie**](https://github.com/iawia002/annie)
+👾 Fast, simple and clean video downloader
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
