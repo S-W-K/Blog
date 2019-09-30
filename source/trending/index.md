@@ -11,56 +11,56 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**github/CodeSearchNet**](https://github.com/github/CodeSearchNet)
-Datasets, tools, and benchmarks for representation learning of code.
-2. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
+1. [**axi0mX/ipwndfu**](https://github.com/axi0mX/ipwndfu)
+open-source jailbreaking tool for many iOS devices
+2. [**rudderlabs/rudder-server**](https://github.com/rudderlabs/rudder-server)
+Privacy and Security focused Segment-alternative, in Golang and React
+3. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
 My Python Examples
-3. [**unisonweb/unison**](https://github.com/unisonweb/unison)
-Next generation programming language, currently in development
-4. [**huggingface/transformers**](https://github.com/huggingface/transformers)
-🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-5. [**nushell/nushell**](https://github.com/nushell/nushell)
-A modern shell written in Rust
-6. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-7. [**Avik-Jain/100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-100 Days of ML Coding
-8. [**d3/d3**](https://github.com/d3/d3)
-Bring data to life with SVG, Canvas and HTML. 📊📈🎉
-9. [**fengdu78/Coursera-ML-AndrewNg-Notes**](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+4. [**github/CodeSearchNet**](https://github.com/github/CodeSearchNet)
+Datasets, tools, and benchmarks for representation learning of code.
+5. [**ocornut/imgui**](https://github.com/ocornut/imgui)
+Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+6. [**fengdu78/Coursera-ML-AndrewNg-Notes**](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 吴恩达老师的机器学习课程个人笔记
-10. [**fastlane/fastlane**](https://github.com/fastlane/fastlane)
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-11. [**carbon-design-system/carbon**](https://github.com/carbon-design-system/carbon)
-A design system built by IBM
-12. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
-Roadmap to becoming a web developer in 2019
-13. [**mattdesl/workshop-p5-intro**](https://github.com/mattdesl/workshop-p5-intro)
-Intro to Creative Coding workshop with p5.js and Tone.js
-14. [**fengdu78/deeplearning_ai_books**](https://github.com/fengdu78/deeplearning_ai_books)
-deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
-15. [**bioconda/bioconda-recipes**](https://github.com/bioconda/bioconda-recipes)
-Conda recipes for the bioconda channel.
-16. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
-前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
-17. [**golang-standards/project-layout**](https://github.com/golang-standards/project-layout)
-Standard Go Project Layout
-18. [**gatsbyjs/gatsby**](https://github.com/gatsbyjs/gatsby)
+7. [**svip-lab/impersonator**](https://github.com/svip-lab/impersonator)
+PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
+8. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+A sandbox tower defense game
+9. [**thestr4ng3r/chiaki**](https://github.com/thestr4ng3r/chiaki)
+Free and Open Source PS4 Remote Play Client
+10. [**tmrowco/electricitymap-contrib**](https://github.com/tmrowco/electricitymap-contrib)
+A real-time visualisation of the CO2 emissions of electricity consumption
+11. [**huggingface/transformers**](https://github.com/huggingface/transformers)
+🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+12. [**nvbn/thefuck**](https://github.com/nvbn/thefuck)
+Magnificent app which corrects your previous console command.
+13. [**didi/go-spring**](https://github.com/didi/go-spring)
+模仿 Java 的 Spring 全家桶实现的一套 GoLang 的应用程序框架 🚀
+14. [**rileytestut/AltStore**](https://github.com/rileytestut/AltStore)
+No repo_description
+15. [**Vay-keen/Machine-learning-learning-notes**](https://github.com/Vay-keen/Machine-learning-learning-notes)
+周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+16. [**tabler/tabler**](https://github.com/tabler/tabler)
+Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+17. [**pielco11/fav-up**](https://github.com/pielco11/fav-up)
+IP lookup from favicon using Shodan
+18. [**unisonweb/unison**](https://github.com/unisonweb/unison)
+Next generation programming language, currently in development
+19. [**thunlp/PLMpapers**](https://github.com/thunlp/PLMpapers)
+Must-read Papers on pre-trained language models.
+20. [**danielkrupinski/Osiris**](https://github.com/danielkrupinski/Osiris)
+Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.
+21. [**ThreeDotsLabs/watermill**](https://github.com/ThreeDotsLabs/watermill)
+Building event-driven applications easy way in Go.
+22. [**gatsbyjs/gatsby**](https://github.com/gatsbyjs/gatsby)
 Build blazing fast, modern apps and websites with React
-19. [**cloudflare/quiche**](https://github.com/cloudflare/quiche)
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-20. [**firebase/extensions**](https://github.com/firebase/extensions)
-Source code for official Firebase extensions
-21. [**kgrzybek/modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd)
-Full Modular Monolith application with Domain-Driven Design approach.
-22. [**gabime/spdlog**](https://github.com/gabime/spdlog)
-Fast C++ logging library.
-23. [**ReactiveX/RxSwift**](https://github.com/ReactiveX/RxSwift)
-Reactive Programming in Swift
-24. [**go-kit/kit**](https://github.com/go-kit/kit)
-A standard library for microservices.
-25. [**vesoft-inc/nebula**](https://github.com/vesoft-inc/nebula)
-A high performance distributed Graph Database
+23. [**dart-lang/sdk**](https://github.com/dart-lang/sdk)
+The Dart SDK, including the VM, dart2js, core libraries, and more.
+24. [**daliansky/Hackintosh**](https://github.com/daliansky/Hackintosh)
+Hackintosh long-term maintenance model EFI and installation tutorial
+25. [**hakluke/how-to-exit-vim**](https://github.com/hakluke/how-to-exit-vim)
+Below are some simple methods for exiting vim.
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**microsoft/c9-python-getting-started**](https://github.com/microsoft/c9-python-getting-started)
@@ -125,46 +125,46 @@ DeepFaceLab is a tool that utilizes machine learning to replace faces in videos.
 Deepfakes Software For All
 5. [**elunez/eladmin**](https://github.com/elunez/eladmin)
 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-6. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
-Spring源码阅读
-7. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+6. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
 A platform for building proxies to bypass network restrictions.
-8. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+7. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
-9. [**brentsimmons/NetNewsWire**](https://github.com/brentsimmons/NetNewsWire)
-RSS reader for macOS.
-10. [**d2l-ai/d2l-zh**](https://github.com/d2l-ai/d2l-zh)
+8. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
+Spring源码阅读
+9. [**d2l-ai/d2l-zh**](https://github.com/d2l-ai/d2l-zh)
 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
-11. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
-Next Generation of ShadowsocksX
-12. [**apache/incubator-dolphinscheduler**](https://github.com/apache/incubator-dolphinscheduler)
+10. [**brentsimmons/NetNewsWire**](https://github.com/brentsimmons/NetNewsWire)
+RSS reader for macOS.
+11. [**apache/incubator-dolphinscheduler**](https://github.com/apache/incubator-dolphinscheduler)
 Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.
-13. [**haotian-wang/google-access-helper**](https://github.com/haotian-wang/google-access-helper)
-谷歌访问助手破解版
-14. [**instagrambot/instabot**](https://github.com/instagrambot/instabot)
+12. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
+Next Generation of ShadowsocksX
+13. [**instagrambot/instabot**](https://github.com/instagrambot/instabot)
 🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
+14. [**haotian-wang/google-access-helper**](https://github.com/haotian-wang/google-access-helper)
+谷歌访问助手破解版
 15. [**inorichi/tachiyomi**](https://github.com/inorichi/tachiyomi)
 Free and open source manga reader for Android
-16. [**deepmind/open_spiel**](https://github.com/deepmind/open_spiel)
-OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+16. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
+spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
 17. [**laravel/laravel**](https://github.com/laravel/laravel)
 A PHP framework for web artisans
 18. [**shadowsocks/shadowsocks**](https://github.com/shadowsocks/shadowsocks)
 No repo_description
-19. [**actions/toolkit**](https://github.com/actions/toolkit)
-The GitHub ToolKit for developing GitHub Actions.
-20. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
-spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
-21. [**tonsky/FiraCode**](https://github.com/tonsky/FiraCode)
+19. [**tonsky/FiraCode**](https://github.com/tonsky/FiraCode)
 Monospaced font with programming ligatures
-22. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
-💯 Materials to help you rock your next coding interview
+20. [**containous/traefik**](https://github.com/containous/traefik)
+The Cloud Native Edge Router
+21. [**dotnet/samples**](https://github.com/dotnet/samples)
+Sample code and snippets used in the .NET documentation
+22. [**actions/toolkit**](https://github.com/actions/toolkit)
+The GitHub ToolKit for developing GitHub Actions.
 23. [**microsoft/ai-edu**](https://github.com/microsoft/ai-edu)
 AI education materials for Chinese students, teachers and IT professionals.
 24. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
 All Algorithms implemented in Python
-25. [**dotnet/samples**](https://github.com/dotnet/samples)
-Sample code and snippets used in the .NET documentation
+25. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
+💯 Materials to help you rock your next coding interview
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
