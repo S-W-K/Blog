@@ -934,7 +934,7 @@ mermaid:
 
 # Use velocity to animate everything.
 motion:
-  enable: true
+  enable: false
   async: false
   transition:
     # Transition variants:
@@ -972,7 +972,7 @@ three:
 # Canvas-nest
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest
 canvas_nest:
-  enable: true
+  enable: false
   onmobile: false # display on mobile or not
   color: "96,96,96" # RGB values, use `,` to separate
   opacity: 0.7 # the opacity of line: 0~1
