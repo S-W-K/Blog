@@ -11,108 +11,108 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
-A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-2. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+1. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
 Collection of 8000+ publicly available IPTV channels from all over the world
-3. [**xamarin/Xamarin.Forms**](https://github.com/xamarin/Xamarin.Forms)
-Xamarin.Forms Official Home
-4. [**getify/You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS)
+2. [**eclipse-theia/theia**](https://github.com/eclipse-theia/theia)
+Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+3. [**cloudhead/rx**](https://github.com/cloudhead/rx)
+Modern pixel editor implemented in rust
+4. [**catchorg/Catch2**](https://github.com/catchorg/Catch2)
+A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+5. [**pandas-dev/pandas**](https://github.com/pandas-dev/pandas)
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+6. [**linkerd/linkerd2**](https://github.com/linkerd/linkerd2)
+A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
+7. [**dylanaraps/pfetch**](https://github.com/dylanaraps/pfetch)
+🐧 A pretty system information tool written in POSIX sh.
+8. [**tensorflow/docs**](https://github.com/tensorflow/docs)
+TensorFlow documentation
+9. [**getify/You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS)
 A book series on JavaScript. @YDKJS on twitter.
-5. [**MunGell/awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners)
-A list of awesome beginners-friendly projects.
-6. [**ansible/ansible**](https://github.com/ansible/ansible)
-Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
-7. [**svip-lab/impersonator**](https://github.com/svip-lab/impersonator)
-PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
-8. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
-My Python Examples
-9. [**metabase/metabase**](https://github.com/metabase/metabase)
-The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
-10. [**elastic/elasticsearch-net**](https://github.com/elastic/elasticsearch-net)
-Elasticsearch.Net & NEST
-11. [**axi0mX/ipwndfu**](https://github.com/axi0mX/ipwndfu)
-open-source jailbreaking tool for many iOS devices
-12. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
-A sandbox tower defense game
-13. [**mm0r1/exploits**](https://github.com/mm0r1/exploits)
-Pwn stuff.
-14. [**thestr4ng3r/chiaki**](https://github.com/thestr4ng3r/chiaki)
-Free and Open Source PS4 Remote Play Client
-15. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-16. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+10. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+11. [**tensorflow/tensorflow**](https://github.com/tensorflow/tensorflow)
+An Open Source Machine Learning Framework for Everyone
+12. [**react-bootstrap/react-bootstrap**](https://github.com/react-bootstrap/react-bootstrap)
+Bootstrap components built with React
+13. [**yashasvigirdhar/Interview-Preparation**](https://github.com/yashasvigirdhar/Interview-Preparation)
+Interview Preparation material for Senior Software Engineer - Android role
+14. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 Cheat Sheets
-17. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful mobile apps.
-18. [**CyberMonitor/APT_CyberCriminal_Campagin_Collections**](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
-APT & CyberCriminal Campaign Collection
-19. [**r-argentina-programa/introduccion-a-js**](https://github.com/r-argentina-programa/introduccion-a-js)
-No repo_description
-20. [**nvbn/thefuck**](https://github.com/nvbn/thefuck)
-Magnificent app which corrects your previous console command.
-21. [**ocornut/imgui**](https://github.com/ocornut/imgui)
-Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-22. [**unisonweb/unison**](https://github.com/unisonweb/unison)
-Next generation programming language, currently in development
-23. [**OWASP/CheatSheetSeries**](https://github.com/OWASP/CheatSheetSeries)
-The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-24. [**jung-kurt/gofpdf**](https://github.com/jung-kurt/gofpdf)
-A PDF document generator with high level support for text, drawing and images
-25. [**Azure/azure-quickstart-templates**](https://github.com/Azure/azure-quickstart-templates)
-Azure Quickstart Templates
+15. [**kgrzybek/modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd)
+Full Modular Monolith application with Domain-Driven Design approach.
+16. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
+🏡 Open source home automation that puts local control and privacy first
+17. [**cenkalti/rain**](https://github.com/cenkalti/rain)
+🌧 BitTorrent client and library in Go
+18. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
+End to end backend server for frontend and mobile developers. 👩‍💻👨‍💻
+19. [**brittanyrw/emojibops**](https://github.com/brittanyrw/emojibops)
+EmojiBops is a listing of songs depicted through emojis.
+20. [**sherifabdlnaby/elastdocker**](https://github.com/sherifabdlnaby/elastdocker)
+🐳 Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics Exporters.
+21. [**prettier/prettier**](https://github.com/prettier/prettier)
+Prettier is an opinionated code formatter.
+22. [**ProjectAnte/dnsgen**](https://github.com/ProjectAnte/dnsgen)
+Generates combination of domain names from the provided input.
+23. [**svip-lab/impersonator**](https://github.com/svip-lab/impersonator)
+PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
+24. [**crweiner/hacktoberfest-swag-list**](https://github.com/crweiner/hacktoberfest-swag-list)
+Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
+25. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+A sandbox tower defense game
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**microsoft/c9-python-getting-started**](https://github.com/microsoft/c9-python-getting-started)
-Sample code for Channel 9 Python for Beginners course
-2. [**denisidoro/navi**](https://github.com/denisidoro/navi)
-An interactive cheatsheet tool for the command-line
-3. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
+1. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
 My Python Examples
-4. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
-completely free for everyone. Its build-in Flutter Dart.
-5. [**lenve/vhr**](https://github.com/lenve/vhr)
-微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-6. [**ton-blockchain/ton**](https://github.com/ton-blockchain/ton)
-No repo_description
-7. [**nim-lang/Nim**](https://github.com/nim-lang/Nim)
-Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
-8. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+2. [**microsoft/c9-python-getting-started**](https://github.com/microsoft/c9-python-getting-started)
+Sample code for Channel 9 Python for Beginners course
+3. [**denisidoro/navi**](https://github.com/denisidoro/navi)
+An interactive cheatsheet tool for the command-line
+4. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
+5. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+6. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+A sandbox tower defense game
+7. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
 A platform for building proxies to bypass network restrictions.
-9. [**macrozheng/mall-learning**](https://github.com/macrozheng/mall-learning)
-mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。
+8. [**halo-dev/halo**](https://github.com/halo-dev/halo)
+✍ Halo 一款现代化的个人独立博客系统
+9. [**nlohmann/json**](https://github.com/nlohmann/json)
+JSON for Modern C++
 10. [**Avik-Jain/100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 100 Days of ML Coding
-11. [**halo-dev/halo**](https://github.com/halo-dev/halo)
-✍ Halo 一款现代化的个人独立博客系统
-12. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
+11. [**nushell/nushell**](https://github.com/nushell/nushell)
+A modern shell written in Rust
+12. [**nim-lang/Nim**](https://github.com/nim-lang/Nim)
+Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
+13. [**ton-blockchain/ton**](https://github.com/ton-blockchain/ton)
+No repo_description
+14. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+Collection of 8000+ publicly available IPTV channels from all over the world
+15. [**macrozheng/mall-learning**](https://github.com/macrozheng/mall-learning)
+mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。
+16. [**fengdu78/Coursera-ML-AndrewNg-Notes**](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+吴恩达老师的机器学习课程个人笔记
+17. [**jesseduffield/lazydocker**](https://github.com/jesseduffield/lazydocker)
+The lazier way to manage everything docker
+18. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
 spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
-13. [**openlayers/openlayers**](https://github.com/openlayers/openlayers)
+19. [**openlayers/openlayers**](https://github.com/openlayers/openlayers)
 OpenLayers
-14. [**dgraph-io/ristretto**](https://github.com/dgraph-io/ristretto)
-A high performance memory-bound Go cache
-15. [**plasma-umass/coz**](https://github.com/plasma-umass/coz)
-Coz: Causal Profiling
-16. [**lenve/VBlog**](https://github.com/lenve/VBlog)
+20. [**lenve/VBlog**](https://github.com/lenve/VBlog)
 V部落，Vue+SpringBoot实现的多用户博客管理平台!
-17. [**alibaba/AliOS-Things**](https://github.com/alibaba/AliOS-Things)
-AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.0.0. Please go to https://aliosthings.iot.aliyun.com to get your minimal code.
-18. [**Tencent/TencentOS-tiny**](https://github.com/Tencent/TencentOS-tiny)
-腾讯物联网终端操作系统
-19. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
-A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-20. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
-A sandbox tower defense game
-21. [**nlohmann/json**](https://github.com/nlohmann/json)
-JSON for Modern C++
-22. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
-前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
-23. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
-✅ The largest Node.js best practices list (September 2019)
-24. [**astooke/rlpyt**](https://github.com/astooke/rlpyt)
+21. [**lenve/vhr**](https://github.com/lenve/vhr)
+微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+22. [**astooke/rlpyt**](https://github.com/astooke/rlpyt)
 Reinforcement Learning in PyTorch
-25. [**openai/multi-agent-emergence-environments**](https://github.com/openai/multi-agent-emergence-environments)
-Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
+23. [**go-kit/kit**](https://github.com/go-kit/kit)
+A standard library for microservices.
+24. [**vnpy/vnpy**](https://github.com/vnpy/vnpy)
+基于Python的开源量化交易平台开发框架
+25. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+completely free for everyone. Its build-in Flutter Dart.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible)
@@ -121,72 +121,72 @@ Environment generation code for the paper "Emergent Tool Use From Multi-Agent Au
 Open Machine Learning Course
 3. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
 A platform for building proxies to bypass network restrictions.
-4. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
-DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+4. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
 5. [**elunez/eladmin**](https://github.com/elunez/eladmin)
 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-6. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
-前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...
-7. [**deepfakes/faceswap**](https://github.com/deepfakes/faceswap)
-Deepfakes Software For All
-8. [**apache/incubator-dolphinscheduler**](https://github.com/apache/incubator-dolphinscheduler)
+6. [**apache/incubator-dolphinscheduler**](https://github.com/apache/incubator-dolphinscheduler)
 Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.
-9. [**GavinZhuLei/vue-form-making**](https://github.com/GavinZhuLei/vue-form-making)
-基于Vue的表单设计器，让表单开发简单而高效。
-10. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
-spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
-11. [**d2l-ai/d2l-zh**](https://github.com/d2l-ai/d2l-zh)
-《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
-12. [**instagrambot/instabot**](https://github.com/instagrambot/instabot)
-🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
-13. [**inorichi/tachiyomi**](https://github.com/inorichi/tachiyomi)
-Free and open source manga reader for Android
-14. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
+7. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
 All Algorithms implemented in Python
-15. [**dotnet/samples**](https://github.com/dotnet/samples)
-Sample code and snippets used in the .NET documentation
-16. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
-Spring源码阅读
-17. [**shadowsocks/shadowsocks**](https://github.com/shadowsocks/shadowsocks)
-No repo_description
-18. [**haotian-wang/google-access-helper**](https://github.com/haotian-wang/google-access-helper)
-谷歌访问助手破解版
-19. [**containous/traefik**](https://github.com/containous/traefik)
-The Cloud Native Edge Router
-20. [**tonsky/FiraCode**](https://github.com/tonsky/FiraCode)
-Monospaced font with programming ligatures
-21. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
-Next Generation of ShadowsocksX
-22. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
+8. [**d2l-ai/d2l-zh**](https://github.com/d2l-ai/d2l-zh)
+《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
+9. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
+spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
+10. [**instagrambot/instabot**](https://github.com/instagrambot/instabot)
+🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
+11. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
 My Python Examples
-23. [**laravel/laravel**](https://github.com/laravel/laravel)
-A PHP framework for web artisans
+12. [**GavinZhuLei/vue-form-making**](https://github.com/GavinZhuLei/vue-form-making)
+基于Vue的表单设计器，让表单开发简单而高效。
+13. [**cmiscm/leonsans**](https://github.com/cmiscm/leonsans)
+Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
+14. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
+Spring源码阅读
+15. [**shadowsocks/shadowsocks**](https://github.com/shadowsocks/shadowsocks)
+No repo_description
+16. [**microsoft/ai-edu**](https://github.com/microsoft/ai-edu)
+AI education materials for Chinese students, teachers and IT professionals.
+17. [**haotian-wang/google-access-helper**](https://github.com/haotian-wang/google-access-helper)
+谷歌访问助手破解版
+18. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
+Next Generation of ShadowsocksX
+19. [**dotnet/samples**](https://github.com/dotnet/samples)
+Sample code and snippets used in the .NET documentation
+20. [**containous/traefik**](https://github.com/containous/traefik)
+The Cloud Native Edge Router
+21. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+22. [**tonsky/FiraCode**](https://github.com/tonsky/FiraCode)
+Monospaced font with programming ligatures
+23. [**qunarcorp/bistoury**](https://github.com/qunarcorp/bistoury)
+Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
 24. [**actions/toolkit**](https://github.com/actions/toolkit)
 The GitHub ToolKit for developing GitHub Actions.
-25. [**microsoft/ai-edu**](https://github.com/microsoft/ai-edu)
-AI education materials for Chinese students, teachers and IT professionals.
+25. [**inorichi/tachiyomi**](https://github.com/inorichi/tachiyomi)
+Free and open source manga reader for Android
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
 1. [**What Really Happens When You Become an Overnight Millionaire?**](https://marker.medium.com/what-really-happens-when-you-become-an-overnight-millionaire-acac42990175?source=topic_page---------------------------20)
 
-2. [**The Most Important Skill in the 21st Century**](https://medium.com/personal-growth/the-most-important-skill-in-the-21st-century-773ef4c5298c?source=topic_page---------0------------------1)
+2. [**Africa Is Building an A.I. Industry That Doesn’t Look Like Silicon Valley**](https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d?source=topic_page---------0------------------1)
 
-3. [**UX has pretty bad UX.**](https://uxdesign.cc/ux-has-pretty-bad-ux-fd2702e5c22a?source=topic_page---------1------------------1)
+3. [**Stop Choosing to Be Less Than You Are**](https://humanparts.medium.com/why-youre-addicted-to-being-an-inferior-version-of-yourself-d24c1e64e691?source=topic_page---------1------------------1)
 
-4. [**Tuna Noodle Casserole: It Only *Sounds* Disgusting**](https://heated.medium.com/tuna-noodle-casserole-it-only-sounds-disgusting-d82f7c262f9d?source=topic_page---------2------------------1)
+4. [**Town Shocked After Woman Finds A Shopping Cart That Had Four Working Wheels**](https://medium.com/happy-space-cats/town-shocked-after-woman-finds-a-shopping-cart-that-had-four-working-wheels-8a4320da569b?source=topic_page---------2------------------1)
 
-5. [**I created the exact same app in React and Vue. Here are the differences. [2019 Edition]**](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56?source=topic_page---------4------------------1)
+5. [**The Most Important Skill in the 21st Century**](https://medium.com/personal-growth/the-most-important-skill-in-the-21st-century-773ef4c5298c?source=topic_page---------4------------------1)
 
-6. [**We are Living in “The Era of Python”**](https://towardsdatascience.com/we-are-living-in-the-era-of-python-bc032d595f6a?source=topic_page---------5------------------1)
+6. [**UX has pretty bad UX.**](https://uxdesign.cc/ux-has-pretty-bad-ux-fd2702e5c22a?source=topic_page---------5------------------1)
 
-7. [**The Life-Changing Magic of Having ‘Enough’**](https://forge.medium.com/the-life-changing-magic-of-having-enough-38d78a5f6963?source=topic_page---------6------------------1)
+7. [**Tuna Noodle Casserole: It Only *Sounds* Disgusting**](https://heated.medium.com/tuna-noodle-casserole-it-only-sounds-disgusting-d82f7c262f9d?source=topic_page---------6------------------1)
 
-8. [**Sixty Years Ago She Refused to Stand for the Anthem**](https://zora.medium.com/sixty-years-ago-she-refused-to-stand-for-the-anthem-cf443b4e75c7?source=topic_page---------7------------------1)
+8. [**I created the exact same app in React and Vue. Here are the differences. [2019 Edition]**](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56?source=topic_page---------7------------------1)
 
-9. [**14 Questions to Ask Yourself Again and Again**](https://forge.medium.com/14-questions-to-ask-yourself-again-and-again-8e832d1394c1?source=topic_page---------8------------------1)
+9. [**We are Living in “The Era of Python”**](https://towardsdatascience.com/we-are-living-in-the-era-of-python-bc032d595f6a?source=topic_page---------8------------------1)
 
-10. [**The Danger in Fake Positivity and Spiritual Bypassing**](https://humanparts.medium.com/the-danger-in-fake-positivity-and-spiritual-bypassing-c202040b8dd3?source=topic_page---------9------------------1)
+10. [**The Life-Changing Magic of Having ‘Enough’**](https://forge.medium.com/the-life-changing-magic-of-having-enough-38d78a5f6963?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
