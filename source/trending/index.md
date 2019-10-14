@@ -13,106 +13,100 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab Daily -->
 1. [**facebookresearch/detectron2**](https://github.com/facebookresearch/detectron2)
 Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
-2. [**android/plaid**](https://github.com/android/plaid)
-An Android app which provides design news & inspiration as well as being an example of implementing material design.
-3. [**komeiji-satori/Dress**](https://github.com/komeiji-satori/Dress)
-好耶 是女装
-4. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
-深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-5. [**Tencent/Hardcoder**](https://github.com/Tencent/Hardcoder)
-Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
-6. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful mobile apps.
-7. [**jackfrued/Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
-Python - 100天从新手到大师
-8. [**PanJiaChen/vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin)
-🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
-9. [**angular/components**](https://github.com/angular/components)
-Component infrastructure and Material Design components for Angular
-10. [**macrozheng/mall**](https://github.com/macrozheng/mall)
-mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-11. [**micro/go-micro**](https://github.com/micro/go-micro)
-A Go microservices development framework
-12. [**palewire/nrol-39-logo**](https://github.com/palewire/nrol-39-logo)
-A vector PDF of the official mission logo of NROL-39
-13. [**hashicorp/vault**](https://github.com/hashicorp/vault)
-A tool for secrets management, encryption as a service, and privileged access management
-14. [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes)
-Production-Grade Container Scheduling and Management
-15. [**caffeine-overload/bandinchina**](https://github.com/caffeine-overload/bandinchina)
-Naming and shaming companies who kowtow to Chinese censorship requests
-16. [**fangzesheng/free-api**](https://github.com/fangzesheng/free-api)
-收集免费的接口服务,做一个api的搬运工
-17. [**kon9chunkit/GitHub-Chinese-Top-Charts**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-18. [**justjavac/awesome-wechat-weapp**](https://github.com/justjavac/awesome-wechat-weapp)
-微信小程序开发资源汇总 💯
-19. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
-2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-20. [**pytorch/pytorch**](https://github.com/pytorch/pytorch)
-Tensors and Dynamic neural networks in Python with strong GPU acceleration
-21. [**n8n-io/n8n**](https://github.com/n8n-io/n8n)
-Free node based Workflow Automation Tool. Easily automate tasks across different services.
-22. [**haizlin/fe-interview**](https://github.com/haizlin/fe-interview)
-前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-23. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
-😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
-24. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
+2. [**uber-go/guide**](https://github.com/uber-go/guide)
+The Uber Go Style Guide.
+3. [**MatthewPierson/1033-OTA-Downgrader**](https://github.com/MatthewPierson/1033-OTA-Downgrader)
+First ever tool to downgrade ANY iPhone 5s, ANY iPad Air and (almost any) iPad Mini 2 to 10.3.3 with OTA blobs + checkm8!
+4. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
 Serenity Operating System
-25. [**ant-design/ant-design**](https://github.com/ant-design/ant-design)
-🌈 A UI Design Language and React UI library
+5. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
+End to end backend server for frontend and mobile developers. 👩‍💻👨‍💻
+6. [**pytorch/pytorch**](https://github.com/pytorch/pytorch)
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+7. [**deeplearning-ai/machine-learning-yearning-cn**](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
+Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
+8. [**blaCCkHatHacEEkr/PENTESTING-BIBLE**](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+9. [**fangzesheng/free-api**](https://github.com/fangzesheng/free-api)
+收集免费的接口服务,做一个api的搬运工
+10. [**donnyyou/torchcv**](https://github.com/donnyyou/torchcv)
+A PyTorch-Based Framework for Deep Learning in Computer Vision
+11. [**ConnersHua/Profiles**](https://github.com/ConnersHua/Profiles)
+Clash、Kitsunebi、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
+12. [**macrozheng/mall**](https://github.com/macrozheng/mall)
+mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+13. [**InstantASP/plato**](https://github.com/InstantASP/plato)
+Plato is free, open source user community & customer support software built upon .NET Core.
+14. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
+🤓 Build your own (insert technology here)
+15. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+16. [**kdn251/interviews**](https://github.com/kdn251/interviews)
+Everything you need to know to get the job.
+17. [**opencv/opencv**](https://github.com/opencv/opencv)
+Open Source Computer Vision Library
+18. [**hmaverickadams/Beginner-Network-Pentesting**](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+Notes for Beginner Network Pentesting Course
+19. [**vlang/v**](https://github.com/vlang/v)
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
+20. [**3b1b/manim**](https://github.com/3b1b/manim)
+Animation engine for explanatory math videos
+21. [**discordjs/discord.js**](https://github.com/discordjs/discord.js)
+A powerful JavaScript library for interacting with the Discord API
+22. [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio)
+OBS Studio - Free and open source software for live streaming and screen recording
+23. [**algorithm004-04/algorithm004-04**](https://github.com/algorithm004-04/algorithm004-04)
+No repo_description
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
 No repo_description
 2. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
 A High-Quality Real Time Upscaler for Anime Video
-3. [**facebookincubator/ent**](https://github.com/facebookincubator/ent)
-An entity framework for Go
-4. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
+3. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-5. [**streamlit/streamlit**](https://github.com/streamlit/streamlit)
+4. [**facebookincubator/ent**](https://github.com/facebookincubator/ent)
+An entity framework for Go
+5. [**janoodleFTW/timy-messenger**](https://github.com/janoodleFTW/timy-messenger)
+Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
+6. [**streamlit/streamlit**](https://github.com/streamlit/streamlit)
 Streamlit — The fastest way to build custom ML tools
-6. [**komeiji-satori/Dress**](https://github.com/komeiji-satori/Dress)
-好耶 是女装
-7. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
-Collection of 8000+ publicly available IPTV channels from all over the world
+7. [**android/plaid**](https://github.com/android/plaid)
+An Android app which provides design news & inspiration as well as being an example of implementing material design.
 8. [**jackfrued/Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
 Python - 100天从新手到大师
-9. [**android/plaid**](https://github.com/android/plaid)
-An Android app which provides design news & inspiration as well as being an example of implementing material design.
-10. [**brightmart/albert_zh**](https://github.com/brightmart/albert_zh)
+9. [**brightmart/albert_zh**](https://github.com/brightmart/albert_zh)
 A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型
-11. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
-🏡 Open source home automation that puts local control and privacy first
-12. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
-深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-13. [**google/googletest**](https://github.com/google/googletest)
-Googletest - Google Testing and Mocking Framework
-14. [**3b1b/manim**](https://github.com/3b1b/manim)
-Animation engine for explanatory math videos
-15. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
-《统计学习方法》的代码实现
-16. [**ossu/computer-science**](https://github.com/ossu/computer-science)
+10. [**ossu/computer-science**](https://github.com/ossu/computer-science)
 🎓 Path to a free self-taught education in Computer Science!
-17. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+11. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
+深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+12. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-18. [**odoo/odoo**](https://github.com/odoo/odoo)
-Odoo. Open Source Apps To Grow Your Business.
-19. [**bailicangdu/vue2-elm**](https://github.com/bailicangdu/vue2-elm)
-基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-20. [**DrDonk/unlocker**](https://github.com/DrDonk/unlocker)
+13. [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra)
+Hydra is a framework for elegantly configuring complex applications
+14. [**DrDonk/unlocker**](https://github.com/DrDonk/unlocker)
 VMware Workstation macOS
-21. [**imhuay/Algorithm_Interview_Notes-Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+15. [**google/googletest**](https://github.com/google/googletest)
+Googletest - Google Testing and Mocking Framework
+16. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
+📚 Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计
+17. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+Collection of 8000+ publicly available IPTV channels from all over the world
+18. [**imhuay/Algorithm_Interview_Notes-Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
-22. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
-Cheat Sheets
-23. [**yuzu-emu/yuzu**](https://github.com/yuzu-emu/yuzu)
-Nintendo Switch Emulator
-24. [**apache/skywalking**](https://github.com/apache/skywalking)
-APM, Application Performance Monitoring System
-25. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
-Lean's OpenWrt source
+19. [**3b1b/manim**](https://github.com/3b1b/manim)
+Animation engine for explanatory math videos
+20. [**bailicangdu/vue2-elm**](https://github.com/bailicangdu/vue2-elm)
+基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+21. [**odoo/odoo**](https://github.com/odoo/odoo)
+Odoo. Open Source Apps To Grow Your Business.
+22. [**d2-projects/d2-admin**](https://github.com/d2-projects/d2-admin)
+🌈 An elegant dashboard
+23. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
+Serenity Operating System
+24. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
+🏡 Open source home automation that puts local control and privacy first
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible)
@@ -125,46 +119,46 @@ completely free for everyone. Its build-in Flutter Dart.
 All Algorithms implemented in Python
 5. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
 A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-6. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
-12306智能刷票，订票
-7. [**apache/incubator-dolphinscheduler**](https://github.com/apache/incubator-dolphinscheduler)
-Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.
+6. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
+A High-Quality Real Time Upscaler for Anime Video
+7. [**d2l-ai/d2l-zh**](https://github.com/d2l-ai/d2l-zh)
+《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
 8. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
 My Python Examples
-9. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
-A High-Quality Real Time Upscaler for Anime Video
-10. [**pjialin/py12306**](https://github.com/pjialin/py12306)
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-11. [**d2l-ai/d2l-zh**](https://github.com/d2l-ai/d2l-zh)
-《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
-12. [**ton-blockchain/ton**](https://github.com/ton-blockchain/ton)
+9. [**apache/incubator-dolphinscheduler**](https://github.com/apache/incubator-dolphinscheduler)
+Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.
+10. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
+12306智能刷票，订票
+11. [**ton-blockchain/ton**](https://github.com/ton-blockchain/ton)
 No repo_description
+12. [**pjialin/py12306**](https://github.com/pjialin/py12306)
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 13. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
 Next Generation of ShadowsocksX
 14. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
-15. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
-spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
-16. [**ardalis/CleanArchitecture**](https://github.com/ardalis/CleanArchitecture)
+15. [**ardalis/CleanArchitecture**](https://github.com/ardalis/CleanArchitecture)
 A starting point for Clean Architecture with ASP.NET Core
-17. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
+16. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
 🏡 Open source home automation that puts local control and privacy first
+17. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
+spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
 18. [**lenve/vhr**](https://github.com/lenve/vhr)
 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-19. [**viraptor/reverse-interview**](https://github.com/viraptor/reverse-interview)
-Questions to ask the company during your interview
+19. [**microsoft/ai-edu**](https://github.com/microsoft/ai-edu)
+AI education materials for Chinese students, teachers and IT professionals.
 20. [**shadowsocks/shadowsocks**](https://github.com/shadowsocks/shadowsocks)
 No repo_description
-21. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
-✅ The largest Node.js best practices list (September 2019)
-22. [**googlehosts/hosts**](https://github.com/googlehosts/hosts)
+21. [**googlehosts/hosts**](https://github.com/googlehosts/hosts)
 镜像：https://coding.net/u/scaffrey/p/hosts/git
-23. [**containous/traefik**](https://github.com/containous/traefik)
-The Cloud Native Edge Router
-24. [**neovim/neovim**](https://github.com/neovim/neovim)
+22. [**neovim/neovim**](https://github.com/neovim/neovim)
 Vim-fork focused on extensibility and usability
-25. [**android/plaid**](https://github.com/android/plaid)
+23. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
+✅ The largest Node.js best practices list (September 2019)
+24. [**android/plaid**](https://github.com/android/plaid)
 An Android app which provides design news & inspiration as well as being an example of implementing material design.
+25. [**containous/traefik**](https://github.com/containous/traefik)
+The Cloud Native Edge Router
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
