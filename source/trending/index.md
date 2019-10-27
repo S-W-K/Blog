@@ -11,158 +11,158 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**JesseKPhillips/USA-Constitution**](https://github.com/JesseKPhillips/USA-Constitution)
-A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
-2. [**polynote/polynote**](https://github.com/polynote/polynote)
-A better notebook for Scala (and more)
-3. [**Naotonosato/Blawn**](https://github.com/Naotonosato/Blawn)
-Pleasant Programming Language.
-4. [**neex/phuip-fpizdam**](https://github.com/neex/phuip-fpizdam)
-Exploit for CVE-2019-11043
-5. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-6. [**Raikia/UhOh365**](https://github.com/Raikia/UhOh365)
-A script that can see if an email address is valid in Office365 (user/email enumeration). This does not perform any login attempts, is unthrottled, and is incredibly useful for social engineering assessments to find which emails exist and which don't.
-7. [**apachecn/AiLearning**](https://github.com/apachecn/AiLearning)
-AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
-8. [**ruanyf/free-books**](https://github.com/ruanyf/free-books)
-互联网上的免费书籍
-9. [**cookieY/Yearning**](https://github.com/cookieY/Yearning)
-受欢迎的 Mysql sql审核平台
-10. [**google-research/google-research**](https://github.com/google-research/google-research)
+1. [**aholachek/mobile-first-animation**](https://github.com/aholachek/mobile-first-animation)
+Performant gesture-driven animation on the mobile web
+2. [**google-research/google-research**](https://github.com/google-research/google-research)
 Google AI Research
-11. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
-Pre-Built Vulnerable Environments Based on Docker-Compose
-12. [**cube-js/cube.js**](https://github.com/cube-js/cube.js)
+3. [**pubkey/rxdb**](https://github.com/pubkey/rxdb)
+💻 🔄 📱 A realtime Database for JavaScript Applications
+4. [**ethereum/go-ethereum**](https://github.com/ethereum/go-ethereum)
+Official Go implementation of the Ethereum protocol
+5. [**Genymobile/scrcpy**](https://github.com/Genymobile/scrcpy)
+Display and control your Android device
+6. [**Pierian-Data/Complete-Python-3-Bootcamp**](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+7. [**eriklindernoren/ML-From-Scratch**](https://github.com/eriklindernoren/ML-From-Scratch)
+Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+8. [**muhammederdem/credit-card-form**](https://github.com/muhammederdem/credit-card-form)
+Credit card form with smooth and sweet micro-interactions
+9. [**hoanhan101/ultimate-go**](https://github.com/hoanhan101/ultimate-go)
+Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →
+10. [**polynote/polynote**](https://github.com/polynote/polynote)
+A better notebook for Scala (and more)
+11. [**ruanyf/free-books**](https://github.com/ruanyf/free-books)
+互联网上的免费书籍
+12. [**algorithm004-01/algorithm004-01**](https://github.com/algorithm004-01/algorithm004-01)
+No repo_description
+13. [**godotengine/godot**](https://github.com/godotengine/godot)
+Godot Engine – Multi-platform 2D and 3D game engine
+14. [**bitcoin/bitcoin**](https://github.com/bitcoin/bitcoin)
+Bitcoin Core integration/staging tree
+15. [**firecracker-microvm/firecracker**](https://github.com/firecracker-microvm/firecracker)
+Secure and fast microVMs for serverless computing.
+16. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+Cheat Sheets
+17. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
+All Algorithms implemented in Python
+18. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
+My Python Examples
+19. [**microsoft/terminal**](https://github.com/microsoft/terminal)
+The new Windows Terminal, and the original Windows console host - all in the same place!
+20. [**neex/phuip-fpizdam**](https://github.com/neex/phuip-fpizdam)
+Exploit for CVE-2019-11043
+21. [**cube-js/cube.js**](https://github.com/cube-js/cube.js)
 📊 Cube.js - Open Source Analytics Framework
-13. [**rajasekarv/native_spark**](https://github.com/rajasekarv/native_spark)
-A new arguably faster implementation of Apache Spark from scratch in Rust
-14. [**elastic/logstash**](https://github.com/elastic/logstash)
-Logstash - transport and process your logs, events, or other data
-15. [**knrt10/kubernetes-basicLearning**](https://github.com/knrt10/kubernetes-basicLearning)
-Understand kubernetes step by step. A simple repo for beginners 🔥
-16. [**moby/moby**](https://github.com/moby/moby)
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-17. [**miriamxyra/EventList**](https://github.com/miriamxyra/EventList)
-EventList
-18. [**StreisandEffect/streisand**](https://github.com/StreisandEffect/streisand)
-Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-19. [**facebook/react**](https://github.com/facebook/react)
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
-20. [**trimstray/nginx-admins-handbook**](https://github.com/trimstray/nginx-admins-handbook)
-How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
-21. [**adl1995/trip-planner**](https://github.com/adl1995/trip-planner)
-A CLI tool for planning trip itinerary.
-22. [**alibaba/easyexcel**](https://github.com/alibaba/easyexcel)
-快速、简单避免OOM的java处理Excel工具
-23. [**catchorg/Catch2**](https://github.com/catchorg/Catch2)
-A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-24. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
-A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-25. [**noahlevenson/stealing-ur-feelings**](https://github.com/noahlevenson/stealing-ur-feelings)
-Winner of Mozilla's $50,000 award for art and advocacy exploring AI
+22. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
+Command-line program to download videos from YouTube.com and other video sites
+23. [**brunosimon/folio-2019**](https://github.com/brunosimon/folio-2019)
+No repo_description
+24. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+Collection of 8000+ publicly available IPTV channels from all over the world
+25. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**dapr/dapr**](https://github.com/dapr/dapr)
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+1. [**2227324689/gpmall**](https://github.com/2227324689/gpmall)
+【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
 2. [**vlang/v**](https://github.com/vlang/v)
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
-3. [**2227324689/gpmall**](https://github.com/2227324689/gpmall)
-【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
-4. [**oam-dev/rudr**](https://github.com/oam-dev/rudr)
+3. [**dapr/dapr**](https://github.com/dapr/dapr)
+Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+4. [**google-research/google-research**](https://github.com/google-research/google-research)
+Google AI Research
+5. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
+Pre-Built Vulnerable Environments Based on Docker-Compose
+6. [**llvm/llvm-project**](https://github.com/llvm/llvm-project)
+The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+7. [**oam-dev/rudr**](https://github.com/oam-dev/rudr)
 A Kubernetes implementation of the Open Application Model specification
-5. [**freeCodeCamp/chapter**](https://github.com/freeCodeCamp/chapter)
-A self-hosted event management tool for nonprofits
-6. [**taniarascia/takenote**](https://github.com/taniarascia/takenote)
-📝 A web-based note-taking app with GitHub sync and Markdown support.
-7. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 8. [**trailofbits/algo**](https://github.com/trailofbits/algo)
 Set up a personal VPN in the cloud
-9. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
-Pre-Built Vulnerable Environments Based on Docker-Compose
-10. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
-Lean's OpenWrt source
-11. [**pingcap/tidb**](https://github.com/pingcap/tidb)
-TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-12. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
-13. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google AI Research
-14. [**alibaba/p3c**](https://github.com/alibaba/p3c)
+9. [**alibaba/p3c**](https://github.com/alibaba/p3c)
 Alibaba Java Coding Guidelines pmd implements and IDE plugin
-15. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-16. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
-completely free for everyone. Its build-in Flutter Dart.
-17. [**evilsocket/pwnagotchi**](https://github.com/evilsocket/pwnagotchi)
-(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-18. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
-📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-19. [**abpframework/abp**](https://github.com/abpframework/abp)
-Open Source Web Application Framework for ASP.NET Core
-20. [**oam-dev/spec**](https://github.com/oam-dev/spec)
-The Open Application Model specification
-21. [**android/views-widgets-samples**](https://github.com/android/views-widgets-samples)
+10. [**pingcap/tidb**](https://github.com/pingcap/tidb)
+TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+11. [**kgrzybek/modular-monolith-with-ddd**](https://github.com/kgrzybek/modular-monolith-with-ddd)
+Full Modular Monolith application with Domain-Driven Design approach.
+12. [**android/views-widgets-samples**](https://github.com/android/views-widgets-samples)
 Multiple samples showing the best practices in views-widgets on Android.
-22. [**Koenkk/zigbee2mqtt**](https://github.com/Koenkk/zigbee2mqtt)
+13. [**GoogleChrome/puppeteer**](https://github.com/GoogleChrome/puppeteer)
+Headless Chrome Node.js API
+14. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
+All Algorithms implemented in Java
+15. [**evilsocket/pwnagotchi**](https://github.com/evilsocket/pwnagotchi)
+(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+16. [**Koenkk/zigbee2mqtt**](https://github.com/Koenkk/zigbee2mqtt)
 Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-23. [**facebook/docusaurus**](https://github.com/facebook/docusaurus)
+17. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+18. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
+Lean's OpenWrt source
+19. [**facebook/docusaurus**](https://github.com/facebook/docusaurus)
 Easy to maintain open source documentation websites.
-24. [**alibaba/spring-cloud-alibaba**](https://github.com/alibaba/spring-cloud-alibaba)
-Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
-25. [**nvbn/thefuck**](https://github.com/nvbn/thefuck)
-Magnificent app which corrects your previous console command.
+20. [**freeCodeCamp/chapter**](https://github.com/freeCodeCamp/chapter)
+A self-hosted event management tool for nonprofits
+21. [**alibaba/Sentinel**](https://github.com/alibaba/Sentinel)
+A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)
+22. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
+Spring Framework
+23. [**zergtant/pytorch-handbook**](https://github.com/zergtant/pytorch-handbook)
+pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+24. [**apache/incubator-echarts**](https://github.com/apache/incubator-echarts)
+A powerful, interactive charting and visualization library for browser
+25. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
+A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
 Collection of 8000+ publicly available IPTV channels from all over the world
 2. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
 A High-Quality Real Time Upscaler for Anime Video
-3. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
-My Python Examples
+3. [**axi0mX/ipwndfu**](https://github.com/axi0mX/ipwndfu)
+open-source jailbreaking tool for many iOS devices
 4. [**vlang/v**](https://github.com/vlang/v)
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
-5. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
+5. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
+My Python Examples
+6. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
 All Algorithms implemented in Java
-6. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
-completely free for everyone. Its build-in Flutter Dart.
 7. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
 🏡 Open source home automation that puts local control and privacy first
 8. [**robbyrussell/oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh)
 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-9. [**huggingface/transformers**](https://github.com/huggingface/transformers)
-🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-10. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-11. [**gatsbyjs/gatsby**](https://github.com/gatsbyjs/gatsby)
+9. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+completely free for everyone. Its build-in Flutter Dart.
+10. [**gatsbyjs/gatsby**](https://github.com/gatsbyjs/gatsby)
 Build blazing fast, modern apps and websites with React
-12. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
-No repo_description
-13. [**odoo/odoo**](https://github.com/odoo/odoo)
-Odoo. Open Source Apps To Grow Your Business.
-14. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
-📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-15. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
-A platform for building proxies to bypass network restrictions.
-16. [**elunez/eladmin**](https://github.com/elunez/eladmin)
-项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-17. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+11. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+12. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
-18. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
+13. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
+📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+14. [**huggingface/transformers**](https://github.com/huggingface/transformers)
+🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+15. [**odoo/odoo**](https://github.com/odoo/odoo)
+Odoo. Open Source Apps To Grow Your Business.
+16. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
+No repo_description
+17. [**nvbn/thefuck**](https://github.com/nvbn/thefuck)
+Magnificent app which corrects your previous console command.
+18. [**microsoft/vscode**](https://github.com/microsoft/vscode)
+Visual Studio Code
+19. [**elunez/eladmin**](https://github.com/elunez/eladmin)
+项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+20. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+A platform for building proxies to bypass network restrictions.
+21. [**OWASP/CheatSheetSeries**](https://github.com/OWASP/CheatSheetSeries)
+The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+22. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+23. [**paascloud/paascloud-master**](https://github.com/paascloud/paascloud-master)
 spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
-19. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
+24. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
 A Magic Mask to Alter Android System Systemless-ly
-20. [**microsoft/c9-python-getting-started**](https://github.com/microsoft/c9-python-getting-started)
-Sample code for Channel 9 Python for Beginners course
-21. [**scikit-learn/scikit-learn**](https://github.com/scikit-learn/scikit-learn)
-scikit-learn: machine learning in Python
-22. [**fengdu78/Coursera-ML-AndrewNg-Notes**](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-吴恩达老师的机器学习课程个人笔记
-23. [**lenve/vhr**](https://github.com/lenve/vhr)
-微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-24. [**ShusenTang/Dive-into-DL-PyTorch**](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
