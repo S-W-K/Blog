@@ -11,56 +11,56 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**zeit/swr**](https://github.com/zeit/swr)
-React Hooks library for remote data fetching
+1. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+Windows system utilities to maximize productivity
 2. [**iGhibli/iOS-DeviceSupport**](https://github.com/iGhibli/iOS-DeviceSupport)
 This repository holds the device support files for the iOS, and I will update it regularly.
-3. [**sinclairzx81/zero**](https://github.com/sinclairzx81/zero)
-3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.
-4. [**symfony/symfony**](https://github.com/symfony/symfony)
-The Symfony PHP framework
-5. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
-Windows system utilities to maximize productivity
-6. [**kmario23/deep-learning-drizzle**](https://github.com/kmario23/deep-learning-drizzle)
-Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
-7. [**eth0izzle/shhgit**](https://github.com/eth0izzle/shhgit)
-Ah shhgit! Find GitHub secrets in real time
-8. [**ExistentialAudio/BlackHole**](https://github.com/ExistentialAudio/BlackHole)
-BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
-9. [**protocolbuffers/protobuf**](https://github.com/protocolbuffers/protobuf)
-Protocol Buffers - Google's data interchange format
-10. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
-This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-11. [**dgkanatsios/CKAD-exercises**](https://github.com/dgkanatsios/CKAD-exercises)
-A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
-12. [**airuikun/smart-tracker**](https://github.com/airuikun/smart-tracker)
-smart-tracker简易型前端无痕埋点
-13. [**ruanyf/free-books**](https://github.com/ruanyf/free-books)
-互联网上的免费书籍
-14. [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub)
+3. [**tamarott/SinGAN**](https://github.com/tamarott/SinGAN)
+Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
+4. [**dotnet/orleans**](https://github.com/dotnet/orleans)
+Orleans is a cross-platform framework for building distributed applications with .NET
+5. [**notepad-plus-plus/notepad-plus-plus**](https://github.com/notepad-plus-plus/notepad-plus-plus)
+Notepad++ official repository
+6. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+Collection of 8000+ publicly available IPTV channels from all over the world
+7. [**fmtlib/fmt**](https://github.com/fmtlib/fmt)
+A modern formatting library
+8. [**zeit/swr**](https://github.com/zeit/swr)
+React Hooks library for remote data fetching
+9. [**timqian/chinese-independent-blogs**](https://github.com/timqian/chinese-independent-blogs)
+中文独立博客列表
+10. [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub)
 Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
-15. [**KubeOperator/KubeOperator**](https://github.com/KubeOperator/KubeOperator)
-KubeOperator 是一个开源项目，通过 Web UI 在 VMware、OpenStack、物理机上一键部署和管理生产级别的 Kubernetes 集群。
-16. [**ibrahimsn98/SmoothBottomBar**](https://github.com/ibrahimsn98/SmoothBottomBar)
-A lightweight Android material bottom navigation bar library
-17. [**awslabs/git-secrets**](https://github.com/awslabs/git-secrets)
-Prevents you from committing secrets and credentials into git repositories
-18. [**hoanhan101/ultimate-go**](https://github.com/hoanhan101/ultimate-go)
-Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →
-19. [**googleprojectzero/ktrw**](https://github.com/googleprojectzero/ktrw)
-An iOS kernel debugger based on a KTRR bypass for A11 iPhones that works with LLDB.
-20. [**sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress)
-Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-21. [**android/sunflower**](https://github.com/android/sunflower)
-A gardening app illustrating Android development best practices with Android Jetpack.
-22. [**cmiscm/leonsans**](https://github.com/cmiscm/leonsans)
-Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-23. [**facebookresearch/SlowFast**](https://github.com/facebookresearch/SlowFast)
-Present SlowFast networks for video recognition.
-24. [**cvxgrp/cvxpylayers**](https://github.com/cvxgrp/cvxpylayers)
-Differentiable convex optimization layers
-25. [**async-rs/async-std**](https://github.com/async-rs/async-std)
-Async version of the Rust standard library
+11. [**scottydocs/README-template.md**](https://github.com/scottydocs/README-template.md)
+A README template for anyone to copy and use.
+12. [**frank-lam/fullstack-tutorial**](https://github.com/frank-lam/fullstack-tutorial)
+🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+13. [**NetchX/Netch**](https://github.com/NetchX/Netch)
+Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray protocol. UDP NAT FullCone
+14. [**apache/incubator-apisix**](https://github.com/apache/incubator-apisix)
+Cloud-Native Microservices API Gateway
+15. [**plotly/dash**](https://github.com/plotly/dash)
+Analytical Web Apps for Python & R. No JavaScript Required.
+16. [**whitequark/unfork**](https://github.com/whitequark/unfork)
+unfork(2) is the inverse of fork(2). sort of.
+17. [**ruanyf/free-books**](https://github.com/ruanyf/free-books)
+互联网上的免费书籍
+18. [**GoAdminGroup/go-admin**](https://github.com/GoAdminGroup/go-admin)
+A dataviz framework help gopher to build a admin panel in ten minutes
+19. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+Cheat Sheets
+20. [**233boy/v2ray**](https://github.com/233boy/v2ray)
+最好用的 V2Ray 一键安装脚本 & 管理脚本
+21. [**iamseancheney/python_for_data_analysis_2nd_chinese_version**](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)
+《利用Python进行数据分析·第2版》
+22. [**Tikam02/DevOps-Guide**](https://github.com/Tikam02/DevOps-Guide)
+DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+23. [**mattdesl/workshop-webgl-glsl**](https://github.com/mattdesl/workshop-webgl-glsl)
+A workshop on WebGL and GLSL
+24. [**LiuBoyu/blockchain**](https://github.com/LiuBoyu/blockchain)
+区块链 - 中文资源
+25. [**google/googletest**](https://github.com/google/googletest)
+Googletest - Google Testing and Mocking Framework
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**pubkey/rxdb**](https://github.com/pubkey/rxdb)
@@ -166,25 +166,25 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
-1. [**How to Hack a Keurig — and Make Better Coffee at Home**](https://heated.medium.com/how-to-hack-a-keurig-and-make-better-coffee-at-home-87317f847edb?source=topic_page---------------------------20)
+1. [**Unraveling the Secret Origins of an AmazonBasics Battery**](https://onezero.medium.com/unraveling-the-secret-supply-chain-behind-an-amazonbasics-battery-e7b9ead4d72e?source=topic_page---------------------------20)
 
-2. [**It Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster**](https://medium.com/@miketoole/it-has-been-twenty-years-since-fabio-killed-a-goose-with-his-face-on-a-roller-coaster-a87d51285890?source=topic_page---------0------------------1)
+2. [**What Just Happened In Mexico? The Disaster of Culiacan**](https://medium.com/navigating-life/what-the-fuck-just-happened-in-mexico-b98eff2b340c?source=topic_page---------0------------------1)
 
-3. [**Some Women Are Using Weed to Have Better Sex**](https://elemental.medium.com/some-women-are-using-weed-to-have-better-sex-f6a2dd223109?source=topic_page---------1------------------1)
+3. [**Yes, I Am a Capitalist**](https://gen.medium.com/yes-i-am-a-capitalist-ca9d6d6c42f8?source=topic_page---------1------------------1)
 
-4. [**Three Common Bedtime Habits Destroying Your Sleep​**](https://elemental.medium.com/3-common-bedtime-habits-destroying-your-sleep-a4f5fe5e4c08?source=topic_page---------2------------------1)
+4. [**Microsoft Access: The Database Software That Won’t Die**](https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166?source=topic_page---------2------------------1)
 
-5. [**Writing Tips for Programmers**](https://medium.com/better-programming/writing-tips-for-programmers-151976874276?source=topic_page---------4------------------1)
+5. [**It Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster**](https://medium.com/@miketoole/it-has-been-twenty-years-since-fabio-killed-a-goose-with-his-face-on-a-roller-coaster-a87d51285890?source=topic_page---------4------------------1)
 
-6. [**This Is How to Age with Elegance**](https://medium.com/personal-growth/this-is-how-to-age-with-elegance-40350f24ba88?source=topic_page---------5------------------1)
+6. [**How to Hack a Keurig — and Make Better Coffee at Home**](https://heated.medium.com/how-to-hack-a-keurig-and-make-better-coffee-at-home-87317f847edb?source=topic_page---------5------------------1)
 
-7. [**Katie Hill Was Brought Down by the Same Forces That Enable Weinstein**](https://gen.medium.com/katie-hill-was-brought-down-by-the-same-forces-that-enable-weinstein-e46ea59d7493?source=topic_page---------6------------------1)
+7. [**Some Women Are Using Weed to Have Better Sex**](https://elemental.medium.com/some-women-are-using-weed-to-have-better-sex-f6a2dd223109?source=topic_page---------6------------------1)
 
-8. [**The Most Undervalued Standard Python Library**](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692?source=topic_page---------7------------------1)
+8. [**Three Common Bedtime Habits Destroying Your Sleep​**](https://elemental.medium.com/3-common-bedtime-habits-destroying-your-sleep-a4f5fe5e4c08?source=topic_page---------7------------------1)
 
-9. [**Is William Barr the Head of DOJ or QAnon?**](https://gen.medium.com/is-william-barr-the-head-of-doj-or-qanon-58d68fc3a31?source=topic_page---------8------------------1)
+9. [**Writing Tips for Programmers**](https://medium.com/better-programming/writing-tips-for-programmers-151976874276?source=topic_page---------8------------------1)
 
-10. [**Speaking Truth to Power: Reflections on a Career at Microsoft**](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36?source=topic_page---------9------------------1)
+10. [**This Is How to Age with Elegance**](https://medium.com/personal-growth/this-is-how-to-age-with-elegance-40350f24ba88?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
