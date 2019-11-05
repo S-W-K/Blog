@@ -65,66 +65,66 @@ qBittorrent BitTorrent client
 <!-- tab Weekly -->
 1. [**hoanhan101/ultimate-go**](https://github.com/hoanhan101/ultimate-go)
 Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →
-2. [**neex/phuip-fpizdam**](https://github.com/neex/phuip-fpizdam)
-Exploit for CVE-2019-11043
-3. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
-Windows system utilities to maximize productivity
-4. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google AI Research
-5. [**sinclairzx81/zero**](https://github.com/sinclairzx81/zero)
+2. [**sinclairzx81/zero**](https://github.com/sinclairzx81/zero)
 3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.
-6. [**hyb1996/Auto.js**](https://github.com/hyb1996/Auto.js)
+3. [**neex/phuip-fpizdam**](https://github.com/neex/phuip-fpizdam)
+Exploit for CVE-2019-11043
+4. [**hyb1996/Auto.js**](https://github.com/hyb1996/Auto.js)
 A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-7. [**iGhibli/iOS-DeviceSupport**](https://github.com/iGhibli/iOS-DeviceSupport)
+5. [**iGhibli/iOS-DeviceSupport**](https://github.com/iGhibli/iOS-DeviceSupport)
 This repository holds the device support files for the iOS, and I will update it regularly.
-8. [**apache/incubator-apisix**](https://github.com/apache/incubator-apisix)
-Cloud-Native Microservices API Gateway
-9. [**polynote/polynote**](https://github.com/polynote/polynote)
-A better notebook for Scala (and more)
-10. [**GoAdminGroup/go-admin**](https://github.com/GoAdminGroup/go-admin)
+6. [**google-research/google-research**](https://github.com/google-research/google-research)
+Google AI Research
+7. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+Windows system utilities to maximize productivity
+8. [**GoAdminGroup/go-admin**](https://github.com/GoAdminGroup/go-admin)
 A dataviz framework help gopher to build a admin panel in ten minutes
-11. [**wuyouzhuguli/SpringAll**](https://github.com/wuyouzhuguli/SpringAll)
-循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码
-12. [**modood/Administrative-divisions-of-China**](https://github.com/modood/Administrative-divisions-of-China)
-中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
-13. [**pubkey/rxdb**](https://github.com/pubkey/rxdb)
+9. [**brunosimon/folio-2019**](https://github.com/brunosimon/folio-2019)
+No repo_description
+10. [**apache/incubator-apisix**](https://github.com/apache/incubator-apisix)
+Cloud-Native Microservices API Gateway
+11. [**aholachek/mobile-first-animation**](https://github.com/aholachek/mobile-first-animation)
+Performant gesture-driven animation on the mobile web
+12. [**pubkey/rxdb**](https://github.com/pubkey/rxdb)
 💻 🔄 📱 A realtime Database for JavaScript Applications
-14. [**fengdu78/Data-Science-Notes**](https://github.com/fengdu78/Data-Science-Notes)
-数据科学的笔记以及资料搜集
-15. [**bokeh/bokeh**](https://github.com/bokeh/bokeh)
-Interactive Data Visualization in the browser, from Python
-16. [**hyperledger/fabric**](https://github.com/hyperledger/fabric)
-Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
-17. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
+13. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
 Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-18. [**valyala/fasthttp**](https://github.com/valyala/fasthttp)
+14. [**wuyouzhuguli/SpringAll**](https://github.com/wuyouzhuguli/SpringAll)
+循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码
+15. [**fengdu78/Data-Science-Notes**](https://github.com/fengdu78/Data-Science-Notes)
+数据科学的笔记以及资料搜集
+16. [**polynote/polynote**](https://github.com/polynote/polynote)
+A better notebook for Scala (and more)
+17. [**valyala/fasthttp**](https://github.com/valyala/fasthttp)
 Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-19. [**astaxie/build-web-application-with-golang**](https://github.com/astaxie/build-web-application-with-golang)
+18. [**astaxie/build-web-application-with-golang**](https://github.com/astaxie/build-web-application-with-golang)
 A golang ebook intro how to build a web with golang
-20. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
+19. [**hyperledger/fabric**](https://github.com/hyperledger/fabric)
+Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
+20. [**bokeh/bokeh**](https://github.com/bokeh/bokeh)
+Interactive Data Visualization in the browser, from Python
+21. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
 Pre-Built Vulnerable Environments Based on Docker-Compose
-21. [**Genymobile/scrcpy**](https://github.com/Genymobile/scrcpy)
-Display and control your Android device
-22. [**hankcs/HanLP**](https://github.com/hankcs/HanLP)
-自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
-23. [**sveltejs/svelte**](https://github.com/sveltejs/svelte)
-Cybernetically enhanced web apps
-24. [**Tencent/weui**](https://github.com/Tencent/weui)
-A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-25. [**umijs/qiankun**](https://github.com/umijs/qiankun)
-📦🚀Blazing fast, simple and completed solution for micro frontends.
+22. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
+No repo_description
+23. [**apache/incubator-echarts**](https://github.com/apache/incubator-echarts)
+A powerful, interactive charting and visualization library for browser
+24. [**bitcoinbook/bitcoinbook**](https://github.com/bitcoinbook/bitcoinbook)
+Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+25. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
+This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
 No repo_description
 2. [**bloc97/Anime4K**](https://github.com/bloc97/Anime4K)
 A High-Quality Real Time Upscaler for Anime Video
-3. [**streamlit/streamlit**](https://github.com/streamlit/streamlit)
-Streamlit — The fastest way to build custom ML tools
-4. [**evilsocket/pwnagotchi**](https://github.com/evilsocket/pwnagotchi)
+3. [**evilsocket/pwnagotchi**](https://github.com/evilsocket/pwnagotchi)
 (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
-5. [**brightmart/albert_zh**](https://github.com/brightmart/albert_zh)
+4. [**brightmart/albert_zh**](https://github.com/brightmart/albert_zh)
 A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型
+5. [**streamlit/streamlit**](https://github.com/streamlit/streamlit)
+Streamlit — The fastest way to build custom ML tools
 6. [**google-research/google-research**](https://github.com/google-research/google-research)
 Google AI Research
 7. [**vlang/v**](https://github.com/vlang/v)
@@ -135,10 +135,10 @@ All Algorithms implemented in Java
 Collection of 8000+ publicly available IPTV channels from all over the world
 10. [**robbyrussell/oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh)
 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-11. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
-A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-12. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
+11. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+12. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 13. [**llvm/llvm-project**](https://github.com/llvm/llvm-project)
 The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 14. [**jackfrued/Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
@@ -147,22 +147,22 @@ Python - 100天从新手到大师
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 16. [**pytorch/pytorch**](https://github.com/pytorch/pytorch)
 Tensors and Dynamic neural networks in Python with strong GPU acceleration
-17. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
-🏡 Open source home automation that puts local control and privacy first
-18. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
-No repo_description
-19. [**geekcomputers/Python**](https://github.com/geekcomputers/Python)
-My Python Examples
-20. [**ossu/computer-science**](https://github.com/ossu/computer-science)
-🎓 Path to a free self-taught education in Computer Science!
-21. [**macrozheng/mall**](https://github.com/macrozheng/mall)
+17. [**macrozheng/mall**](https://github.com/macrozheng/mall)
 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-22. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
+18. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-23. [**elunez/eladmin**](https://github.com/elunez/eladmin)
-项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-24. [**vuejs/vue**](https://github.com/vuejs/vue)
+19. [**vuejs/vue**](https://github.com/vuejs/vue)
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+20. [**elunez/eladmin**](https://github.com/elunez/eladmin)
+项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+21. [**sveltejs/svelte**](https://github.com/sveltejs/svelte)
+Cybernetically enhanced web apps
+22. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
+Lean's OpenWrt source
+23. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
+🏡 Open source home automation that puts local control and privacy first
+24. [**iGhibli/iOS-DeviceSupport**](https://github.com/iGhibli/iOS-DeviceSupport)
+This repository holds the device support files for the iOS, and I will update it regularly.
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
