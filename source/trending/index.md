@@ -11,54 +11,56 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**microsoft/vscode**](https://github.com/microsoft/vscode)
-Visual Studio Code
-2. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
+1. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
 Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-3. [**tootsuite/mastodon**](https://github.com/tootsuite/mastodon)
-Your self-hosted, globally interconnected microblogging community
-4. [**openai/gpt-2-output-dataset**](https://github.com/openai/gpt-2-output-dataset)
-Dataset of GPT-2 outputs for research in detection, biases, and more
-5. [**openai/gpt-2**](https://github.com/openai/gpt-2)
-Code for the paper "Language Models are Unsupervised Multitask Learners"
-6. [**fchollet/ARC**](https://github.com/fchollet/ARC)
-The Abstraction and Reasoning Corpus
-7. [**rajasekarv/native_spark**](https://github.com/rajasekarv/native_spark)
-A new arguably faster implementation of Apache Spark from scratch in Rust
-8. [**jobbole/awesome-programming-books**](https://github.com/jobbole/awesome-programming-books)
-经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-9. [**dsgiitr/d2l-pytorch**](https://github.com/dsgiitr/d2l-pytorch)
-This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
-10. [**microsoft/DialoGPT**](https://github.com/microsoft/DialoGPT)
-Large-scale pretraining for dialogue
-11. [**marktext/marktext**](https://github.com/marktext/marktext)
-📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-12. [**microsoft/react-native-windows**](https://github.com/microsoft/react-native-windows)
-A framework for building native Windows apps with React.
-13. [**apple/swift-numerics**](https://github.com/apple/swift-numerics)
+2. [**apple/swift-numerics**](https://github.com/apple/swift-numerics)
 Numerical APIs for Swift
-14. [**ansible/ansible**](https://github.com/ansible/ansible)
-Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
-15. [**huiyadanli/RevokeMsgPatcher**](https://github.com/huiyadanli/RevokeMsgPatcher)
-A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-16. [**ReactTraining/react-router**](https://github.com/ReactTraining/react-router)
-Declarative routing for React
-17. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
-📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
-18. [**helm/helm**](https://github.com/helm/helm)
-The Kubernetes Package Manager
-19. [**justjavac/free-programming-books-zh_CN**](https://github.com/justjavac/free-programming-books-zh_CN)
+3. [**microsoft/vscode**](https://github.com/microsoft/vscode)
+Visual Studio Code
+4. [**Pierian-Data/Complete-Python-3-Bootcamp**](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+5. [**AceLewis/my_first_calculator.py**](https://github.com/AceLewis/my_first_calculator.py)
+my_first_calculator.py
+6. [**jobbole/awesome-programming-books**](https://github.com/jobbole/awesome-programming-books)
+经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+7. [**justjavac/free-programming-books-zh_CN**](https://github.com/justjavac/free-programming-books-zh_CN)
 📚 免费的计算机编程类中文书籍，欢迎投稿
-20. [**didi/DoraemonKit**](https://github.com/didi/DoraemonKit)
-简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
-21. [**istio/istio**](https://github.com/istio/istio)
-Connect, secure, control, and observe services.
-22. [**quozd/awesome-dotnet**](https://github.com/quozd/awesome-dotnet)
-A collection of awesome .NET libraries, tools, frameworks and software
-23. [**eugenp/tutorials**](https://github.com/eugenp/tutorials)
-The "REST With Spring" Course:
-24. [**palash25/best-practices-checklist**](https://github.com/palash25/best-practices-checklist)
-A list of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more
+8. [**openai/gpt-2**](https://github.com/openai/gpt-2)
+Code for the paper "Language Models are Unsupervised Multitask Learners"
+9. [**lovasoa/bad_json_parsers**](https://github.com/lovasoa/bad_json_parsers)
+Exposing problems in json parsers of several programming languages.
+10. [**resilience4j/resilience4j**](https://github.com/resilience4j/resilience4j)
+Resilience4j is a fault tolerance library designed for Java8 and functional programming
+11. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp)
+The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+12. [**googlecreativelab/teachablemachine-community**](https://github.com/googlecreativelab/teachablemachine-community)
+Example code snippets and machine learning code for Teachable Machine
+13. [**hrt/WheelChair**](https://github.com/hrt/WheelChair)
+Become a cripple, use a WheelChair
+14. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
+✅ The largest Node.js best practices list (November 2019)
+15. [**xbresson/CE7454_2019**](https://github.com/xbresson/CE7454_2019)
+Deep learning course CE7454, 2019
+16. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
+👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
+17. [**Netflix/mantis**](https://github.com/Netflix/mantis)
+A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
+18. [**biancangming/wtv**](https://github.com/biancangming/wtv)
+解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
+19. [**chai2010/advanced-go-programming-book**](https://github.com/chai2010/advanced-go-programming-book)
+📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+20. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
+📚 Freely available programming books
+21. [**hmaverickadams/Beginner-Network-Pentesting**](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+Notes for Beginner Network Pentesting Course
+22. [**qmk/qmk_firmware**](https://github.com/qmk/qmk_firmware)
+Open-source keyboard firmware for Atmel AVR and Arm USB families
+23. [**tootsuite/mastodon**](https://github.com/tootsuite/mastodon)
+Your self-hosted, globally interconnected microblogging community
+24. [**koekeishiya/yabai**](https://github.com/koekeishiya/yabai)
+A tiling window manager for macOS based on binary space partitioning
+25. [**fchollet/ARC**](https://github.com/fchollet/ARC)
+The Abstraction and Reasoning Corpus
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**menzi11/BullshitGenerator**](https://github.com/menzi11/BullshitGenerator)
@@ -67,50 +69,50 @@ Needs to generate some texts to test if my GUI rendering codes good or not. so I
 Code for the paper "Language Models are Unsupervised Multitask Learners"
 3. [**sleepybear1113/taobaoVisitingVenues**](https://github.com/sleepybear1113/taobaoVisitingVenues)
 双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android
-4. [**marktext/marktext**](https://github.com/marktext/marktext)
-📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-5. [**hankcs/HanLP**](https://github.com/hankcs/HanLP)
-自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
-6. [**KhronosGroup/Vulkan-Samples**](https://github.com/KhronosGroup/Vulkan-Samples)
-One stop solution for all Vulkan samples
-7. [**hyb1996/Auto.js**](https://github.com/hyb1996/Auto.js)
-A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-8. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
+4. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
-9. [**fluttercandies/NeteaseCloudMusic**](https://github.com/fluttercandies/NeteaseCloudMusic)
+5. [**marktext/marktext**](https://github.com/marktext/marktext)
+📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+6. [**hyb1996/Auto.js**](https://github.com/hyb1996/Auto.js)
+A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+7. [**fluttercandies/NeteaseCloudMusic**](https://github.com/fluttercandies/NeteaseCloudMusic)
 Flutter - NeteaseCloudMusic Flutter 版本的网易云音乐
-10. [**microsoft/vscode**](https://github.com/microsoft/vscode)
+8. [**microsoft/vscode**](https://github.com/microsoft/vscode)
 Visual Studio Code
-11. [**GuoZhaoran/spikeSystem**](https://github.com/GuoZhaoran/spikeSystem)
+9. [**GuoZhaoran/spikeSystem**](https://github.com/GuoZhaoran/spikeSystem)
 No repo_description
-12. [**hyperledger/fabric**](https://github.com/hyperledger/fabric)
+10. [**hankcs/HanLP**](https://github.com/hankcs/HanLP)
+自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
+11. [**hyperledger/fabric**](https://github.com/hyperledger/fabric)
 Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
-13. [**modood/Administrative-divisions-of-China**](https://github.com/modood/Administrative-divisions-of-China)
-中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+12. [**MaximAbramchuck/awesome-interview-questions**](https://github.com/MaximAbramchuck/awesome-interview-questions)
+A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+13. [**KhronosGroup/Vulkan-Samples**](https://github.com/KhronosGroup/Vulkan-Samples)
+One stop solution for all Vulkan samples
 14. [**shenweichen/DeepCTR**](https://github.com/shenweichen/DeepCTR)
 Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
-15. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-16. [**tamarott/SinGAN**](https://github.com/tamarott/SinGAN)
-Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
-17. [**zeit/swr**](https://github.com/zeit/swr)
-React Hooks library for remote data fetching
-18. [**umijs/qiankun**](https://github.com/umijs/qiankun)
+15. [**umijs/qiankun**](https://github.com/umijs/qiankun)
 📦🚀Blazing fast, simple and completed solution for micro frontends.
-19. [**nushell/nushell**](https://github.com/nushell/nushell)
-A modern shell written in Rust
-20. [**hashicorp/consul**](https://github.com/hashicorp/consul)
+16. [**modood/Administrative-divisions-of-China**](https://github.com/modood/Administrative-divisions-of-China)
+中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+17. [**hashicorp/consul**](https://github.com/hashicorp/consul)
 Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-21. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
+18. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
 Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-22. [**ProtonMail/ios-mail**](https://github.com/ProtonMail/ios-mail)
+19. [**Binaryify/NeteaseCloudMusicApi**](https://github.com/Binaryify/NeteaseCloudMusicApi)
+网易云音乐 Node.js API service
+20. [**OUCMachineLearning/OUCML**](https://github.com/OUCMachineLearning/OUCML)
 No repo_description
+21. [**kubernetes/community**](https://github.com/kubernetes/community)
+Kubernetes community content
+22. [**tamarott/SinGAN**](https://github.com/tamarott/SinGAN)
+Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 23. [**cdr/code-server**](https://github.com/cdr/code-server)
 Run VS Code on a remote server.
-24. [**pandas-dev/pandas**](https://github.com/pandas-dev/pandas)
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-25. [**android/compose-samples**](https://github.com/android/compose-samples)
-No repo_description
+24. [**flutter/flutter**](https://github.com/flutter/flutter)
+Flutter makes it easy and fast to build beautiful mobile apps.
+25. [**jaredpalmer/formik**](https://github.com/jaredpalmer/formik)
+Build forms in React, without the tears 😭
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**facebookresearch/detectron2**](https://github.com/facebookresearch/detectron2)
@@ -164,25 +166,25 @@ TensorFlow code and pre-trained models for BERT
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
-1. [**EXCLUSIVE: This Is How the U.S. Military’s Massive Facial Recognition System Works**](https://onezero.medium.com/exclusive-this-is-how-the-u-s-militarys-massive-facial-recognition-system-works-bb764291b96d?source=topic_page---------------------------20)
+1. [**Apple Is Trying to Kill Web Technology**](https://onezero.medium.com/apple-is-trying-to-kill-web-technology-a274237c174d?source=topic_page---------------------------20)
 
-2. [**Marinated Sandwiches Like This One Are Some of the Most Beautiful You’ve Ever Seen**](https://heated.medium.com/marinated-sandwiches-like-this-one-are-some-of-the-most-beautiful-youve-ever-seen-40bdd367533a?source=topic_page---------0------------------1)
+2. [**Undercover in the Orthodox Underworld**](https://gen.medium.com/undercover-in-the-orthodox-underworld-83c61ba3aa83?source=topic_page---------0------------------1)
 
-3. [**Why Fasting Works**](https://heated.medium.com/why-fasting-works-7a14086e46de?source=topic_page---------1------------------1)
+3. [**Facebook Empowers Racism Against Its Employees of Color**](https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76?source=topic_page---------1------------------1)
 
-4. [**This Science Vigilante Calls Out Bogus Results in Prestigious Journals**](https://onezero.medium.com/this-science-vigilante-calls-out-bogus-results-in-prestigious-journals-eb5a414c7f76?source=topic_page---------2------------------1)
+4. [**It’s Not Enough to Be Right. You Also Have to Be Kind.**](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1?source=topic_page---------2------------------1)
 
-5. [**How to Quit Sugar Without Being Miserable**](https://medium.com/wake-up-call/how-to-quit-sugar-healthy-diet-tips-fc5aee5e8cd0?source=topic_page---------4------------------1)
+5. [**EXCLUSIVE: This Is How the U.S. Military’s Massive Facial Recognition System Works**](https://onezero.medium.com/exclusive-this-is-how-the-u-s-militarys-massive-facial-recognition-system-works-bb764291b96d?source=topic_page---------4------------------1)
 
-6. [**Monsta X: Being a K-pop Idol in the Age of Online Harassment**](https://medium.com/@info.matthewwatts/https-medium-com-monsta-x-being-a-k-pop-idol-in-the-age-of-online-harassment-ac0e77a16c58?source=topic_page---------5------------------1)
+6. [**Marinated Sandwiches Like This One Are Some of the Most Beautiful You’ve Ever Seen**](https://heated.medium.com/marinated-sandwiches-like-this-one-are-some-of-the-most-beautiful-youve-ever-seen-40bdd367533a?source=topic_page---------5------------------1)
 
-7. [**The Hater’s Guide to Mayor Pete**](https://gen.medium.com/the-haters-guide-to-mayor-pete-d383ebd94bb5?source=topic_page---------6------------------1)
+7. [**Why Fasting Works**](https://heated.medium.com/why-fasting-works-7a14086e46de?source=topic_page---------6------------------1)
 
-8. [**3 Foods You Should Throw Away Forever.**](https://blog.usejournal.com/3-foods-you-should-throw-away-forever-3eb7b5f38075?source=topic_page---------7------------------1)
+8. [**This Science Vigilante Calls Out Bogus Results in Prestigious Journals**](https://onezero.medium.com/this-science-vigilante-calls-out-bogus-results-in-prestigious-journals-eb5a414c7f76?source=topic_page---------7------------------1)
 
-9. [**I Have Fought for the Democratic Party My Whole Career**](https://medium.com/@JoeBiden/i-have-fought-for-the-democratic-party-my-whole-career-2ca4a2dac271?source=topic_page---------8------------------1)
+9. [**How to Quit Sugar Without Being Miserable**](https://medium.com/wake-up-call/how-to-quit-sugar-healthy-diet-tips-fc5aee5e8cd0?source=topic_page---------8------------------1)
 
-10. [**The 10 Types of Tippers, According to Servers**](https://thebolditalic.com/the-10-types-of-tippers-according-to-servers-b2efb005574f?source=topic_page---------9------------------1)
+10. [**Monsta X: Being a K-pop Idol in the Age of Online Harassment**](https://blog.usejournal.com/https-medium-com-monsta-x-being-a-k-pop-idol-in-the-age-of-online-harassment-ac0e77a16c58?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
