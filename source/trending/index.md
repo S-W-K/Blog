@@ -11,108 +11,108 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**OpenDiablo2/OpenDiablo2**](https://github.com/OpenDiablo2/OpenDiablo2)
-An open source re-implementation of Diablo 2
-2. [**Tencent/plato**](https://github.com/Tencent/plato)
-腾讯高性能图计算框架Plato
-3. [**huangwei9527/quark-h5**](https://github.com/huangwei9527/quark-h5)
-基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
-4. [**menzi11/BullshitGenerator**](https://github.com/menzi11/BullshitGenerator)
-Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-5. [**dragen1860/Deep-Learning-with-TensorFlow-book**](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+1. [**dragen1860/Deep-Learning-with-TensorFlow-book**](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-6. [**angular/angular**](https://github.com/angular/angular)
-One framework. Mobile & desktop.
-7. [**brave/brave-browser**](https://github.com/brave/brave-browser)
-Next generation Brave browser for macOS, Windows, Linux, and eventually Android
-8. [**Mr-Un1k0d3r/SCShell**](https://github.com/Mr-Un1k0d3r/SCShell)
-Fileless lateral movement tool that relies on ChangeServiceConfigA to run command
-9. [**2227324689/gpmall**](https://github.com/2227324689/gpmall)
-【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
-10. [**omarroth/invidious**](https://github.com/omarroth/invidious)
-Invidious is an alternative front-end to YouTube
-11. [**go-playground/validator**](https://github.com/go-playground/validator)
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-12. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-Clone a voice in 5 seconds to generate arbitrary speech in real-time
-13. [**jackfrued/Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
+2. [**neovim/nvim-lsp**](https://github.com/neovim/nvim-lsp)
+Common configurations for Neovim Language Servers
+3. [**jackfrued/Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
 Python - 100天从新手到大师
-14. [**fohtla/Fallout3Terminal**](https://github.com/fohtla/Fallout3Terminal)
-A recreation of the Fallout 3 terminal via a linux bash script! Requires cool-retro-term, sox and pv installed as packages.
-15. [**actions/starter-workflows**](https://github.com/actions/starter-workflows)
+4. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
+OpenCore front end
+5. [**sebastianstarke/AI4Animation**](https://github.com/sebastianstarke/AI4Animation)
+Bringing Characters to Life with Computer Brains in Unity
+6. [**modin-project/modin**](https://github.com/modin-project/modin)
+Modin: Speed up your Pandas workflows by changing a single line of code
+7. [**OpenDiablo2/OpenDiablo2**](https://github.com/OpenDiablo2/OpenDiablo2)
+An open source re-implementation of Diablo 2
+8. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
+No repo_description
+9. [**MoePlayer/DPlayer**](https://github.com/MoePlayer/DPlayer)
+🍭 Wow, such a lovely HTML5 danmaku video player
+10. [**bannedbook/fanqiang**](https://github.com/bannedbook/fanqiang)
+翻墙-科学上网
+11. [**actions/starter-workflows**](https://github.com/actions/starter-workflows)
 Accelerating new GitHub Actions workflows
-16. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
-17. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+12. [**banach-space/llvm-tutor**](https://github.com/banach-space/llvm-tutor)
+A collection of LLVM passes (with tests and build scripts)
+13. [**godotengine/godot**](https://github.com/godotengine/godot)
+Godot Engine – Multi-platform 2D and 3D game engine
+14. [**vinceliuice/Mojave-gtk-theme**](https://github.com/vinceliuice/Mojave-gtk-theme)
+Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
+15. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-18. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
-An unidentifiable mechanism that helps you bypass GFW.
-19. [**danielgerlag/workflow-core**](https://github.com/danielgerlag/workflow-core)
-Lightweight workflow engine for .NET Standard
-20. [**aelassas/Wexflow**](https://github.com/aelassas/Wexflow)
-A high-performance, extensible, modular and cross-platform workflow engine. Built for automation and optimized for SaaS integration, Wexflow runs on Windows, Linux, macOS and the cloud.
-21. [**mckenziearts/laravel-notify**](https://github.com/mckenziearts/laravel-notify)
-Flexible Flash notifications for Laravel
-22. [**AobingJava/JavaFamily**](https://github.com/AobingJava/JavaFamily)
-【 互联网 Java 工程师大厂面试+学习指南】，进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，后端同学必看。
-23. [**hashicorp/terraform**](https://github.com/hashicorp/terraform)
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-24. [**alibaba/arthas**](https://github.com/alibaba/arthas)
-Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-25. [**rmcelreath/statrethinking_winter2019**](https://github.com/rmcelreath/statrethinking_winter2019)
-Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
+16. [**NVIDIAGameWorks/kaolin**](https://github.com/NVIDIAGameWorks/kaolin)
+A PyTorch Library for Accelerating 3D Deep Learning Research
+17. [**fabricjs/fabric.js**](https://github.com/fabricjs/fabric.js)
+Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+18. [**shadowsocks/shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows)
+If you want to keep a secret, you must also hide it from yourself.
+19. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
+A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+20. [**ct-Open-Source/tuya-convert**](https://github.com/ct-Open-Source/tuya-convert)
+A collection of scripts to flash Tuya IoT devices to alternative firmwares
+21. [**LisaDziuba/Awesome-Design-Tools**](https://github.com/LisaDziuba/Awesome-Design-Tools)
+The best design tools and plugins for everything 👉
+22. [**tidusjar/Ombi**](https://github.com/tidusjar/Ombi)
+Want a Movie or TV Show on Plex or Emby? Use Ombi!
+23. [**Tencent/plato**](https://github.com/Tencent/plato)
+腾讯高性能图计算框架Plato
+24. [**python/cpython**](https://github.com/python/cpython)
+The Python programming language
+25. [**material-components/material-components-web-components**](https://github.com/material-components/material-components-web-components)
+Material Web Components - Material Design implemented as Web Components
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 2. [**menzi11/BullshitGenerator**](https://github.com/menzi11/BullshitGenerator)
 Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-3. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
-Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-4. [**microsoft/vscode**](https://github.com/microsoft/vscode)
-Visual Studio Code
-5. [**jgraph/drawio**](https://github.com/jgraph/drawio)
+3. [**jgraph/drawio**](https://github.com/jgraph/drawio)
 Source to www.draw.io
-6. [**openai/gpt-2**](https://github.com/openai/gpt-2)
-Code for the paper "Language Models are Unsupervised Multitask Learners"
-7. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
+4. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
 《统计学习方法》的代码实现
-8. [**async-rs/async-std**](https://github.com/async-rs/async-std)
+5. [**microsoft/vscode**](https://github.com/microsoft/vscode)
+Visual Studio Code
+6. [**async-rs/async-std**](https://github.com/async-rs/async-std)
 Async version of the Rust standard library
-9. [**didi/DoraemonKit**](https://github.com/didi/DoraemonKit)
-简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
-10. [**gzc426/Java-Interview**](https://github.com/gzc426/Java-Interview)
+7. [**gzc426/Java-Interview**](https://github.com/gzc426/Java-Interview)
 Java 面试必会 直通BAT
-11. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
+8. [**didi/DoraemonKit**](https://github.com/didi/DoraemonKit)
+简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
+9. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
 ✅ The largest Node.js best practices list (November 2019)
-12. [**fchollet/ARC**](https://github.com/fchollet/ARC)
+10. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
+Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+11. [**fchollet/ARC**](https://github.com/fchollet/ARC)
 The Abstraction and Reasoning Corpus
-13. [**Pierian-Data/Complete-Python-3-Bootcamp**](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
-Course Files for Complete Python 3 Bootcamp Course on Udemy
-14. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
-👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
-15. [**tokio-rs/tokio**](https://github.com/tokio-rs/tokio)
+12. [**openai/gpt-2**](https://github.com/openai/gpt-2)
+Code for the paper "Language Models are Unsupervised Multitask Learners"
+13. [**tokio-rs/tokio**](https://github.com/tokio-rs/tokio)
 A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-16. [**blaCCkHatHacEEkr/PENTESTING-BIBLE**](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+14. [**blaCCkHatHacEEkr/PENTESTING-BIBLE**](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-17. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
-Cheat Sheets
-18. [**Exrick/x-boot**](https://github.com/Exrick/x-boot)
-基于Spring Boot 2.x的前后端分离开发平台X-Boot 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/Spring Data JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 日志记录 定时任务 第三方社交账号、短信登录 单点登录
-19. [**tootsuite/mastodon**](https://github.com/tootsuite/mastodon)
-Your self-hosted, globally interconnected microblogging community
-20. [**ProtonMail/ios-mail**](https://github.com/ProtonMail/ios-mail)
+15. [**ProtonMail/ios-mail**](https://github.com/ProtonMail/ios-mail)
 No repo_description
-21. [**micro/go-micro**](https://github.com/micro/go-micro)
-A Go microservices development framework
-22. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
-DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
-23. [**unknwon/the-way-to-go_ZH_CN**](https://github.com/unknwon/the-way-to-go_ZH_CN)
+16. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+Cheat Sheets
+17. [**unknwon/the-way-to-go_ZH_CN**](https://github.com/unknwon/the-way-to-go_ZH_CN)
 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-24. [**jesseduffield/lazydocker**](https://github.com/jesseduffield/lazydocker)
-The lazier way to manage everything docker
-25. [**TrillCyborg/fullstack**](https://github.com/TrillCyborg/fullstack)
-React/ApolloGraphQL/Node/Mongo demo written in Typescript
+18. [**apple/swift-numerics**](https://github.com/apple/swift-numerics)
+Numerical APIs for Swift
+19. [**Pierian-Data/Complete-Python-3-Bootcamp**](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+Course Files for Complete Python 3 Bootcamp Course on Udemy
+20. [**FiloSottile/mkcert**](https://github.com/FiloSottile/mkcert)
+A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+21. [**brave/brave-browser**](https://github.com/brave/brave-browser)
+Next generation Brave browser for macOS, Windows, Linux, and eventually Android
+22. [**hyperledger/fabric**](https://github.com/hyperledger/fabric)
+Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
+23. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+24. [**caddyserver/caddy**](https://github.com/caddyserver/caddy)
+Fast, cross-platform HTTP/2 web server with automatic HTTPS
+25. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
+👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**google-research/google-research**](https://github.com/google-research/google-research)
@@ -170,23 +170,23 @@ Alibaba Java Coding Guidelines pmd implements and IDE plugin
 <!-- endtab --><!-- tab Medium -->
 1. [**Everyone’s Missing the Obvious About the Declining U.S. Birth Rate**](https://gen.medium.com/everyones-missing-the-obvious-when-it-comes-to-the-declining-u-s-birth-rate-679abebb854b?source=topic_page---------------------------20)
 
-2. [**Wildlife Cameras Are Accidentally Capturing Humans Behaving Badly**](https://onezero.medium.com/wildlife-cameras-are-accidentally-capturing-humans-behaving-badly-5c363b080b91?source=topic_page---------0------------------1)
+2. [**How to Configure Your iPhone to Work for You, Not Against You**](https://medium.com/better-humans/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8?source=topic_page---------0------------------1)
 
-3. [**3 Foods You Should Give Up Forever**](https://elemental.medium.com/3-foods-you-should-throw-away-forever-3eb7b5f38075?source=topic_page---------1------------------1)
+3. [**Inside the Underground Baby Trade in the Philippines**](https://zora.medium.com/inside-the-underground-baby-trade-in-the-philippines-b41113f2dfc4?source=topic_page---------1------------------1)
 
-4. [**The Companies Venture Capital Isn’t Allowed to Invest In**](https://marker.medium.com/the-companies-venture-capital-isnt-allowed-to-invest-in-a59c4cdd5ae?source=topic_page---------2------------------1)
+4. [**New 16" MacBook Pro Review: A Developer’s Dream Come True**](https://onezero.medium.com/new-16-macbook-pro-review-a-developers-dream-come-true-989ae57882dd?source=topic_page---------2------------------1)
 
-5. [**Hong Kong is at war, and why should the world be worried.**](https://medium.com/賴叔睇育/hong-kong-is-at-war-and-why-should-the-world-be-worried-93af8a94ee0f?source=topic_page---------4------------------1)
+5. [**Wildlife Cameras Are Accidentally Capturing Humans Behaving Badly**](https://onezero.medium.com/wildlife-cameras-are-accidentally-capturing-humans-behaving-badly-5c363b080b91?source=topic_page---------4------------------1)
 
-6. [**Bolivia in Crisis**](https://medium.com/@jimshultz716/bolivia-in-crisis-4ef2f25471ed?source=topic_page---------5------------------1)
+6. [**3 Ingredients I Think You Should Give Up Forever**](https://elemental.medium.com/3-foods-you-should-throw-away-forever-3eb7b5f38075?source=topic_page---------5------------------1)
 
-7. [**Why xHamster Is So Much Better at Content Moderation Than Facebook**](https://onezero.medium.com/why-xhamster-is-so-much-better-at-content-moderation-than-facebook-ec318919b0e4?source=topic_page---------6------------------1)
+7. [**The Companies Venture Capital Isn’t Allowed to Invest In**](https://marker.medium.com/the-companies-venture-capital-isnt-allowed-to-invest-in-a59c4cdd5ae?source=topic_page---------6------------------1)
 
-8. [**The System I Used to Write 5 Books and Over 1,000 Blog Posts**](https://medium.com/better-marketing/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461?source=topic_page---------7------------------1)
+8. [**Hong Kong is at war, and why should the world be worried.**](https://medium.com/賴叔睇育/hong-kong-is-at-war-and-why-should-the-world-be-worried-93af8a94ee0f?source=topic_page---------7------------------1)
 
-9. [**The Unforgettable Relationship Advice My Ex-Girlfriend Gave Me**](https://psiloveyou.xyz/the-unforgettable-relationship-advice-my-ex-girlfriend-gave-me-f86bce612769?source=topic_page---------8------------------1)
+9. [**Bolivia in Crisis**](https://medium.com/@jimshultz716/bolivia-in-crisis-4ef2f25471ed?source=topic_page---------8------------------1)
 
-10. [**Apple Is Trying to Kill Web Technology**](https://onezero.medium.com/apple-is-trying-to-kill-web-technology-a274237c174d?source=topic_page---------9------------------1)
+10. [**Why xHamster Is So Much Better at Content Moderation Than Facebook**](https://onezero.medium.com/why-xhamster-is-so-much-better-at-content-moderation-than-facebook-ec318919b0e4?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
