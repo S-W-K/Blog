@@ -11,108 +11,106 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**KunMinX/Jetpack-MVVM-Best-Practice**](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
-是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
-2. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful mobile apps.
-3. [**angular/angular-cli**](https://github.com/angular/angular-cli)
-CLI tool for Angular
-4. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-5. [**rapidsai/cuml**](https://github.com/rapidsai/cuml)
-cuML - RAPIDS Machine Learning Library
-6. [**luka1199/geo-heatmap**](https://github.com/luka1199/geo-heatmap)
-🗺 Generate an interactive geo heatmap from your Google location data
-7. [**Geek-James/ddBuy**](https://github.com/Geek-James/ddBuy)
-🎉Vue2.x 全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
-8. [**sveltejs/svelte**](https://github.com/sveltejs/svelte)
-Cybernetically enhanced web apps
-9. [**google/googletest**](https://github.com/google/googletest)
-Googletest - Google Testing and Mocking Framework
-10. [**ra1nstorm/ra1nstorm-helper**](https://github.com/ra1nstorm/ra1nstorm-helper)
-Automatically configures an environment to run checkra1n
-11. [**huggingface/transformers**](https://github.com/huggingface/transformers)
-🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-12. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-13. [**onnx/onnx-tensorrt**](https://github.com/onnx/onnx-tensorrt)
-ONNX-TensorRT: TensorRT backend for ONNX
-14. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
-12306智能刷票，订票
-15. [**puppeteer/puppeteer**](https://github.com/puppeteer/puppeteer)
-Headless Chrome Node.js API
-16. [**twigphp/Twig**](https://github.com/twigphp/Twig)
-Twig, the flexible, fast, and secure template language for PHP
-17. [**golang/protobuf**](https://github.com/golang/protobuf)
+1. [**hecrj/iced**](https://github.com/hecrj/iced)
+A cross-platform GUI library for Rust, inspired by Elm
+2. [**chiphuyen/machine-learning-systems-design**](https://github.com/chiphuyen/machine-learning-systems-design)
+A booklet on machine learning systems design with exercises
+3. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
+🔎 Find usernames across social networks
+4. [**jumpserver/jumpserver**](https://github.com/jumpserver/jumpserver)
+Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
+5. [**aws/sagemaker-python-sdk**](https://github.com/aws/sagemaker-python-sdk)
+A library for training and deploying machine learning models on Amazon SageMaker
+6. [**SortableJS/Vue.Draggable**](https://github.com/SortableJS/Vue.Draggable)
+Vue drag-and-drop component based on Sortable.js
+7. [**lucas-clemente/quic-go**](https://github.com/lucas-clemente/quic-go)
+A QUIC implementation in pure go
+8. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+A sandbox tower defense game
+9. [**s0md3v/Corsy**](https://github.com/s0md3v/Corsy)
+CORS Misconfiguration Scanner
+10. [**mockito/mockito**](https://github.com/mockito/mockito)
+Most popular Mocking framework for unit tests written in Java
+11. [**harismuneer/Ultimate-Facebook-Scraper**](https://github.com/harismuneer/Ultimate-Facebook-Scraper)
+🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
+12. [**deep-learning-with-pytorch/dlwpt-code**](https://github.com/deep-learning-with-pytorch/dlwpt-code)
+Code for the book Deep Learning with PyTorch by Eli Stevens and Luca Antiga.
+13. [**JuliaLang/julia**](https://github.com/JuliaLang/julia)
+The Julia Language: A fresh approach to technical computing.
+14. [**joeferraro/react-native-cookies**](https://github.com/joeferraro/react-native-cookies)
+Cookie manager for React Native
+15. [**golang/dep**](https://github.com/golang/dep)
+Go dependency management tool
+16. [**golang/protobuf**](https://github.com/golang/protobuf)
 Go support for Google's protocol buffers
-18. [**sunainapai/makesite**](https://github.com/sunainapai/makesite)
-Simple, lightweight, and magic-free static site/blog generator for Python coders
-19. [**go-redis/redis**](https://github.com/go-redis/redis)
-Type-safe Redis client for Golang
-20. [**swaggo/gin-swagger**](https://github.com/swaggo/gin-swagger)
-gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
-21. [**awslabs/amazon-sagemaker-examples**](https://github.com/awslabs/amazon-sagemaker-examples)
-Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
-22. [**GoAdminGroup/go-admin**](https://github.com/GoAdminGroup/go-admin)
-A dataviz framework help gopher to build a admin panel in ten minutes
-23. [**SVProgressHUD/SVProgressHUD**](https://github.com/SVProgressHUD/SVProgressHUD)
-A clean and lightweight progress HUD for your iOS and tvOS app.
-24. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
-📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
-25. [**mikel/mail**](https://github.com/mikel/mail)
-A Really Ruby Mail Library
+17. [**ultralytics/yolov3**](https://github.com/ultralytics/yolov3)
+YOLOv3 in PyTorch > ONNX > CoreML > iOS
+18. [**jinzhu/gorm**](https://github.com/jinzhu/gorm)
+The fantastic ORM library for Golang, aims to be developer friendly
+19. [**Thomvaill/tads-boilerplate**](https://github.com/Thomvaill/tads-boilerplate)
+Terraform + Ansible + Docker Swarm boilerplate = DevOps on 🔥🔥🔥 | Infrastructure as Code
+20. [**qingshuisiyuan/electron-ssr-backup**](https://github.com/qingshuisiyuan/electron-ssr-backup)
+electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜
+21. [**grpc/grpc-go**](https://github.com/grpc/grpc-go)
+The Go language implementation of gRPC. HTTP/2 based RPC
+22. [**airbnb/lottie-ios**](https://github.com/airbnb/lottie-ios)
+An iOS library to natively render After Effects vector animations
+23. [**protocolbuffers/protobuf**](https://github.com/protocolbuffers/protobuf)
+Protocol Buffers - Google's data interchange format
+24. [**getsentry/sentry**](https://github.com/getsentry/sentry)
+Sentry is cross-platform application monitoring, with a focus on error reporting.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**CoatiSoftware/Sourcetrail**](https://github.com/CoatiSoftware/Sourcetrail)
-Sourcetrail - free and open-source interactive source explorer
-2. [**baidu/bfe**](https://github.com/baidu/bfe)
-Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
-3. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
+1. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
-4. [**dragen1860/Deep-Learning-with-TensorFlow-book**](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
-深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-5. [**chatwoot/chatwoot**](https://github.com/chatwoot/chatwoot)
-Simple and elegant live chat software 🔥💬
-6. [**chai2010/advanced-go-programming-book**](https://github.com/chai2010/advanced-go-programming-book)
-📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-7. [**algorithm-visualizer/algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer)
+2. [**slackhq/nebula**](https://github.com/slackhq/nebula)
+A scalable overlay networking tool with a focus on performance, simplicity and security
+3. [**CoatiSoftware/Sourcetrail**](https://github.com/CoatiSoftware/Sourcetrail)
+Sourcetrail - free and open-source interactive source explorer
+4. [**baidu/bfe**](https://github.com/baidu/bfe)
+Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
+5. [**algorithm-visualizer/algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer)
 🎆Interactive Online Platform that Visualizes Algorithms from Code
-8. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
-flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。
-9. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
-All Algorithms implemented in Python
-10. [**cube-js/cube.js**](https://github.com/cube-js/cube.js)
+6. [**flutter/flutter_clock**](https://github.com/flutter/flutter_clock)
+No repo_description
+7. [**chai2010/advanced-go-programming-book**](https://github.com/chai2010/advanced-go-programming-book)
+📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+8. [**cube-js/cube.js**](https://github.com/cube-js/cube.js)
 📊 Cube.js - Open Source Analytics Framework
+9. [**chatwoot/chatwoot**](https://github.com/chatwoot/chatwoot)
+Simple and elegant live chat software 🔥💬
+10. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
+All Algorithms implemented in Python
 11. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
 A complete computer science study plan to become a software engineer.
 12. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-13. [**halo-dev/halo**](https://github.com/halo-dev/halo)
-✍ Halo 一款现代化的个人独立博客系统
-14. [**PrestaShop/PrestaShop**](https://github.com/PrestaShop/PrestaShop)
-PrestaShop offers a fully scalable open source ecommerce solution.
-15. [**confluentinc/ksql**](https://github.com/confluentinc/ksql)
-The event streaming database purpose-built for stream processing applications
-16. [**ticarpi/jwt_tool**](https://github.com/ticarpi/jwt_tool)
-🐍 A toolkit for testing, tweaking and cracking JSON Web Tokens
-17. [**dragen1860/TensorFlow-2.x-Tutorials**](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
-TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。
-18. [**symfony/symfony**](https://github.com/symfony/symfony)
+13. [**qingshuisiyuan/electron-ssr-backup**](https://github.com/qingshuisiyuan/electron-ssr-backup)
+electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜
+14. [**symfony/symfony**](https://github.com/symfony/symfony)
 The Symfony PHP framework
-19. [**agalwood/Motrix**](https://github.com/agalwood/Motrix)
-A full-featured download manager.
-20. [**yunjey/pytorch-tutorial**](https://github.com/yunjey/pytorch-tutorial)
+15. [**yunjey/pytorch-tutorial**](https://github.com/yunjey/pytorch-tutorial)
 PyTorch Tutorial for Deep Learning Researchers
-21. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
+16. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
+🔎 Find usernames across social networks
+17. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
 一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等
+18. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
+flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。
+19. [**Kayzaks/HackingNeuralNetworks**](https://github.com/Kayzaks/HackingNeuralNetworks)
+A small course on exploiting and defending neural networks
+20. [**confluentinc/ksql**](https://github.com/confluentinc/ksql)
+The event streaming database purpose-built for stream processing applications
+21. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+A sandbox tower defense game
 22. [**GoogleChrome/lighthouse**](https://github.com/GoogleChrome/lighthouse)
 Automated auditing, performance metrics, and best practices for the web.
-23. [**ElemeFE/element**](https://github.com/ElemeFE/element)
-A Vue.js 2.0 UI Toolkit for Web
-24. [**haoel/leetcode**](https://github.com/haoel/leetcode)
-LeetCode Problems' Solutions
-25. [**Shopify/sarama**](https://github.com/Shopify/sarama)
-Sarama is a Go library for Apache Kafka 0.8, and up.
+23. [**graceavery/tamagotchiTemp**](https://github.com/graceavery/tamagotchiTemp)
+No repo_description
+24. [**yanue/V2rayU**](https://github.com/yanue/V2rayU)
+V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+25. [**NVIDIAGameWorks/kaolin**](https://github.com/NVIDIAGameWorks/kaolin)
+A PyTorch Library for Accelerating 3D Deep Learning Research
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
@@ -121,50 +119,50 @@ Clone a voice in 5 seconds to generate arbitrary speech in real-time
 Code for the paper "Language Models are Unsupervised Multitask Learners"
 3. [**microsoft/vscode**](https://github.com/microsoft/vscode)
 Visual Studio Code
-4. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google AI Research
-5. [**hoanhan101/ultimate-go**](https://github.com/hoanhan101/ultimate-go)
-Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →
-6. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-7. [**polynote/polynote**](https://github.com/polynote/polynote)
-A better notebook for Scala (and more)
-8. [**gzc426/Java-Interview**](https://github.com/gzc426/Java-Interview)
-Java 面试必会 直通BAT
-9. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
-flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。
-10. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
-《统计学习方法》的代码实现
-11. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
-A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-12. [**llvm/llvm-project**](https://github.com/llvm/llvm-project)
-The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-13. [**algorithm-visualizer/algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer)
+4. [**zeit/swr**](https://github.com/zeit/swr)
+React Hooks library for remote data fetching
+5. [**hankcs/HanLP**](https://github.com/hankcs/HanLP)
+自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
+6. [**algorithm-visualizer/algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer)
 🎆Interactive Online Platform that Visualizes Algorithms from Code
-14. [**wangzheng0822/algo**](https://github.com/wangzheng0822/algo)
-数据结构和算法必知必会的50个代码实现
-15. [**frank-lam/fullstack-tutorial**](https://github.com/frank-lam/fullstack-tutorial)
-🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
-16. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
+7. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
+All Algorithms implemented in Java
+8. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
+flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。
+9. [**gzc426/Java-Interview**](https://github.com/gzc426/Java-Interview)
+Java 面试必会 直通BAT
+10. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
 一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等
-17. [**nodejs/node**](https://github.com/nodejs/node)
+11. [**wangzheng0822/algo**](https://github.com/wangzheng0822/algo)
+数据结构和算法必知必会的50个代码实现
+12. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
+《统计学习方法》的代码实现
+13. [**google-research/google-research**](https://github.com/google-research/google-research)
+Google AI Research
+14. [**hoanhan101/ultimate-go**](https://github.com/hoanhan101/ultimate-go)
+Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →
+15. [**nodejs/node**](https://github.com/nodejs/node)
 Node.js JavaScript runtime ✨🐢🚀✨
-18. [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh)
-🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the commun…
-19. [**wuyouzhuguli/SpringAll**](https://github.com/wuyouzhuguli/SpringAll)
-循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码
-20. [**cdr/code-server**](https://github.com/cdr/code-server)
-Run VS Code on a remote server.
-21. [**streamlit/streamlit**](https://github.com/streamlit/streamlit)
-Streamlit — The fastest way to build custom ML tools
-22. [**ethereum/go-ethereum**](https://github.com/ethereum/go-ethereum)
+16. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+17. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+18. [**polynote/polynote**](https://github.com/polynote/polynote)
+A better notebook for Scala (and more)
+19. [**angular/angular**](https://github.com/angular/angular)
+One framework. Mobile & desktop.
+20. [**ethereum/go-ethereum**](https://github.com/ethereum/go-ethereum)
 Official Go implementation of the Ethereum protocol
-23. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
-A Magic Mask to Alter Android System Systemless-ly
+21. [**llvm/llvm-project**](https://github.com/llvm/llvm-project)
+The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+22. [**frank-lam/fullstack-tutorial**](https://github.com/frank-lam/fullstack-tutorial)
+🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+23. [**muhammederdem/vue-interactive-paycard**](https://github.com/muhammederdem/vue-interactive-paycard)
+Credit card form with smooth and sweet micro-interactions
 24. [**alibaba/p3c**](https://github.com/alibaba/p3c)
 Alibaba Java Coding Guidelines pmd implements and IDE plugin
-25. [**nndl/nndl.github.io**](https://github.com/nndl/nndl.github.io)
-《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+25. [**iGhibli/iOS-DeviceSupport**](https://github.com/iGhibli/iOS-DeviceSupport)
+This repository holds the device support files for the iOS, and I will update it regularly.
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
@@ -176,7 +174,7 @@ Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 4. [**Planes Are Ruining the Planet. New, Mighty Airships Won’t.**](https://onezero.medium.com/planes-are-ruining-the-planet-new-mighty-airships-wont-d8eb39418acc?source=topic_page---------2------------------1)
 
-5. [**Untitled story**](https://gen.medium.com/everyones-missing-the-obvious-when-it-comes-to-the-declining-u-s-birth-rate-679abebb854b?source=topic_page---------4------------------1)
+5. [**Everyone’s Missing the Obvious About the Declining U.S. Birth Rate**](https://gen.medium.com/everyones-missing-the-obvious-when-it-comes-to-the-declining-u-s-birth-rate-679abebb854b?source=topic_page---------4------------------1)
 
 6. [**How My Friend Made $400K From Selling an Insanely Simple eBook**](https://medium.com/better-marketing/how-my-friend-made-400k-from-selling-an-insanely-simple-ebook-3c40ad6a5bb8?source=topic_page---------5------------------1)
 
