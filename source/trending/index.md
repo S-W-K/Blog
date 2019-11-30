@@ -11,56 +11,56 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**jinzhu/gorm**](https://github.com/jinzhu/gorm)
-The fantastic ORM library for Golang, aims to be developer friendly
-2. [**Geek-James/ddBuy**](https://github.com/Geek-James/ddBuy)
-🎉Vue2.x 全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
-3. [**hecrj/iced**](https://github.com/hecrj/iced)
-A cross-platform GUI library for Rust, inspired by Elm
-4. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-5. [**fchollet/ARC**](https://github.com/fchollet/ARC)
+1. [**idealvin/co**](https://github.com/idealvin/co)
+An elegant and efficient C++ basic library for Linux, Windows and Mac.
+2. [**alyssaxuu/flowy**](https://github.com/alyssaxuu/flowy)
+The minimal javascript library to create flowcharts ✨
+3. [**felangel/bloc**](https://github.com/felangel/bloc)
+A predictable state management library that helps implement the BLoC design pattern
+4. [**fchollet/ARC**](https://github.com/fchollet/ARC)
 The Abstraction and Reasoning Corpus
-6. [**JohnSundell/Ink**](https://github.com/JohnSundell/Ink)
-A fast and flexible Markdown parser written in Swift.
-7. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-8. [**antvis/G2Plot**](https://github.com/antvis/G2Plot)
-🍡 An interactive and responsive charting library based on the grammar of graphics.
-9. [**heucoder/dimensionality_reduction_alo_codes**](https://github.com/heucoder/dimensionality_reduction_alo_codes)
-PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
-10. [**jumpserver/jumpserver**](https://github.com/jumpserver/jumpserver)
-Jumpserver是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
-11. [**aws/sagemaker-python-sdk**](https://github.com/aws/sagemaker-python-sdk)
-A library for training and deploying machine learning models on Amazon SageMaker
-12. [**magento/magento2**](https://github.com/magento/magento2)
-All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
-13. [**fastlane/fastlane**](https://github.com/fastlane/fastlane)
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-14. [**blocks/blocks**](https://github.com/blocks/blocks)
+5. [**blocks/blocks**](https://github.com/blocks/blocks)
 A JSX-based page builder for creating beautiful websites without writing code
-15. [**airbnb/lottie-ios**](https://github.com/airbnb/lottie-ios)
-An iOS library to natively render After Effects vector animations
-16. [**wesbos/Advanced-React**](https://github.com/wesbos/Advanced-React)
+6. [**php/php-src**](https://github.com/php/php-src)
+The PHP Interpreter
+7. [**magento/magento2**](https://github.com/magento/magento2)
+All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…
+8. [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub)
+Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+9. [**enaqx/awesome-pentest**](https://github.com/enaqx/awesome-pentest)
+A collection of awesome penetration testing resources, tools and other shiny things
+10. [**fastlane/fastlane**](https://github.com/fastlane/fastlane)
+🚀 The easiest way to automate building and releasing your iOS and Android apps
+11. [**jwilber/roughViz**](https://github.com/jwilber/roughViz)
+Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+12. [**anonaddy/anonaddy**](https://github.com/anonaddy/anonaddy)
+Anonymous email forwarding
+13. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
+🔎 Find usernames across social networks
+14. [**Blankj/AndroidUtilCode**](https://github.com/Blankj/AndroidUtilCode)
+🔥 Android developers should collect the following utils(updating).
+15. [**joeferraro/react-native-cookies**](https://github.com/joeferraro/react-native-cookies)
+Cookie manager for React Native
+16. [**awslabs/aws-athena-query-federation**](https://github.com/awslabs/aws-athena-query-federation)
+The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
+17. [**mockito/mockito**](https://github.com/mockito/mockito)
+Most popular Mocking framework for unit tests written in Java
+18. [**wesbos/Advanced-React**](https://github.com/wesbos/Advanced-React)
 Starter Files and Solutions for Full Stack Advanced React and GraphQL
-17. [**netdata/netdata**](https://github.com/netdata/netdata)
-Real-time performance monitoring, done right! https://my-netdata.io/
-18. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
-12306智能刷票，订票
-19. [**mRs-/Black-Friday-Deals**](https://github.com/mRs-/Black-Friday-Deals)
-Black Friday Deals for macOS / iOS Software & Books
-20. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful mobile apps.
-21. [**atom/atom**](https://github.com/atom/atom)
-The hackable text editor
-22. [**cdr/code-server**](https://github.com/cdr/code-server)
-Run VS Code on a remote server.
-23. [**tokio-rs/tokio**](https://github.com/tokio-rs/tokio)
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-24. [**sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress)
-Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
-25. [**micropython/micropython**](https://github.com/micropython/micropython)
-MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+19. [**JasonGT/CleanArchitecture**](https://github.com/JasonGT/CleanArchitecture)
+Clean Architecture Solution Template for Angular 8 and .NET Core 3
+20. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+21. [**github/opensource.guide**](https://github.com/github/opensource.guide)
+📚 Community guides for open source creators
+22. [**Geek-James/ddBuy**](https://github.com/Geek-James/ddBuy)
+🎉Vue2.x 全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
+23. [**yinxin630/fiora**](https://github.com/yinxin630/fiora)
+An interesting chat application power by socket.io, koa, mongodb and react
+24. [**zhoutaoo/SpringCloud**](https://github.com/zhoutaoo/SpringCloud)
+基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+25. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
+📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**liyasthomas/postwoman**](https://github.com/liyasthomas/postwoman)
@@ -127,44 +127,44 @@ Visual Studio Code
 React Hooks library for remote data fetching
 6. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
 flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。
-7. [**gzc426/Java-Interview**](https://github.com/gzc426/Java-Interview)
-Java 面试必会 直通BAT
-8. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-9. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
-一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等
-10. [**wangzheng0822/algo**](https://github.com/wangzheng0822/algo)
-数据结构和算法必知必会的50个代码实现
-11. [**algorithm-visualizer/algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer)
-🎆Interactive Online Platform that Visualizes Algorithms from Code
-12. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+7. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+8. [**wangzheng0822/algo**](https://github.com/wangzheng0822/algo)
+数据结构和算法必知必会的50个代码实现
+9. [**gzc426/Java-Interview**](https://github.com/gzc426/Java-Interview)
+Java 面试必会 直通BAT
+10. [**algorithm-visualizer/algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer)
+🎆Interactive Online Platform that Visualizes Algorithms from Code
+11. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
+All Algorithms implemented in Java
+12. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
+一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等
 13. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
 《统计学习方法》的代码实现
-14. [**nodejs/node**](https://github.com/nodejs/node)
-Node.js JavaScript runtime ✨🐢🚀✨
+14. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 15. [**ethereum/go-ethereum**](https://github.com/ethereum/go-ethereum)
 Official Go implementation of the Ethereum protocol
-16. [**alibaba/p3c**](https://github.com/alibaba/p3c)
-Alibaba Java Coding Guidelines pmd implements and IDE plugin
-17. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
-A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-18. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google AI Research
-19. [**llvm/llvm-project**](https://github.com/llvm/llvm-project)
-The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-20. [**opencv/opencv**](https://github.com/opencv/opencv)
-Open Source Computer Vision Library
-21. [**cdr/code-server**](https://github.com/cdr/code-server)
-Run VS Code on a remote server.
-22. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
-23. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
-A Magic Mask to Alter Android System Systemless-ly
-24. [**pingcap/tidb**](https://github.com/pingcap/tidb)
-TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-25. [**angular/angular**](https://github.com/angular/angular)
+16. [**nodejs/node**](https://github.com/nodejs/node)
+Node.js JavaScript runtime ✨🐢🚀✨
+17. [**angular/angular**](https://github.com/angular/angular)
 One framework. Mobile & desktop.
+18. [**pingcap/tidb**](https://github.com/pingcap/tidb)
+TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+19. [**alibaba/p3c**](https://github.com/alibaba/p3c)
+Alibaba Java Coding Guidelines pmd implements and IDE plugin
+20. [**llvm/llvm-project**](https://github.com/llvm/llvm-project)
+The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+21. [**fatedier/frp**](https://github.com/fatedier/frp)
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+22. [**xuxueli/xxl-job**](https://github.com/xuxueli/xxl-job)
+A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+23. [**cdr/code-server**](https://github.com/cdr/code-server)
+Run VS Code on a remote server.
+24. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
+A Magic Mask to Alter Android System Systemless-ly
+25. [**opencv/opencv**](https://github.com/opencv/opencv)
+Open Source Computer Vision Library
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
