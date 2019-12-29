@@ -1,7 +1,8 @@
+{%- set mhchem_uri = theme.vendors.mhchem or '//cdn.jsdelivr.net/npm/mathjax-mhchem@3' %}
 <script type="text/x-mathjax-config">
-  {% if theme.math.mathjax.mhchem %}
-    MathJax.Ajax.config.path['mhchem'] = '{{ theme.math.mathjax.mhchem }}';
-  {% endif %}
+  {%- if theme.math.mathjax.mhchem %}
+    MathJax.Ajax.config.path['mhchem'] = '{{ mhchem_uri }}';
+  {%- endif %}
 
   MathJax.Hub.Config({
     tex2jax: {
@@ -10,9 +11,9 @@
       skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
     },
     TeX: {
-      {% if theme.math.mathjax.mhchem %}
+      {%- if theme.math.mathjax.mhchem %}
         extensions: ['[mhchem]/mhchem.js'],
-      {% endif %}
+      {%- endif %}
       equationNumbers: {
         autoNumber: 'AMS'
       }
@@ -44,4 +45,9 @@
     }
   });
 </script>
-<script src="{{ theme.math.mathjax.cdn }}"></script>
+{%- set mathjax_uri = theme.vendors.mathjax or '//cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML' %}
+<script>
+  NexT.utils.getScript('{{ mathjax_uri }}', () => {
+    MathJax.Hub.Typeset();
+  }, window.MathJax);
+</script>

@@ -2,7 +2,7 @@
 title: 'Crawler Tutorial-1：Basic Structure of a Web Page'
 date: 2018-09-11
 categories: Crawler
-tags: [Crawler, Python, English]
+tags: [Crawler, Python]
 ---
 
 In this era of information, everyone should notice the value of information. Wherever there is information, there is also treasure and success! If you can build your own web crawler, it will be easier for you to acquire the huge treasure in the world of Internet.  

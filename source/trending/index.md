@@ -1,7 +1,8 @@
 ---
 title: Trending
 comments: false
-no_toc: true
+toc:
+  enable: false
 ---
 
 > Scraped from [GitHub](https://github.com/trending), [Medium](https://medium.com/topic/popular)

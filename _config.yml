@@ -105,59 +105,6 @@ search:
   limit: 10000
   content: true
 
-# speed up
-# hexo-filter-optimize
-filter_optimize:
-  enable: true
-   #remove static resource query string
-     #- like `?v=1.0.0`
-  remove_query_string: true
-   #remove the surrounding comments in each of the bundled files
-  remove_comments: false
-  css:
-    enable: true
-    # bundle loaded css file into the one
-    bundle: true
-    # use a script block to load css elements dynamically
-    delivery: true
-    # make specific css content inline into the html page
-       #- only support the full path
-       #- default is ['css/main.css']
-    inlines:
-    excludes:
-      #- '**/font-awesome.min.css'
-
-  js:
-     #bundle loaded js file into the one
-    bundle: false
-    excludes:
-  # set the priority of this plugin,
-  # lower means it will be executed first, default is 10
-  priority:
-
-# hexo-neat
-# post minify
-neat_enable: true
-# html minify
-neat_html:
-  enable: true
-  exclude:
-# css minify 
-neat_css:
-  enable: true
-  exclude:
-    #- '**/*.min.css'
-# js minify
-neat_js:
-  enable: true
-  mangle: true
-  output:
-  compress:
-  exclude:
-    #- '**/*.min.js'
-    #- '**/index.js'
-
-
 # music
 aplayer:
   meting: true
@@ -170,3 +117,7 @@ deploy:
   type: git
   repo: git@github.com:S-W-K/s-w-k.github.io.git
   #branch: master
+  
+# full-half-width between Chinese and English
+marked: {smartypants: false}
+

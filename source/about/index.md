@@ -1,7 +1,8 @@
 ---
 title: About
 comments: false
-no_toc: true
+toc:
+  enable: false
 ---
 
 <blockquote class="blockquote-center"><font size=100% color='gray'><i>Stay Hungry Stay Foolish</i></font></blockquote>
@@ -27,28 +28,4 @@ Here are my projects👉[Github](https://github.com/S-W-K)
 
 - DeepLearning 
 - Natural Language Processing
-- News Text Analysis and Stock Market Analysis
-
----
-
-Hi，我是史文恺，一只现役大学生, 坐标岛国。喜欢码代码，写爬虫，爱好摄影。修炼各种技术，绝招尚在开发中。
-
-我的项目👉[Github](https://github.com/S-W-K)  
-
-#### 研究
-
-- 深度学习
-- 自然语言处理
-- 新闻的文本处理与股市分析
-
----
-
-こんにちは，シ ブンガイです．現役M1，趣味はプログラミング，音楽，オンラインゲーム，撮影...
-
-開発したプロジェクトはこちら👉[Github](https://github.com/S-W-K)  
-
-#### 研究
-
-- ディープラーニング 
-- 自然言語処理
-- ニューステキスト分析と株式市場分析
+- Stock Market Analysis
