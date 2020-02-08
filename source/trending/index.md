@@ -11,108 +11,108 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**2019ncovmemory/nCovMemory**](https://github.com/2019ncovmemory/nCovMemory)
-2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
-2. [**KikiLetGo/VirusBroadcast**](https://github.com/KikiLetGo/VirusBroadcast)
-A java virus broadcast simulation
-3. [**facebookresearch/pytorch3d**](https://github.com/facebookresearch/pytorch3d)
+1. [**facebookresearch/pytorch3d**](https://github.com/facebookresearch/pytorch3d)
 PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-4. [**zhanyong-wan/dongbei**](https://github.com/zhanyong-wan/dongbei)
-东北方言编程语言
-5. [**NVAITC/ai-lab**](https://github.com/NVAITC/ai-lab)
-All-in-one AI container for rapid prototyping
-6. [**B-Lang-org/bsc**](https://github.com/B-Lang-org/bsc)
-Bluespec Compiler (BSC)
-7. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
-All Algorithms implemented in Python
-8. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
+2. [**trustedsec/SysmonCommunityGuide**](https://github.com/trustedsec/SysmonCommunityGuide)
+TrustedSec Sysinternals Sysmon Community Guide
+3. [**complexdb/zincbase**](https://github.com/complexdb/zincbase)
+A state of the art knowledge base
+4. [**2019ncovmemory/nCovMemory**](https://github.com/2019ncovmemory/nCovMemory)
+2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCov: Media Coverage, Non-fiction Writing, and Individual Narratives (Continuously updating)
+5. [**gofiber/fiber**](https://github.com/gofiber/fiber)
+🚀 Fiber is an Express.js inspired web framework written in Go with 💖
+6. [**felipefialho/frontend-challenges**](https://github.com/felipefialho/frontend-challenges)
+💥 Listing some playful open-source's challenges of jobs to test your knowledge
+7. [**ReFirmLabs/binwalk**](https://github.com/ReFirmLabs/binwalk)
+Firmware Analysis Tool
+8. [**tangyudi/Ai-learn**](https://github.com/tangyudi/Ai-learn)
+人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+9. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
 🤓 Build your own (insert technology here)
-9. [**smodnix/31-days-of-API-Security-Tips**](https://github.com/smodnix/31-days-of-API-Security-Tips)
-This challenge is Inon Shkedy's 31 days API Security Tips.
-10. [**microsoft/WhatTheHack**](https://github.com/microsoft/WhatTheHack)
-A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
-11. [**Inori/GPCS4**](https://github.com/Inori/GPCS4)
+10. [**Inori/GPCS4**](https://github.com/Inori/GPCS4)
 A Playstation 4 emulator just begin
-12. [**justinamiller/SoftwareArchitect**](https://github.com/justinamiller/SoftwareArchitect)
-Path to a Software Architect
-13. [**angular/angular**](https://github.com/angular/angular)
-One framework. Mobile & desktop.
-14. [**gofiber/fiber**](https://github.com/gofiber/fiber)
-🚀 Fiber is an Express.js inspired web framework written in Go 🐿️
-15. [**OLayemii/chyker-foods**](https://github.com/OLayemii/chyker-foods)
-A food ordering app built with flutter and firebase
-16. [**baowenbo/DAIN**](https://github.com/baowenbo/DAIN)
-Depth-Aware Video Frame Interpolation (CVPR 2019)
-17. [**eclipse-theia/theia**](https://github.com/eclipse-theia/theia)
-Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+11. [**KevinMusgrave/pytorch-metric-learning**](https://github.com/KevinMusgrave/pytorch-metric-learning)
+The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+12. [**cortexlabs/cortex**](https://github.com/cortexlabs/cortex)
+Deploy machine learning models in production
+13. [**cycz/jdBuyMask**](https://github.com/cycz/jdBuyMask)
+京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
+14. [**zhaoolee/ChromeAppHeroes**](https://github.com/zhaoolee/ChromeAppHeroes)
+🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+15. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
+All Algorithms implemented in Python
+16. [**grafana/grafana**](https://github.com/grafana/grafana)
+The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+17. [**996icu/996.ICU**](https://github.com/996icu/996.ICU)
+Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 18. [**airbnb/javascript**](https://github.com/airbnb/javascript)
 JavaScript Style Guide
-19. [**jaredpalmer/tsdx**](https://github.com/jaredpalmer/tsdx)
-Zero-config CLI for TypeScript package development
-20. [**facebook/create-react-app**](https://github.com/facebook/create-react-app)
-Set up a modern web app by running one command.
-21. [**php/php-src**](https://github.com/php/php-src)
-The PHP Interpreter
-22. [**yewstack/yew**](https://github.com/yewstack/yew)
-Rust / Wasm framework for building client web apps
-23. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
-Pre-Built Vulnerable Environments Based on Docker-Compose
-24. [**felipefialho/frontend-challenges**](https://github.com/felipefialho/frontend-challenges)
-💥 Listing some playful open-source's challenges of jobs to test your knowledge
-25. [**ehang-io/nps**](https://github.com/ehang-io/nps)
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+19. [**jasontaylordev/CleanArchitecture**](https://github.com/jasontaylordev/CleanArchitecture)
+Clean Architecture Solution Template for Angular 8 and .NET Core 3.1
+20. [**microsoft/WhatTheHack**](https://github.com/microsoft/WhatTheHack)
+A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
+21. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+22. [**tlbootcamp/tlroadmap**](https://github.com/tlbootcamp/tlroadmap)
+👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
+23. [**aspnetboilerplate/aspnetboilerplate**](https://github.com/aspnetboilerplate/aspnetboilerplate)
+ASP.NET Boilerplate - Web Application Framework
+24. [**dotnet/runtime**](https://github.com/dotnet/runtime)
+.NET is a cross-platform runtime for cloud, IoT, and desktop apps.
+25. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**smicallef/spiderfoot**](https://github.com/smicallef/spiderfoot)
-SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-2. [**sovereign/sovereign**](https://github.com/sovereign/sovereign)
-A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-3. [**wuhan2020/map-viz**](https://github.com/wuhan2020/map-viz)
-通用的地图可视化组件
-4. [**pandas-dev/pandas**](https://github.com/pandas-dev/pandas)
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-5. [**Unity-Technologies/DOTSSample**](https://github.com/Unity-Technologies/DOTSSample)
-A third person, multiplayer sample project. Built with Unity and using the new Data Oriented Tech Stack (DOTS).
-6. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google AI Research
-7. [**2dust/v2rayNG**](https://github.com/2dust/v2rayNG)
-No repo_description
-8. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
-Next Generation of ShadowsocksX
-9. [**wuhan2020/wuhan2020**](https://github.com/wuhan2020/wuhan2020)
-新型冠状病毒防疫信息收集平台
-10. [**heartexlabs/label-studio**](https://github.com/heartexlabs/label-studio)
-Label Studio is a multi-type data labeling and annotation tool with standardized output format
-11. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
-A platform for building proxies to bypass network restrictions.
-12. [**google/googletest**](https://github.com/google/googletest)
-Googletest - Google Testing and Mocking Framework
-13. [**godotengine/godot**](https://github.com/godotengine/godot)
-Godot Engine – Multi-platform 2D and 3D game engine
-14. [**SwiftDocOrg/swift-doc**](https://github.com/SwiftDocOrg/swift-doc)
-Generates documentation for Swift projects
-15. [**rust-analyzer/rust-analyzer**](https://github.com/rust-analyzer/rust-analyzer)
-An experimental Rust compiler front-end for IDEs
-16. [**googlehosts/hosts**](https://github.com/googlehosts/hosts)
-镜像：https://coding.net/u/scaffrey/p/hosts/git
-17. [**enkodellc/blazorboilerplate**](https://github.com/enkodellc/blazorboilerplate)
-Blazor Boilerplate / Starter Template with MatBlazor
-18. [**quasarframework/quasar**](https://github.com/quasarframework/quasar)
-Quasar Framework - Build high-performance VueJS user interfaces in record time
-19. [**getlantern/lantern**](https://github.com/getlantern/lantern)
-Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-20. [**bradtraversy/vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects)
+1. [**bradtraversy/vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects)
 Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-21. [**233boy/v2ray**](https://github.com/233boy/v2ray)
-最好用的 V2Ray 一键安装脚本 & 管理脚本
-22. [**ReactTraining/react-router**](https://github.com/ReactTraining/react-router)
-Declarative routing for React
-23. [**remoteintech/remote-jobs**](https://github.com/remoteintech/remote-jobs)
+2. [**google/OpenSK**](https://github.com/google/OpenSK)
+OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+3. [**globalcitizen/2019-wuhan-coronavirus-data**](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
+2019 Wuhan Coronavirus data (2019-nCoV)
+4. [**hzwer/shareOI**](https://github.com/hzwer/shareOI)
+算法竞赛课件分享
+5. [**facebookresearch/pytorch3d**](https://github.com/facebookresearch/pytorch3d)
+PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
+6. [**NVlabs/stylegan2**](https://github.com/NVlabs/stylegan2)
+StyleGAN2 - Official TensorFlow Implementation
+7. [**jonnyhyman/Chaos**](https://github.com/jonnyhyman/Chaos)
+Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
+8. [**wuhan2020/map-viz**](https://github.com/wuhan2020/map-viz)
+通用的地图可视化组件
+9. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+A platform for building proxies to bypass network restrictions.
+10. [**smicallef/spiderfoot**](https://github.com/smicallef/spiderfoot)
+SpiderFoot, the most complete OSINT collection and reconnaissance tool.
+11. [**pandas-dev/pandas**](https://github.com/pandas-dev/pandas)
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+12. [**ivanpaulovich/clean-architecture-manga**](https://github.com/ivanpaulovich/clean-architecture-manga)
+🌀 Clean Architecture with .NET Core 3.1 and C# 8. Use cases as central organizing structure, completely testable, decoupled from frameworks
+13. [**remoteintech/remote-jobs**](https://github.com/remoteintech/remote-jobs)
 A list of semi to fully remote-friendly companies in tech.
-24. [**lukasz-madon/awesome-remote-job**](https://github.com/lukasz-madon/awesome-remote-job)
-A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-25. [**shfshanyue/2019-ncov**](https://github.com/shfshanyue/2019-ncov)
-全国新型冠状病毒，肺炎疫情实时省市地图
+14. [**shadowsocks/ShadowsocksX-NG**](https://github.com/shadowsocks/ShadowsocksX-NG)
+Next Generation of ShadowsocksX
+15. [**2dust/v2rayNG**](https://github.com/2dust/v2rayNG)
+No repo_description
+16. [**google/googletest**](https://github.com/google/googletest)
+Googletest - Google Testing and Mocking Framework
+17. [**desktop/desktop**](https://github.com/desktop/desktop)
+Simple collaboration from your desktop
+18. [**n64decomp/sm64**](https://github.com/n64decomp/sm64)
+A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+19. [**233boy/v2ray**](https://github.com/233boy/v2ray)
+最好用的 V2Ray 一键安装脚本 & 管理脚本
+20. [**google-research/google-research**](https://github.com/google-research/google-research)
+Google AI Research
+21. [**ReactTraining/react-router**](https://github.com/ReactTraining/react-router)
+Declarative routing for React
+22. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
+An unidentifiable mechanism that helps you bypass GFW.
+23. [**rust-analyzer/rust-analyzer**](https://github.com/rust-analyzer/rust-analyzer)
+An experimental Rust compiler front-end for IDEs
+24. [**cli/cli**](https://github.com/cli/cli)
+the GitHub CLI
+25. [**williamfiset/Algorithms**](https://github.com/williamfiset/Algorithms)
+A collection of algorithms and data structures
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**denoland/deno**](https://github.com/denoland/deno)
@@ -125,46 +125,46 @@ A collection of algorithms and data structures
 open source driving agent
 5. [**tiangolo/fastapi**](https://github.com/tiangolo/fastapi)
 FastAPI framework, high performance, easy to learn, fast to code, ready for production
-6. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
-An unidentifiable mechanism that helps you bypass GFW.
+6. [**godotengine/godot**](https://github.com/godotengine/godot)
+Godot Engine – Multi-platform 2D and 3D game engine
 7. [**zeit/next.js**](https://github.com/zeit/next.js)
 The React Framework
-8. [**godotengine/godot**](https://github.com/godotengine/godot)
-Godot Engine – Multi-platform 2D and 3D game engine
-9. [**tailwindcss/tailwindcss**](https://github.com/tailwindcss/tailwindcss)
-A utility-first CSS framework for rapid UI development.
-10. [**puppeteer/puppeteer**](https://github.com/puppeteer/puppeteer)
-Headless Chrome Node.js API
-11. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
+8. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
 "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-12. [**gatsbyjs/gatsby**](https://github.com/gatsbyjs/gatsby)
-Build blazing fast, modern apps and websites with React
-13. [**nestjs/nest**](https://github.com/nestjs/nest)
+9. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
+An unidentifiable mechanism that helps you bypass GFW.
+10. [**nestjs/nest**](https://github.com/nestjs/nest)
 A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-14. [**azl397985856/leetcode**](https://github.com/azl397985856/leetcode)
-LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-15. [**CoreyMSchafer/code_snippets**](https://github.com/CoreyMSchafer/code_snippets)
-No repo_description
-16. [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge)
-A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-17. [**easychen/howto-make-more-money**](https://github.com/easychen/howto-make-more-money)
-程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
-18. [**actix/actix-web**](https://github.com/actix/actix-web)
-Actix web is a small, pragmatic, and extremely fast rust web framework.
-19. [**ryanmcdermott/clean-code-javascript**](https://github.com/ryanmcdermott/clean-code-javascript)
-🛁 Clean Code concepts adapted for JavaScript
-20. [**smicallef/spiderfoot**](https://github.com/smicallef/spiderfoot)
-SpiderFoot, the most complete OSINT collection and reconnaissance tool.
-21. [**wesbos/awesome-uses**](https://github.com/wesbos/awesome-uses)
-A list of /uses pages detailing developer setups, gear, software and configs.
-22. [**yuanming-hu/difftaichi**](https://github.com/yuanming-hu/difftaichi)
-10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-23. [**facebookresearch/wav2letter**](https://github.com/facebookresearch/wav2letter)
-Facebook AI Research's Automatic Speech Recognition Toolkit
-24. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
+11. [**hashicorp/terraform**](https://github.com/hashicorp/terraform)
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+12. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-25. [**facebook/react-native**](https://github.com/facebook/react-native)
+13. [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge)
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+14. [**easychen/howto-make-more-money**](https://github.com/easychen/howto-make-more-money)
+程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
+15. [**TerryCavanagh/VVVVVV**](https://github.com/TerryCavanagh/VVVVVV)
+The source code to VVVVVV!
+16. [**actix/actix-web**](https://github.com/actix/actix-web)
+Actix web is a small, pragmatic, and extremely fast rust web framework.
+17. [**smicallef/spiderfoot**](https://github.com/smicallef/spiderfoot)
+SpiderFoot, the most complete OSINT collection and reconnaissance tool.
+18. [**ryanmcdermott/clean-code-javascript**](https://github.com/ryanmcdermott/clean-code-javascript)
+🛁 Clean Code concepts adapted for JavaScript
+19. [**azl397985856/leetcode**](https://github.com/azl397985856/leetcode)
+LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+20. [**binhnguyennus/awesome-scalability**](https://github.com/binhnguyennus/awesome-scalability)
+The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+21. [**facebookresearch/wav2letter**](https://github.com/facebookresearch/wav2letter)
+Facebook AI Research's Automatic Speech Recognition Toolkit
+22. [**tailwindcss/tailwindcss**](https://github.com/tailwindcss/tailwindcss)
+A utility-first CSS framework for rapid UI development.
+23. [**yarnpkg/berry**](https://github.com/yarnpkg/berry)
+📦🐈 The active development trunk for Yarn 2 ⚒
+24. [**facebook/react-native**](https://github.com/facebook/react-native)
 A framework for building native apps with React.
+25. [**seanmonstar/warp**](https://github.com/seanmonstar/warp)
+A super-easy, composable, web server framework for warp speeds.
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
