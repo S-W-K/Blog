@@ -51,7 +51,7 @@ An Open Source Machine Learning Framework for Everyone
 BERT-related papers
 20. [**go-gitea/gitea**](https://github.com/go-gitea/gitea)
 Git with a cup of tea, painless self-hosted git service
-21. [**home-assistant/home-assistant**](https://github.com/home-assistant/home-assistant)
+21. [**home-assistant/core**](https://github.com/home-assistant/core)
 🏡 Open source home automation that puts local control and privacy first
 22. [**huawei-noah/ghostnet**](https://github.com/huawei-noah/ghostnet)
 [CVPR2020] Surpassing MobileNetV3: "GhostNet: More Features from Cheap Operations"
@@ -168,25 +168,25 @@ A book series on JavaScript. @YDKJS on twitter.
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
-1. [**Inside a Secretive $250 Million Private Transit System Just for Techies**](https://onezero.medium.com/only-the-elite-have-nice-commutes-in-silicon-valley-8b2761863925?source=topic_page---------------------------20)
+1. [**There’s an Epidemic That’s a Bigger Threat Than the Coronavirus**](https://heated.medium.com/theres-an-epidemic-that-s-a-bigger-threat-than-the-coronavirus-ce6e0697185b?source=topic_page---------------------------20)
 
-2. [**How a Hot $100 Million Design Startup Collapsed Overnight**](https://marker.medium.com/how-homepolishs-extremely-instagrammable-house-of-cards-came-tumbling-down-d7a7d1780ddc?source=topic_page---------0------------------1)
+2. [**There’s No Such Thing as ‘Quality’ Time**](https://forge.medium.com/theres-no-such-thing-as-quality-time-58db618c099d?source=topic_page---------0------------------1)
 
-3. [**The Horrifying Things I’ve Seen as an Office Manager in Silicon Valley**](https://thebolditalic.com/the-horrifying-things-ive-seen-as-an-office-manager-in-silicon-valley-8b572c6a7c72?source=topic_page---------1------------------1)
+3. [**Three Magical Phrases to Comfort a Dying Person**](https://humanparts.medium.com/three-magic-phrases-to-say-to-a-dying-person-2091872bd487?source=topic_page---------1------------------1)
 
-4. [**Something Is Causing Our Eyeballs to Elongate**](https://elemental.medium.com/something-is-causing-our-eyeballs-to-elongate-df3e5dc5e371?source=topic_page---------2------------------1)
+4. [**Lessons I’ve Learned From Studying Money for 10 Years**](https://medium.com/swlh/lessons-ive-learned-from-studying-money-for-10-years-50ca03854887?source=topic_page---------2------------------1)
 
-5. [**The Future of Housing May Be $2,000 Dorm Rooms for Grownups**](https://onezero.medium.com/a-startup-is-renting-adult-dorms-to-solve-silicon-valleys-housing-crisis-f792d1262a46?source=topic_page---------4------------------1)
+5. [**Inside a Secretive $250 Million Private Transit System Just for Techies**](https://onezero.medium.com/only-the-elite-have-nice-commutes-in-silicon-valley-8b2761863925?source=topic_page---------4------------------1)
 
-6. [**Apple’s Secret Monopoly**](https://onezero.medium.com/apples-secret-monopoly-5718272c16a5?source=topic_page---------5------------------1)
+6. [**How a Hot $100 Million Design Startup Collapsed Overnight**](https://marker.medium.com/how-homepolishs-extremely-instagrammable-house-of-cards-came-tumbling-down-d7a7d1780ddc?source=topic_page---------5------------------1)
 
-7. [**Three Magical Phrases to Comfort a Dying Person**](https://humanparts.medium.com/three-magic-phrases-to-say-to-a-dying-person-2091872bd487?source=topic_page---------6------------------1)
+7. [**The Horrifying Things I’ve Seen as an Office Manager in Silicon Valley**](https://thebolditalic.com/the-horrifying-things-ive-seen-as-an-office-manager-in-silicon-valley-8b572c6a7c72?source=topic_page---------6------------------1)
 
-8. [**Keanu Reeves Rarely Talks About Money — but When He Does, It’s Life-Changing**](https://medium.com/swlh/keanu-reeves-rarely-talks-about-money-but-when-he-does-its-life-changing-8a89175ad694?source=topic_page---------7------------------1)
+8. [**Something Is Causing Our Eyeballs to Elongate**](https://elemental.medium.com/something-is-causing-our-eyeballs-to-elongate-df3e5dc5e371?source=topic_page---------7------------------1)
 
-9. [**Why High-Achieving Women Pretend Their Lives Are a Mess**](https://forge.medium.com/why-high-achieving-women-pretend-their-lives-are-in-shambles-15d9e3c02271?source=topic_page---------8------------------1)
+9. [**The Future of Housing May Be $2,000 Dorm Rooms for Grownups**](https://onezero.medium.com/a-startup-is-renting-adult-dorms-to-solve-silicon-valleys-housing-crisis-f792d1262a46?source=topic_page---------8------------------1)
 
-10. [**After Attending a Trump Rally, I Realized Democrats Are Not Ready For 2020**](https://gen.medium.com/ive-been-a-democrat-for-20-years-here-s-what-i-experienced-at-trump-s-rally-in-new-hampshire-c69ddaaf6d07?source=topic_page---------9------------------1)
+10. [**Apple’s Secret Monopoly**](https://onezero.medium.com/apples-secret-monopoly-5718272c16a5?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
