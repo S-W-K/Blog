@@ -80,7 +80,7 @@ Lean's OpenWrt source
 8. [**haotian-wang/google-access-helper**](https://github.com/haotian-wang/google-access-helper)
 谷歌访问助手破解版
 9. [**Shpota/goxygen**](https://github.com/Shpota/goxygen)
-Generate a modern web project with Go, React and MongoDB in seconds🚀
+Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
 10. [**Alamofire/Alamofire**](https://github.com/Alamofire/Alamofire)
 Elegant HTTP Networking in Swift
 11. [**elastic/eui**](https://github.com/elastic/eui)
@@ -150,7 +150,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 17. [**bradtraversy/vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects)
 Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 18. [**Alvin9999/new-pac**](https://github.com/Alvin9999/new-pac)
-科学上网/自由上网/软件/方法，免费shadowsocks/ss/ssr/v2ray/goflyway账号，vps一键搭建脚本/教程
+科学上网/自由上网/翻墙/软件/方法，免费shadowsocks/ss/ssr/v2ray/goflyway账号，vps一键搭建脚本/教程
 19. [**yanue/V2rayU**](https://github.com/yanue/V2rayU)
 V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 20. [**remoteintech/remote-jobs**](https://github.com/remoteintech/remote-jobs)
@@ -172,21 +172,21 @@ A book series on JavaScript. @YDKJS on twitter.
 
 2. [**There’s No Such Thing as ‘Quality’ Time**](https://forge.medium.com/theres-no-such-thing-as-quality-time-58db618c099d?source=topic_page---------0------------------1)
 
-3. [**Three Magical Phrases to Comfort a Dying Person**](https://humanparts.medium.com/three-magic-phrases-to-say-to-a-dying-person-2091872bd487?source=topic_page---------1------------------1)
+3. [**31 Important Things You Should Say No to For a Happier Life**](https://forge.medium.com/31-important-things-you-should-say-no-to-for-a-happier-life-a34a1e947579?source=topic_page---------1------------------1)
 
-4. [**Lessons I’ve Learned From Studying Money for 10 Years**](https://medium.com/swlh/lessons-ive-learned-from-studying-money-for-10-years-50ca03854887?source=topic_page---------2------------------1)
+4. [**Three Magical Phrases to Comfort a Dying Person**](https://humanparts.medium.com/three-magic-phrases-to-say-to-a-dying-person-2091872bd487?source=topic_page---------2------------------1)
 
-5. [**Inside a Secretive $250 Million Private Transit System Just for Techies**](https://onezero.medium.com/only-the-elite-have-nice-commutes-in-silicon-valley-8b2761863925?source=topic_page---------4------------------1)
+5. [**Lessons I’ve Learned From Studying Money for 10 Years**](https://medium.com/swlh/lessons-ive-learned-from-studying-money-for-10-years-50ca03854887?source=topic_page---------4------------------1)
 
-6. [**How a Hot $100 Million Design Startup Collapsed Overnight**](https://marker.medium.com/how-homepolishs-extremely-instagrammable-house-of-cards-came-tumbling-down-d7a7d1780ddc?source=topic_page---------5------------------1)
+6. [**Inside a Secretive $250 Million Private Transit System Just for Techies**](https://onezero.medium.com/only-the-elite-have-nice-commutes-in-silicon-valley-8b2761863925?source=topic_page---------5------------------1)
 
-7. [**The Horrifying Things I’ve Seen as an Office Manager in Silicon Valley**](https://thebolditalic.com/the-horrifying-things-ive-seen-as-an-office-manager-in-silicon-valley-8b572c6a7c72?source=topic_page---------6------------------1)
+7. [**How a Hot $100 Million Design Startup Collapsed Overnight**](https://marker.medium.com/how-homepolishs-extremely-instagrammable-house-of-cards-came-tumbling-down-d7a7d1780ddc?source=topic_page---------6------------------1)
 
-8. [**Something Is Causing Our Eyeballs to Elongate**](https://elemental.medium.com/something-is-causing-our-eyeballs-to-elongate-df3e5dc5e371?source=topic_page---------7------------------1)
+8. [**The Horrifying Things I’ve Seen as an Office Manager in Silicon Valley**](https://thebolditalic.com/the-horrifying-things-ive-seen-as-an-office-manager-in-silicon-valley-8b572c6a7c72?source=topic_page---------7------------------1)
 
-9. [**The Future of Housing May Be $2,000 Dorm Rooms for Grownups**](https://onezero.medium.com/a-startup-is-renting-adult-dorms-to-solve-silicon-valleys-housing-crisis-f792d1262a46?source=topic_page---------8------------------1)
+9. [**Something Is Causing Our Eyeballs to Elongate**](https://elemental.medium.com/something-is-causing-our-eyeballs-to-elongate-df3e5dc5e371?source=topic_page---------8------------------1)
 
-10. [**Apple’s Secret Monopoly**](https://onezero.medium.com/apples-secret-monopoly-5718272c16a5?source=topic_page---------9------------------1)
+10. [**The Future of Housing May Be $2,000 Dorm Rooms for Grownups**](https://onezero.medium.com/a-startup-is-renting-adult-dorms-to-solve-silicon-valleys-housing-crisis-f792d1262a46?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
