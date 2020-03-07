@@ -16,7 +16,7 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 2. [**ShiqiYu/libfacedetection**](https://github.com/ShiqiYu/libfacedetection)
 An open source library for face detection in images. The face detection speed can reach 1000FPS.
 3. [**keroro824/HashingDeepLearning**](https://github.com/keroro824/HashingDeepLearning)
-No repo_description
+Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 4. [**alibaba/DataX**](https://github.com/alibaba/DataX)
 No repo_description
 5. [**monitoror/monitoror**](https://github.com/monitoror/monitoror)
