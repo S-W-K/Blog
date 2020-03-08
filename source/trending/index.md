@@ -11,160 +11,160 @@ auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**tokyo-metropolitan-gov/covid19**](https://github.com/tokyo-metropolitan-gov/covid19)
-東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
-2. [**ShiqiYu/libfacedetection**](https://github.com/ShiqiYu/libfacedetection)
-An open source library for face detection in images. The face detection speed can reach 1000FPS.
-3. [**keroro824/HashingDeepLearning**](https://github.com/keroro824/HashingDeepLearning)
-Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-4. [**alibaba/DataX**](https://github.com/alibaba/DataX)
-No repo_description
-5. [**monitoror/monitoror**](https://github.com/monitoror/monitoror)
-Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-6. [**corellium/projectsandcastle**](https://github.com/corellium/projectsandcastle)
-Supporting tools for Android/Linux on the iPhone
-7. [**kelseyhightower/nocode**](https://github.com/kelseyhightower/nocode)
-The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-8. [**Azure/azure-quickstart-templates**](https://github.com/Azure/azure-quickstart-templates)
-Azure Quickstart Templates
-9. [**alexeygrigorev/data-science-interviews**](https://github.com/alexeygrigorev/data-science-interviews)
-Data science interview questions and answers
-10. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
+1. [**firecracker-microvm/firecracker**](https://github.com/firecracker-microvm/firecracker)
+Secure and fast microVMs for serverless computing.
+2. [**subnub/myDrive**](https://github.com/subnub/myDrive)
+Node.js and mongoDB Google Drive Clone
+3. [**ouyanghuiyu/chineseocr_lite**](https://github.com/ouyanghuiyu/chineseocr_lite)
+超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+4. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
 Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-11. [**PowerShell/PowerShell**](https://github.com/PowerShell/PowerShell)
-PowerShell for every system!
-12. [**Atcold/pytorch-Deep-Learning**](https://github.com/Atcold/pytorch-Deep-Learning)
-Deep Learning (with PyTorch)
-13. [**cli/cli**](https://github.com/cli/cli)
-The GitHub CLI
-14. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-15. [**nextstrain/ncov**](https://github.com/nextstrain/ncov)
-Nextstrain build for novel coronavirus (nCoV)
-16. [**NVlabs/stylegan2**](https://github.com/NVlabs/stylegan2)
-StyleGAN2 - Official TensorFlow Implementation
-17. [**huggingface/transformers**](https://github.com/huggingface/transformers)
-🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-18. [**marmelab/react-admin**](https://github.com/marmelab/react-admin)
-A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-19. [**matplotlib/matplotlib**](https://github.com/matplotlib/matplotlib)
-matplotlib: plotting with Python
-20. [**bacen/pix-dict-quickstart**](https://github.com/bacen/pix-dict-quickstart)
-Quickstart da API do DICT
-21. [**nodejs/node**](https://github.com/nodejs/node)
-Node.js JavaScript runtime ✨🐢🚀✨
-22. [**spring-projects/spring-boot**](https://github.com/spring-projects/spring-boot)
-Spring Boot
-23. [**mui-org/material-ui**](https://github.com/mui-org/material-ui)
+5. [**MinterTeam/minter-go-node**](https://github.com/MinterTeam/minter-go-node)
+🚀 Official Minter Blockchain Implementation in Go
+6. [**ondata/covid19italia**](https://github.com/ondata/covid19italia)
+No repo_description
+7. [**PizzaPokerGuy/ultimate-coding-resources**](https://github.com/PizzaPokerGuy/ultimate-coding-resources)
+A collection of the best resources for programming, web development, computer science and more.
+8. [**ShiqiYu/libfacedetection**](https://github.com/ShiqiYu/libfacedetection)
+An open source library for face detection in images. The face detection speed can reach 1000FPS.
+9. [**wearebraid/vue-formulate**](https://github.com/wearebraid/vue-formulate)
+The easiest way to build forms using Vue.
+10. [**tylerha97/awesome-reversing**](https://github.com/tylerha97/awesome-reversing)
+A curated list of awesome reversing resources
+11. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+12. [**NationalSecurityAgency/ghidra**](https://github.com/NationalSecurityAgency/ghidra)
+Ghidra is a software reverse engineering (SRE) framework
+13. [**dotnet-architecture/eShopOnContainers**](https://github.com/dotnet-architecture/eShopOnContainers)
+Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+14. [**ziishaned/learn-regex**](https://github.com/ziishaned/learn-regex)
+Learn regex the easy way
+15. [**HospitalRun/hospitalrun-frontend**](https://github.com/HospitalRun/hospitalrun-frontend)
+Frontend for HospitalRun
+16. [**mui-org/material-ui**](https://github.com/mui-org/material-ui)
 React components for faster and easier web development. Build your own design system, or start with Material Design.
-24. [**react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form)
-📋 React hooks for forms validation without the hassle.
-25. [**zhou-xiaojun/jd_mask**](https://github.com/zhou-xiaojun/jd_mask)
-京东定时自动预约,抢购.(只针对性支持要先预约,到点抢购.然后直接下单的商品!)
+17. [**dotnet/runtime**](https://github.com/dotnet/runtime)
+.NET is a cross-platform runtime for cloud, IoT, and desktop apps.
+18. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+19. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
+Lean's OpenWrt source
+20. [**iikira/BaiduPCS-Go**](https://github.com/iikira/BaiduPCS-Go)
+百度网盘客户端 - Go语言编写
+21. [**twbs/bootstrap**](https://github.com/twbs/bootstrap)
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+22. [**graphdeeplearning/benchmarking-gnns**](https://github.com/graphdeeplearning/benchmarking-gnns)
+Repository for benchmarking graph neural networks
+23. [**JuliaLang/julia**](https://github.com/JuliaLang/julia)
+The Julia Language: A fresh approach to technical computing.
+24. [**macrozheng/mall**](https://github.com/macrozheng/mall)
+mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+25. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
+1. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
+手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+2. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
 Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-2. [**facebookexperimental/rome**](https://github.com/facebookexperimental/rome)
-An experimental JavaScript toolchain
-3. [**geektutu/7days-golang**](https://github.com/geektutu/7days-golang)
+3. [**fastai/fastbook**](https://github.com/fastai/fastbook)
+Draft of the fastai book
+4. [**geektutu/7days-golang**](https://github.com/geektutu/7days-golang)
 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列
-4. [**ShiqiYu/libfacedetection**](https://github.com/ShiqiYu/libfacedetection)
-An open source library for face detection in images. The face detection speed can reach 1000FPS.
-5. [**MustangYM/WeChatExtension-ForMac**](https://github.com/MustangYM/WeChatExtension-ForMac)
-Mac版微信的功能拓展
-6. [**antvis/G2**](https://github.com/antvis/G2)
-📊 A highly interactive data-driven visualization grammar for statistical charts.
-7. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
+5. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
 《On Java 8》中文版，又名《Java编程思想》 第5版
-8. [**allthemusicllc/atm-cli**](https://github.com/allthemusicllc/atm-cli)
-Command line tool for generating and working with MIDI files.
-9. [**ant-design/ant-design-pro**](https://github.com/ant-design/ant-design-pro)
-👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-10. [**refactoringui/heroicons**](https://github.com/refactoringui/heroicons)
-A set of free MIT-licensed high-quality SVG icons for UI development.
-11. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
+6. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
 Spring Boot 2.X 专栏更新完毕，Spring Cloud & Spring Cloud Alibaba 2.X 专栏更新中 。欢迎胖友 Star 一波
-12. [**dfranx/SHADERed**](https://github.com/dfranx/SHADERed)
-Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
-13. [**abhat222/Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
-Cheat Sheets
-14. [**haotian-wang/google-access-helper**](https://github.com/haotian-wang/google-access-helper)
-谷歌访问助手破解版
-15. [**linlinjava/litemall**](https://github.com/linlinjava/litemall)
+7. [**antvis/G2**](https://github.com/antvis/G2)
+📊 A highly interactive data-driven visualization grammar for statistical charts.
+8. [**linlinjava/litemall**](https://github.com/linlinjava/litemall)
 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-16. [**ant-design/ant-design**](https://github.com/ant-design/ant-design)
-🌈 A UI Design Language and React UI library
-17. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-18. [**huginn/huginn**](https://github.com/huginn/huginn)
-Create agents that monitor and act on your behalf. Your agents are standing by!
-19. [**umijs/qiankun**](https://github.com/umijs/qiankun)
+9. [**umijs/qiankun**](https://github.com/umijs/qiankun)
 📦🚀Blazing fast, simple and completed solution for micro frontends.
-20. [**modood/Administrative-divisions-of-China**](https://github.com/modood/Administrative-divisions-of-China)
-中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-21. [**PostHog/posthog**](https://github.com/PostHog/posthog)
-🦔 PostHog is developer-friendly, open-source product analytics.
-22. [**alibaba/DataX**](https://github.com/alibaba/DataX)
+10. [**alibaba/DataX**](https://github.com/alibaba/DataX)
 No repo_description
-23. [**zserge/webview**](https://github.com/zserge/webview)
-Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
-24. [**pingcap/tidb**](https://github.com/pingcap/tidb)
+11. [**dfranx/SHADERed**](https://github.com/dfranx/SHADERed)
+Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+12. [**ant-design/ant-design**](https://github.com/ant-design/ant-design)
+🌈 A UI Design Language and React UI library
+13. [**Shpota/goxygen**](https://github.com/Shpota/goxygen)
+Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
+14. [**AobingJava/JavaFamily**](https://github.com/AobingJava/JavaFamily)
+【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+15. [**ElemeFE/element**](https://github.com/ElemeFE/element)
+A Vue.js 2.0 UI Toolkit for Web
+16. [**ant-design/ant-design-pro**](https://github.com/ant-design/ant-design-pro)
+👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+17. [**zhoutaoo/SpringCloud**](https://github.com/zhoutaoo/SpringCloud)
+基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+18. [**MustangYM/WeChatExtension-ForMac**](https://github.com/MustangYM/WeChatExtension-ForMac)
+Mac版微信的功能拓展
+19. [**pingcap/tidb**](https://github.com/pingcap/tidb)
 TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-25. [**apache/dubbo**](https://github.com/apache/dubbo)
-Apache Dubbo is a high-performance, java based, open source RPC framework.
+20. [**kaz-ogiwara/covid19**](https://github.com/kaz-ogiwara/covid19)
+新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
+21. [**dmlc/dgl**](https://github.com/dmlc/dgl)
+Python package built to ease deep learning on graph, on top of existing DL frameworks.
+22. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+Windows system utilities to maximize productivity
+23. [**strapi/strapi**](https://github.com/strapi/strapi)
+🚀 Open source Node.js Headless CMS to easily build customisable APIs
+24. [**Azure/azure-quickstart-templates**](https://github.com/Azure/azure-quickstart-templates)
+Azure Quickstart Templates
+25. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 <!-- endtab -->
 <!-- tab Monthly -->
-1. [**2019ncovmemory/nCovMemory**](https://github.com/2019ncovmemory/nCovMemory)
-2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating)
-2. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
+1. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
 Lean's OpenWrt source
-3. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
+2. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
 An unidentifiable mechanism that helps you bypass GFW.
+3. [**laurent22/joplin**](https://github.com/laurent22/joplin)
+Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 4. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
 A platform for building proxies to bypass network restrictions.
 5. [**google/trax**](https://github.com/google/trax)
 Trax — your path to advanced deep learning
-6. [**laurent22/joplin**](https://github.com/laurent22/joplin)
-Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+6. [**getlantern/lantern**](https://github.com/getlantern/lantern)
+Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
 7. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
 No repo_description
-8. [**getlantern/lantern**](https://github.com/getlantern/lantern)
-Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-9. [**laravel/laravel**](https://github.com/laravel/laravel)
+8. [**laravel/laravel**](https://github.com/laravel/laravel)
 A PHP framework for web artisans
-10. [**commaai/openpilot**](https://github.com/commaai/openpilot)
-open source driving agent
-11. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
-A complete computer science study plan to become a software engineer.
-12. [**233boy/v2ray**](https://github.com/233boy/v2ray)
-最好用的 V2Ray 一键安装脚本 & 管理脚本
-13. [**linlinjava/litemall**](https://github.com/linlinjava/litemall)
+9. [**facebookresearch/pytorch3d**](https://github.com/facebookresearch/pytorch3d)
+PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
+10. [**alpinejs/alpine**](https://github.com/alpinejs/alpine)
+A rugged, minimal framework for composing JavaScript behavior in your markup.
+11. [**linlinjava/litemall**](https://github.com/linlinjava/litemall)
 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-14. [**NationalSecurityAgency/ghidra**](https://github.com/NationalSecurityAgency/ghidra)
-Ghidra is a software reverse engineering (SRE) framework
+12. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
+A complete computer science study plan to become a software engineer.
+13. [**commaai/openpilot**](https://github.com/commaai/openpilot)
+open source driving agent
+14. [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
+Master the command line, in one page
 15. [**Dreamacro/clash**](https://github.com/Dreamacro/clash)
 A rule-based tunnel in Go.
-16. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
-"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-17. [**alpinejs/alpine**](https://github.com/alpinejs/alpine)
-A rugged, minimal framework for composing JavaScript behavior in your markup.
-18. [**isocpp/CppCoreGuidelines**](https://github.com/isocpp/CppCoreGuidelines)
+16. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
+The Serenity Operating System 🐞
+17. [**isocpp/CppCoreGuidelines**](https://github.com/isocpp/CppCoreGuidelines)
 The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-19. [**cli/cli**](https://github.com/cli/cli)
-The GitHub CLI
-20. [**BlankerL/DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data)
-2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse
-21. [**tychxn/jd-assistant**](https://github.com/tychxn/jd-assistant)
-京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
-22. [**facebookresearch/pytorch3d**](https://github.com/facebookresearch/pytorch3d)
-PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-23. [**yanue/V2rayU**](https://github.com/yanue/V2rayU)
-V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-24. [**opencv/opencv**](https://github.com/opencv/opencv)
+18. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+19. [**opencv/opencv**](https://github.com/opencv/opencv)
 Open Source Computer Vision Library
-25. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
-A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+20. [**cycz/jdBuyMask**](https://github.com/cycz/jdBuyMask)
+京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫
+21. [**cli/cli**](https://github.com/cli/cli)
+The GitHub CLI
+22. [**twbs/bootstrap**](https://github.com/twbs/bootstrap)
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+23. [**google/mediapipe**](https://github.com/google/mediapipe)
+MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+24. [**BlankerL/DXY-COVID-19-Data**](https://github.com/BlankerL/DXY-COVID-19-Data)
+2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse
+25. [**aamini/introtodeeplearning**](https://github.com/aamini/introtodeeplearning)
+Lab Materials for MIT 6.S191: Introduction to Deep Learning
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
