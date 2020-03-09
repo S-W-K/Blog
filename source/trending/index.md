@@ -64,7 +64,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
-手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. Crack LeetCode, English version supported!
 2. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
 Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 3. [**fastai/fastbook**](https://github.com/fastai/fastbook)
@@ -168,25 +168,25 @@ Lab Materials for MIT 6.S191: Introduction to Deep Learning
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab --><!-- tab Medium -->
-1. [**It Will Be Hard to Get Over What Happened to Elizabeth Warren**](https://gen.medium.com/it-will-be-hard-to-get-over-what-happened-to-elizabeth-warren-4b2e11b71a4b?source=topic_page---------------------------20)
+1. [**How Under Armour Bet Everything on the Wrong Customer**](https://marker.medium.com/how-under-armour-bet-everything-on-the-wrong-customer-e0b2edb569e4?source=topic_page---------------------------20)
 
-2. [**There’s an Epidemic That’s a Bigger Threat Than the Coronavirus**](https://heated.medium.com/theres-an-epidemic-that-s-a-bigger-threat-than-the-coronavirus-ce6e0697185b?source=topic_page---------0------------------1)
+2. [**How to Tell If You Have the Flu, Coronavirus, or Something Else**](https://elemental.medium.com/how-to-tell-if-you-have-the-flu-coronavirus-or-something-else-30c1c82cc50f?source=topic_page---------0------------------1)
 
-3. [**How to Tell If You Have the Flu, Coronavirus, or Something Else**](https://elemental.medium.com/how-to-tell-if-you-have-the-flu-coronavirus-or-something-else-30c1c82cc50f?source=topic_page---------1------------------1)
+3. [**31 Important Things You Should Say No to For a Happier Life**](https://forge.medium.com/31-important-things-you-should-say-no-to-for-a-happier-life-a34a1e947579?source=topic_page---------1------------------1)
 
-4. [**31 Important Things You Should Say No to For a Happier Life**](https://forge.medium.com/31-important-things-you-should-say-no-to-for-a-happier-life-a34a1e947579?source=topic_page---------2------------------1)
+4. [**SARS-CoV-2 and the lessons we have to learn from it.**](https://medium.com/@edwardnirenberg/sars-cov-2-and-the-lessons-we-have-to-learn-from-it-e2017fd5d3c?source=topic_page---------2------------------1)
 
-5. [**Classic iPod Hackers Say There’s No Better Way to Listen to Music**](https://onezero.medium.com/classic-ipod-hackers-say-theres-no-better-way-to-listen-to-music-da754fa9ad35?source=topic_page---------4------------------1)
+5. [**It Will Be Hard to Get Over What Happened to Elizabeth Warren**](https://gen.medium.com/it-will-be-hard-to-get-over-what-happened-to-elizabeth-warren-4b2e11b71a4b?source=topic_page---------4------------------1)
 
-6. [**You’re Unhappy Because You Haven’t Grown Up**](https://humanparts.medium.com/youre-unhappy-because-you-haven-t-grown-up-bd52168a518?source=topic_page---------5------------------1)
+6. [**There’s an Epidemic That’s a Bigger Threat Than the Coronavirus**](https://heated.medium.com/theres-an-epidemic-that-s-a-bigger-threat-than-the-coronavirus-ce6e0697185b?source=topic_page---------5------------------1)
 
-7. [**How to Distinguish Between a Public Safety Crisis and a Personal Anxiety**](https://forge.medium.com/how-to-distinguish-between-a-public-safety-crisis-and-a-personal-anxiety-a03e6bb79f59?source=topic_page---------6------------------1)
+7. [**Classic iPod Hackers Say There’s No Better Way to Listen to Music**](https://onezero.medium.com/classic-ipod-hackers-say-theres-no-better-way-to-listen-to-music-da754fa9ad35?source=topic_page---------6------------------1)
 
-8. [**The Flawed, Twisted Legacy of Jack Welch**](https://marker.medium.com/the-flawed-twisted-legacy-of-jack-welch-105b36ff1521?source=topic_page---------7------------------1)
+8. [**You’re Unhappy Because You Haven’t Grown Up**](https://humanparts.medium.com/youre-unhappy-because-you-haven-t-grown-up-bd52168a518?source=topic_page---------7------------------1)
 
-9. [**There’s No Such Thing as ‘Quality’ Time**](https://forge.medium.com/theres-no-such-thing-as-quality-time-58db618c099d?source=topic_page---------8------------------1)
+9. [**How to Distinguish Between a Public Safety Crisis and a Personal Anxiety**](https://forge.medium.com/how-to-distinguish-between-a-public-safety-crisis-and-a-personal-anxiety-a03e6bb79f59?source=topic_page---------8------------------1)
 
-10. [**Three Magical Phrases to Comfort a Dying Person**](https://humanparts.medium.com/three-magic-phrases-to-say-to-a-dying-person-2091872bd487?source=topic_page---------9------------------1)
+10. [**The Flawed, Twisted Legacy of Jack Welch**](https://marker.medium.com/the-flawed-twisted-legacy-of-jack-welch-105b36ff1521?source=topic_page---------9------------------1)
 
 <!-- endtab -->
 {% endtabs %}
