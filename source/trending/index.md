@@ -5,166 +5,189 @@ no_toc: true
 ---
 
 > Scraped from [GitHub](https://github.com/trending), [Medium](https://medium.com/topic/popular)
-auto-deployed with [Travis Ci](https://travis-ci.org/)
+Auto-deployed with [Travis Ci](https://travis-ci.org/)
 
 {% tabs TAB %}
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**podgorskiy/ALAE**](https://github.com/podgorskiy/ALAE)
-[CVPR2020] Adversarial Latent Autoencoders
-2. [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop)
-Linux resource monitor
-3. [**elunez/eladmin**](https://github.com/elunez/eladmin)
-项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-4. [**beefytech/Beef**](https://github.com/beefytech/Beef)
-Beef Programming Language
-5. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-6. [**xkcoding/spring-boot-demo**](https://github.com/xkcoding/spring-boot-demo)
-spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-7. [**Qv2ray/Qv2ray**](https://github.com/Qv2ray/Qv2ray)
-🌟 支持 V2Ray/Trojan/SSR 的 Linux/Windows/macOS 跨平台 GUI 🔨 C++17/Qt5 ，支持订阅，自定义路由编辑，插件式设计 🌟
-8. [**timgrossmann/InstaPy**](https://github.com/timgrossmann/InstaPy)
-📷 Instagram Bot - Tool for automated Instagram interactions
-9. [**azl397985856/leetcode**](https://github.com/azl397985856/leetcode)
-LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-10. [**open-telemetry/opentelemetry-java**](https://github.com/open-telemetry/opentelemetry-java)
-OpenTelemetry Java SDK
-11. [**Unity-Technologies/ml-agents**](https://github.com/Unity-Technologies/ml-agents)
-Unity Machine Learning Agents Toolkit
-12. [**alpinejs/alpine**](https://github.com/alpinejs/alpine)
-A rugged, minimal framework for composing JavaScript behavior in your markup.
-13. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
-flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-14. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
-【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-15. [**AliaksandrSiarohin/first-order-model**](https://github.com/AliaksandrSiarohin/first-order-model)
-This repository contains the source code for the paper First Order Motion Model for Image Animation
-16. [**apache/flink**](https://github.com/apache/flink)
-Apache Flink
-17. [**3b1b/manim**](https://github.com/3b1b/manim)
-Animation engine for explanatory math videos
-18. [**arendst/Tasmota**](https://github.com/arendst/Tasmota)
-Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-19. [**looly/hutool**](https://github.com/looly/hutool)
-A set of tools that keep Java sweet.
-20. [**sveltejs/svelte**](https://github.com/sveltejs/svelte)
-Cybernetically enhanced web apps
-21. [**opentrace-community/opentrace-android**](https://github.com/opentrace-community/opentrace-android)
-OpenTrace Android app. Reference implementation of the BlueTrace protocol.
-22. [**yuanguangxin/421pdf**](https://github.com/yuanguangxin/421pdf)
-421页PDF 八卦汇总 824瓜
-23. [**ruanyf/weekly**](https://github.com/ruanyf/weekly)
-科技爱好者周刊，每周五发布
-24. [**minetest/minetest**](https://github.com/minetest/minetest)
-Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
-25. [**flipped-aurora/gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin)
-基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
+1. [**encode/django-rest-framework**](https://github.com/encode/django-rest-framework)
+Web APIs for Django. 🎸
+2. [**Light-City/CPlusPlusThings**](https://github.com/Light-City/CPlusPlusThings)
+C++那些事
+3. [**bjmashibing/InternetArchitect**](https://github.com/bjmashibing/InternetArchitect)
+年薪百万互联网架构师课程文档及源码(公开部分)
+4. [**r-spacex/SpaceX-API**](https://github.com/r-spacex/SpaceX-API)
+🚀 Open Source REST API for rocket, core, capsule, pad, and launch data
+5. [**paritytech/substrate**](https://github.com/paritytech/substrate)
+Substrate: The platform for blockchain innovators
+6. [**Hunlongyu/ZY-Player**](https://github.com/Hunlongyu/ZY-Player)
+▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+7. [**corona-warn-app/cwa-website**](https://github.com/corona-warn-app/cwa-website)
+Corona-Warn-App website
+8. [**alibaba/fastjson**](https://github.com/alibaba/fastjson)
+A fast JSON parser/generator for Java.
+9. [**nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters**](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+A list of resources for those interested in getting started in bug bounties
+10. [**dabeaz-course/practical-python**](https://github.com/dabeaz-course/practical-python)
+Practical Python Programming (course by @dabeaz)
+11. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+A platform for building proxies to bypass network restrictions.
+12. [**corona-warn-app/cwa-app-android**](https://github.com/corona-warn-app/cwa-app-android)
+Native Android app using the Apple/Google exposure notification API.
+13. [**Qv2ray/Qv2ray**](https://github.com/Qv2ray/Qv2ray)
+⭐ A cross-platform V2ray/SSR/Trojan GUI Client written in C++ / Qt ⭐
+14. [**dt-fe/weekly**](https://github.com/dt-fe/weekly)
+前端精读周刊
+15. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
+A new bootable USB solution.
+16. [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi)
+Productive & portable programming language for high-performance, sparse & differentiable computing
+17. [**bigH/git-fuzzy**](https://github.com/bigH/git-fuzzy)
+interactive `git` with the help of `fzf`
+18. [**trojan-gfw/trojan**](https://github.com/trojan-gfw/trojan)
+An unidentifiable mechanism that helps you bypass GFW.
+19. [**fastai/fastbook**](https://github.com/fastai/fastbook)
+Draft of the fastai book
+20. [**p4gefau1t/trojan-go**](https://github.com/p4gefau1t/trojan-go)
+Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+21. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
+Spring源码阅读
+22. [**corona-warn-app/cwa-documentation**](https://github.com/corona-warn-app/cwa-documentation)
+Project overview, general documentation, and white papers.
+23. [**dragen1860/Deep-Learning-with-TensorFlow-book**](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+24. [**rasbt/deeplearning-models**](https://github.com/rasbt/deeplearning-models)
+A collection of various deep learning architectures, models, and tips
+25. [**supabase/realtime**](https://github.com/supabase/realtime)
+Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**claudiodangelis/qrcp**](https://github.com/claudiodangelis/qrcp)
-⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-2. [**alievk/avatarify**](https://github.com/alievk/avatarify)
-Avatars for Zoom, Skype and other video-conferencing apps.
-3. [**pcottle/learnGitBranching**](https://github.com/pcottle/learnGitBranching)
-An interactive git visualization to challenge and educate!
-4. [**natewong1313/bird-bot**](https://github.com/natewong1313/bird-bot)
-A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
-5. [**Light-City/CPlusPlusThings**](https://github.com/Light-City/CPlusPlusThings)
+1. [**Light-City/CPlusPlusThings**](https://github.com/Light-City/CPlusPlusThings)
 C++那些事
-6. [**jbranchaud/til**](https://github.com/jbranchaud/til)
-📝 Today I Learned
-7. [**k-sys/covid-19**](https://github.com/k-sys/covid-19)
-A collection of work related to COVID-19
-8. [**flipped-aurora/gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin)
-基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
-9. [**DP-3T/dp3t-app-ios**](https://github.com/DP-3T/dp3t-app-ios)
-The DP3T-App for iOS
-10. [**abuanwar072/Covid-19-Flutter-UI**](https://github.com/abuanwar072/Covid-19-Flutter-UI)
-No repo_description
-11. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
-The next major version of Vue (WIP)
-12. [**apache/shardingsphere**](https://github.com/apache/shardingsphere)
-Distributed database middleware
-13. [**DP-3T/dp3t-app-android**](https://github.com/DP-3T/dp3t-app-android)
-The DP3T-App for Android
-14. [**owid/covid-19-data**](https://github.com/owid/covid-19-data)
-Data on COVID-19 confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data
-15. [**shomali11/go-interview**](https://github.com/shomali11/go-interview)
+2. [**shomali11/go-interview**](https://github.com/shomali11/go-interview)
 Collection of Technical Interview Questions solved with Go
-16. [**spring-projects-experimental/spring-authorization-server**](https://github.com/spring-projects-experimental/spring-authorization-server)
-A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
-17. [**johnboiles/obs-mac-virtualcam**](https://github.com/johnboiles/obs-mac-virtualcam)
-Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like obs-virtualcam but for macOS.
-18. [**senguptaumd/Background-Matting**](https://github.com/senguptaumd/Background-Matting)
-Background Matting: The World is Your Green Screen
-19. [**chuzhixin/vue-admin-beautiful**](https://github.com/chuzhixin/vue-admin-beautiful)
-vue-admin-beautiful是一款超棒的前端开发框架（当然只是自我感觉）,长期更新维护,感谢您的star,我一直在努力,官方答疑群972435319
-20. [**londonappbrewery/Flutter-Course-Resources**](https://github.com/londonappbrewery/Flutter-Course-Resources)
-Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-21. [**DP-3T/documents**](https://github.com/DP-3T/documents)
-Decentralized Privacy-Preserving Proximity Tracing -- Documents
-22. [**ReactiveX/RxJava**](https://github.com/ReactiveX/RxJava)
-RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-23. [**gofiber/fiber**](https://github.com/gofiber/fiber)
-⚡️ Fiber is an Express inspired web framework written in Go with ☕️
-24. [**elunez/eladmin**](https://github.com/elunez/eladmin)
-项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-25. [**facebook/docusaurus**](https://github.com/facebook/docusaurus)
-Easy to maintain open source documentation websites.
+3. [**popcorn-official/popcorn-desktop**](https://github.com/popcorn-official/popcorn-desktop)
+Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+4. [**manojVivek/responsively-app**](https://github.com/manojVivek/responsively-app)
+A modified browser that helps in responsive web development.
+5. [**KunMinX/Jetpack-MVVM-Best-Practice**](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
+是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
+6. [**immuni-app/immuni-app-android**](https://github.com/immuni-app/immuni-app-android)
+Official repository for the Android version of the immuni application
+7. [**immuni-app/immuni-app-ios**](https://github.com/immuni-app/immuni-app-ios)
+Official repository for the iOS version of the immuni application
+8. [**derailed/k9s**](https://github.com/derailed/k9s)
+🐶 Kubernetes CLI To Manage Your Clusters In Style!
+9. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+10. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+A platform for building proxies to bypass network restrictions.
+11. [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi)
+Productive & portable programming language for high-performance, sparse & differentiable computing
+12. [**alibaba/fastjson**](https://github.com/alibaba/fastjson)
+A fast JSON parser/generator for Java.
+13. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+14. [**olivia-ai/olivia**](https://github.com/olivia-ai/olivia)
+💁‍♀️Your new best friend powered by an artificial neural network
+15. [**raspberrypi/firmware**](https://github.com/raspberrypi/firmware)
+This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+16. [**paritytech/substrate**](https://github.com/paritytech/substrate)
+Substrate: The platform for blockchain innovators
+17. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
+🤓 Build your own (insert technology here)
+18. [**openvinotoolkit/openvino**](https://github.com/openvinotoolkit/openvino)
+OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+19. [**AliyunContainerService/k8s-for-docker-desktop**](https://github.com/AliyunContainerService/k8s-for-docker-desktop)
+为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China
+20. [**taosdata/TDengine**](https://github.com/taosdata/TDengine)
+An open-source big data platform designed and optimized for the Internet of Things (IoT).
+21. [**hyb1996/Auto.js**](https://github.com/hyb1996/Auto.js)
+A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+22. [**gogs/gogs**](https://github.com/gogs/gogs)
+Gogs is a painless self-hosted Git service
+23. [**OpenMined/PySyft**](https://github.com/OpenMined/PySyft)
+A library for encrypted, privacy preserving machine learning
+24. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
+Rich is a Python library for rich text and beautiful formatting in the terminal.
+25. [**public-apis/public-apis**](https://github.com/public-apis/public-apis)
+A collective list of free APIs for use in software and web development.
 <!-- endtab -->
 <!-- tab Monthly -->
-1. [**covid19india/covid19india-react**](https://github.com/covid19india/covid19india-react)
-Tracking the impact of COVID-19 in India
-2. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
-手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-3. [**jitsi/jitsi-meet**](https://github.com/jitsi/jitsi-meet)
-Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-4. [**londonappbrewery/Flutter-Course-Resources**](https://github.com/londonappbrewery/Flutter-Course-Resources)
-Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-5. [**eclipse-theia/theia**](https://github.com/eclipse-theia/theia)
-Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-6. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-7. [**AliaksandrSiarohin/first-order-model**](https://github.com/AliaksandrSiarohin/first-order-model)
-This repository contains the source code for the paper First Order Motion Model for Image Animation
-8. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
-The next major version of Vue (WIP)
-9. [**nytimes/covid-19-data**](https://github.com/nytimes/covid-19-data)
-An ongoing repository of data on coronavirus cases and deaths in the U.S.
-10. [**xkcoding/spring-boot-demo**](https://github.com/xkcoding/spring-boot-demo)
-spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-11. [**lihengming/spring-boot-api-project-seed**](https://github.com/lihengming/spring-boot-api-project-seed)
-🌱🚀一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-12. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
-Roadmap to becoming a web developer in 2020
-13. [**hollischuang/toBeTopJavaer**](https://github.com/hollischuang/toBeTopJavaer)
-To Be Top Javaer - Java工程师成神之路
-14. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
-A complete computer science study plan to become a software engineer.
-15. [**bigbluebutton/bigbluebutton**](https://github.com/bigbluebutton/bigbluebutton)
-Complete open source web conferencing system.
-16. [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio)
-OBS Studio - Free and open source software for live streaming and screen recording
-17. [**3b1b/manim**](https://github.com/3b1b/manim)
-Animation engine for explanatory math videos
-18. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+1. [**denoland/deno**](https://github.com/denoland/deno)
+A secure JavaScript and TypeScript runtime
+2. [**cyrildiagne/ar-cutpaste**](https://github.com/cyrildiagne/ar-cutpaste)
+Cut and paste your surroundings using AR
+3. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
+A new bootable USB solution.
+4. [**poloclub/cnn-explainer**](https://github.com/poloclub/cnn-explainer)
+Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/
+5. [**mrc-ide/covid-sim**](https://github.com/mrc-ide/covid-sim)
+This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
+6. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
 Windows system utilities to maximize productivity
-19. [**Light-City/CPlusPlusThings**](https://github.com/Light-City/CPlusPlusThings)
+7. [**evanw/esbuild**](https://github.com/evanw/esbuild)
+An extremely fast JavaScript bundler and minifier
+8. [**bjmashibing/InternetArchitect**](https://github.com/bjmashibing/InternetArchitect)
+年薪百万互联网架构师课程文档及源码(公开部分)
+9. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
+Spring源码阅读
+10. [**TheAlgorithms/C-Plus-Plus**](https://github.com/TheAlgorithms/C-Plus-Plus)
+All Algorithms implemented in C++
+11. [**chuzhixin/vue-admin-beautiful**](https://github.com/chuzhixin/vue-admin-beautiful)
+vue-admin-beautiful是一款绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
+12. [**zhangdaiscott/jeecg-boot**](https://github.com/zhangdaiscott/jeecg-boot)
+基于代码生成器的快速开发平台，超越传统商业开发平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+13. [**vitejs/vite**](https://github.com/vitejs/vite)
+An opinionated web dev build tool. It's fast.
+14. [**Light-City/CPlusPlusThings**](https://github.com/Light-City/CPlusPlusThings)
 C++那些事
-20. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
-2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-21. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
-📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-22. [**TachibanaYoshino/AnimeGAN**](https://github.com/TachibanaYoshino/AnimeGAN)
-A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images.
-23. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-Clone a voice in 5 seconds to generate arbitrary speech in real-time
-24. [**alibaba/arthas**](https://github.com/alibaba/arthas)
-Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-25. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
+15. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
+All Algorithms implemented in Java
+16. [**microsoft/terminal**](https://github.com/microsoft/terminal)
+The new Windows Terminal and the original Windows console host, all in the same place!
+17. [**xkcoding/spring-boot-demo**](https://github.com/xkcoding/spring-boot-demo)
+spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
+18. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
+A complete computer science study plan to become a software engineer.
+19. [**deezer/spleeter**](https://github.com/deezer/spleeter)
+Deezer source separation library including pretrained models.
+20. [**huggingface/transformers**](https://github.com/huggingface/transformers)
+🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+21. [**openai/jukebox**](https://github.com/openai/jukebox)
+Code for the paper "Jukebox: A Generative Model for Music"
+22. [**shomali11/go-interview**](https://github.com/shomali11/go-interview)
+Collection of Technical Interview Questions solved with Go
+23. [**openspug/spug**](https://github.com/openspug/spug)
+开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+24. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+25. [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole)
+A black hole for Internet advertisements
 <!-- endtab -->
 {% endsubtabs %}
-<!-- endtab --><!-- tab Medium -->
+<!-- endtab -->
+<!-- tab Medium -->
+1. [**Coronavirus May Be a Blood Vessel Disease, Which Explains Everything**](https://elemental.medium.com/coronavirus-may-be-a-blood-vessel-disease-which-explains-everything-2c4032481ab2?source=topic_page---------------------------20)
+Many of the infection’s bizarre symptoms have one thing in common
+2. [**Maintaining Professionalism In The Age of Black Death Is….A Lot**](https://medium.com/@shenequagolding/maintaining-professionalism-in-the-age-of-black-death-is-a-lot-5eaec5e17585?source=topic_page---------0------------------1)
+I just witnessed the lynching of a black man, but don’t worry Ted, I’ll have those deliverables to you end of day.
+3. [**5 Ways White People Can Take Action in Response to White and State-Sanctioned Violence**](https://medium.com/@surj_action/5-ways-white-people-can-take-action-in-response-to-white-and-state-sanctioned-violence-2bb907ba5277?source=topic_page---------1------------------1)
+On Monday evening, George Floyd was murdered by Minneapolis police. Video surfaced of a white police officer holding his knee to Floyd’s…
+4. [**The Psychopath in Chief**](https://gen.medium.com/the-psychopath-in-chief-aa10ab2165d9?source=topic_page---------2------------------1)
+I spent hundreds of hours with Donald Trump to ghost-write ‘The Art of the Deal.’ I now see a deeper meaning behind his behavior.
+5. [**How to Make this Moment the Turning Point for Real Change**](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067?source=topic_page---------4------------------1)
+As millions of people across the country take to the streets and raise their voices in response to the killing of George Floyd and the…
+6. [**Violence Never Works? Really?**](https://medium.com/@timjwise/violence-never-works-really-e0af884c03b4?source=topic_page---------5------------------1)
+How do you think this country came to be?
+7. [**How Covid-19 Really Spreads**](https://elemental.medium.com/how-covid-19-really-spreads-f9627bb93645?source=topic_page---------6------------------1)
+Infected surfaces, airborne plumes, AC systems, toilet flushes, and close proximity may all be involved
+8. [**We are a nation furious at injustice.**](https://medium.com/@JoeBiden/we-are-a-nation-furious-at-injustice-9dcffd81978f?source=topic_page---------7------------------1)
+These last few days have laid bare that we are a nation furious at injustice. Every person of conscience can understand the rawness of the…
+9. [**While the City I love Burns**](https://medium.com/@rtrybak/while-the-city-i-love-burns-3e63992829da?source=topic_page---------8------------------1)
+Sleepless and mortified, my heart melts in real-time as parts of the city I love so deeply burn away. Knowing these neighborhoods as I do…
+10. [**No, The Universe Is Not Purely Mathematical In Nature**](https://medium.com/starts-with-a-bang/no-the-universe-is-not-purely-mathematical-in-nature-d202e2d7f03e?source=topic_page---------9------------------1)
+Mathematics is the most useful tool we have for understanding the Universe. But it doesn’t answer to anything on its own.
+<!-- endtab -->
+{% endtabs %}
