@@ -42,7 +42,7 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 15. [**nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters**](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 A list of resources for those interested in getting started in bug bounties
 16. [**filipdutescu/modern-cpp-template**](https://github.com/filipdutescu/modern-cpp-template)
-A template for modern C++ projects using CMake, clang-format and unit testing, with support for downstream inclusion
+A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 17. [**irsdl/top10webseclist**](https://github.com/irsdl/top10webseclist)
 Top Ten Web Hacking Techniques List
 18. [**binhnguyennus/awesome-scalability**](https://github.com/binhnguyennus/awesome-scalability)
@@ -173,21 +173,21 @@ Deezer source separation library including pretrained models.
 Many of the infection’s bizarre symptoms have one thing in common
 2. [**Maintaining Professionalism In The Age of Black Death Is….A Lot**](https://medium.com/@shenequagolding/maintaining-professionalism-in-the-age-of-black-death-is-a-lot-5eaec5e17585?source=topic_page---------0------------------1)
 I just witnessed the lynching of a black man, but don’t worry Ted, I’ll have those deliverables to you end of day.
-3. [**The Psychopath in Chief**](https://gen.medium.com/the-psychopath-in-chief-aa10ab2165d9?source=topic_page---------1------------------1)
+3. [**Performative Allyship Is Deadly (Here’s What to Do Instead)**](https://forge.medium.com/performative-allyship-is-deadly-c900645d9f1f?source=topic_page---------1------------------1)
+Activism can’t begin and end with a hashtag
+4. [**Donald Trump Is a Nazi. Full Stop.**](https://gen.medium.com/donald-trump-is-a-nazi-full-stop-393a50d80947?source=topic_page---------2------------------1)
+We can stop with all the hedging and qualifying
+5. [**The Psychopath in Chief**](https://gen.medium.com/the-psychopath-in-chief-aa10ab2165d9?source=topic_page---------4------------------1)
 I spent hundreds of hours with Donald Trump to ghost-write ‘The Art of the Deal.’ I now see a deeper meaning behind his behavior.
-4. [**It’s Not Looking Good in Sweden Right Now**](https://elemental.medium.com/its-not-looking-good-in-sweden-right-now-624e7fe0a1ed?source=topic_page---------2------------------1)
+6. [**It’s Not Looking Good in Sweden Right Now**](https://elemental.medium.com/its-not-looking-good-in-sweden-right-now-624e7fe0a1ed?source=topic_page---------5------------------1)
 A rising mortality rate suggests the more lax model means more death
-5. [**5 Ways White People Can Take Action in Response to White and State-Sanctioned Violence**](https://medium.com/@surj_action/5-ways-white-people-can-take-action-in-response-to-white-and-state-sanctioned-violence-2bb907ba5277?source=topic_page---------4------------------1)
+7. [**5 Ways White People Can Take Action in Response to White and State-Sanctioned Violence**](https://medium.com/@surj_action/5-ways-white-people-can-take-action-in-response-to-white-and-state-sanctioned-violence-2bb907ba5277?source=topic_page---------6------------------1)
 On Monday evening, George Floyd was murdered by Minneapolis police. Video surfaced of a white police officer holding his knee to Floyd’s…
-6. [**How to Make this Moment the Turning Point for Real Change**](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067?source=topic_page---------5------------------1)
+8. [**How to Make this Moment the Turning Point for Real Change**](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067?source=topic_page---------7------------------1)
 As millions of people across the country take to the streets and raise their voices in response to the killing of George Floyd and the…
-7. [**Violence Never Works? Really?**](https://medium.com/@timjwise/violence-never-works-really-e0af884c03b4?source=topic_page---------6------------------1)
+9. [**Violence Never Works? Really?**](https://medium.com/@timjwise/violence-never-works-really-e0af884c03b4?source=topic_page---------8------------------1)
 How do you think this country came to be?
-8. [**How Covid-19 Really Spreads**](https://elemental.medium.com/how-covid-19-really-spreads-f9627bb93645?source=topic_page---------7------------------1)
+10. [**How Covid-19 Really Spreads**](https://elemental.medium.com/how-covid-19-really-spreads-f9627bb93645?source=topic_page---------9------------------1)
 Infected surfaces, airborne plumes, AC systems, toilet flushes, and close proximity may all be involved
-9. [**We are a nation furious at injustice.**](https://medium.com/@JoeBiden/we-are-a-nation-furious-at-injustice-9dcffd81978f?source=topic_page---------8------------------1)
-These last few days have laid bare that we are a nation furious at injustice. Every person of conscience can understand the rawness of the…
-10. [**While the City I love Burns**](https://medium.com/@rtrybak/while-the-city-i-love-burns-3e63992829da?source=topic_page---------9------------------1)
-Sleepless and mortified, my heart melts in real-time as parts of the city I love so deeply burn away. Knowing these neighborhoods as I do…
 <!-- endtab -->
 {% endtabs %}
