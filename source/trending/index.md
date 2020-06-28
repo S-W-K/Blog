@@ -11,160 +11,160 @@ Auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**erikgrinaker/toydb**](https://github.com/erikgrinaker/toydb)
-Distributed SQL database in Rust, written as a learning project
-2. [**StateOfCalifornia/CalCAT**](https://github.com/StateOfCalifornia/CalCAT)
-California COVID Assessment Tool
-3. [**team-video/aviary.sh**](https://github.com/team-video/aviary.sh)
-Minimal distributed configuration management in bash
-4. [**FlameOfIgnis/Pwdb-Public**](https://github.com/FlameOfIgnis/Pwdb-Public)
-A collection of all the data i could extract from 1 billion leaked credentials from internet.
-5. [**felixge/fgprof**](https://github.com/felixge/fgprof)
-🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
-6. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
+1. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
 《On Java 8》中文版，又名《Java编程思想》 第5版
-7. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
-OpenCore bootloader
+2. [**PaperMC/Paper**](https://github.com/PaperMC/Paper)
+High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+3. [**rtcovidlive/covid-model**](https://github.com/rtcovidlive/covid-model)
+No repo_description
+4. [**Genymobile/scrcpy**](https://github.com/Genymobile/scrcpy)
+Display and control your Android device
+5. [**honkit/honkit**](https://github.com/honkit/honkit)
+📖 HonKit is building beautiful books using Markdown - Fork of GitBook
+6. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+A sandbox tower defense game
+7. [**vnpy/vnpy**](https://github.com/vnpy/vnpy)
+基于Python的开源量化交易平台开发框架
 8. [**tobspr/shapez.io**](https://github.com/tobspr/shapez.io)
 shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-9. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
-Windows system utilities to maximize productivity
-10. [**microsoft/fluentui-system-icons**](https://github.com/microsoft/fluentui-system-icons)
-Fluent System Icons is a set of mobile platform icons from Microsoft
-11. [**coronalabs/corona**](https://github.com/coronalabs/corona)
-Solar2D Game Engine main repository (ex Corona SDK)
-12. [**donnemartin/data-science-ipython-notebooks**](https://github.com/donnemartin/data-science-ipython-notebooks)
-Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-13. [**RasaHQ/rasa**](https://github.com/RasaHQ/rasa)
-💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-14. [**rtcovidlive/covid-model**](https://github.com/rtcovidlive/covid-model)
-No repo_description
-15. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-16. [**Deep-MI/FastSurfer**](https://github.com/Deep-MI/FastSurfer)
-PyTorch implementation of FastSurferCNN
-17. [**meng-chuan/Unlock-netease-cloud-music**](https://github.com/meng-chuan/Unlock-netease-cloud-music)
+9. [**formik/formik**](https://github.com/formik/formik)
+Build forms in React, without the tears 😭
+10. [**jhu-ep-coursera/fullstack-course4**](https://github.com/jhu-ep-coursera/fullstack-course4)
+Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+11. [**alievk/avatarify**](https://github.com/alievk/avatarify)
+Avatars for Zoom, Skype and other video-conferencing apps.
+12. [**felixge/fgprof**](https://github.com/felixge/fgprof)
+🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
+13. [**CRYTEK/CRYENGINE**](https://github.com/CRYTEK/CRYENGINE)
+CRYENGINE is a powerful real-time game development platform created by Crytek.
+14. [**fastai/numerical-linear-algebra**](https://github.com/fastai/numerical-linear-algebra)
+Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
+15. [**meng-chuan/Unlock-netease-cloud-music**](https://github.com/meng-chuan/Unlock-netease-cloud-music)
 解锁网易云音乐客户端变灰歌曲
-18. [**snori74/linuxupskillchallenge**](https://github.com/snori74/linuxupskillchallenge)
-Learn the skills required to sysadmin a remote Linux server from the commandline.
+16. [**apple/password-manager-resources**](https://github.com/apple/password-manager-resources)
+A place for creators and users of password managers to collaborate on resources to make password management better.
+17. [**m4ll0k/Bug-Bounty-Toolz**](https://github.com/m4ll0k/Bug-Bounty-Toolz)
+BBT - Bug Bounty Tools
+18. [**timberio/vector**](https://github.com/timberio/vector)
+A lightweight and ultra-fast tool for building observability pipelines
 19. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
 A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-20. [**fastai/numerical-linear-algebra**](https://github.com/fastai/numerical-linear-algebra)
-Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
-21. [**vtil-project/VTIL-Core**](https://github.com/vtil-project/VTIL-Core)
-Virtual-machine Translation Intermediate Language
-22. [**googlesamples/arcore-depth-lab**](https://github.com/googlesamples/arcore-depth-lab)
-ARCore Depth Lab is a set of Depth API samples that provides assets using depth for advanced geometry-aware features in AR interaction and rendering. (UIST 2020)
-23. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
-A sandbox tower defense game
-24. [**google/jax**](https://github.com/google/jax)
-Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-25. [**formik/formik**](https://github.com/formik/formik)
-Build forms in React, without the tears 😭
+20. [**erikgrinaker/toydb**](https://github.com/erikgrinaker/toydb)
+Distributed SQL database in Rust, written as a learning project
+21. [**lnbook/lnbook**](https://github.com/lnbook/lnbook)
+Mastering the Lightning Network (LN)
+22. [**astaxie/beego**](https://github.com/astaxie/beego)
+beego is an open-source, high-performance web framework for the Go programming language.
+23. [**jonataslaw/getx**](https://github.com/jonataslaw/getx)
+Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
+24. [**emilk/emigui**](https://github.com/emilk/emigui)
+egui: Immediate mode GUI written in Rust, made for WASM
+25. [**FlameOfIgnis/Pwdb-Public**](https://github.com/FlameOfIgnis/Pwdb-Public)
+A collection of all the data i could extract from 1 billion leaked credentials from internet.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**Covid-19Radar/Covid19Radar**](https://github.com/Covid-19Radar/Covid19Radar)
-Open Source / Internationalization/ iOS Android Cross Platform Contact Tracing App by exposure notification framework Xamarin App and Server Side Code
+1. [**tg-bomze/Face-Depixelizer**](https://github.com/tg-bomze/Face-Depixelizer)
+Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
 2. [**adamian98/pulse**](https://github.com/adamian98/pulse)
 PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-3. [**SaekiRaku/vscode-rainbow-fart**](https://github.com/SaekiRaku/vscode-rainbow-fart)
-一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
+3. [**Covid-19Radar/Covid19Radar**](https://github.com/Covid-19Radar/Covid19Radar)
+Open Source / Internationalization/ iOS Android Cross Platform Contact Tracing App by exposure notification framework Xamarin App and Server Side Code
 4. [**greyireland/algorithm-pattern**](https://github.com/greyireland/algorithm-pattern)
 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-5. [**github/super-linter**](https://github.com/github/super-linter)
+5. [**google/tsunami-security-scanner**](https://github.com/google/tsunami-security-scanner)
+Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+6. [**SaekiRaku/vscode-rainbow-fart**](https://github.com/SaekiRaku/vscode-rainbow-fart)
+一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
+7. [**github/super-linter**](https://github.com/github/super-linter)
 Combination of multiple linters to install as a GitHub Action
-6. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
-Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-7. [**qiniu/goplus**](https://github.com/qiniu/goplus)
-GoPlus - The Go+ language for data science
-8. [**tobspr/shapez.io**](https://github.com/tobspr/shapez.io)
-shapez.io is an open source base building game inspired by factorio! Available on web & desktop
-9. [**alibaba/hooks**](https://github.com/alibaba/hooks)
-React Hooks Library
-10. [**grumpygamer/DeloresDev**](https://github.com/grumpygamer/DeloresDev)
-Read all about it on GrumpyGamer:
-11. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
+8. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-12. [**beyondcode/expose**](https://github.com/beyondcode/expose)
-A beautiful, fully open-source, tunneling service - written in pure PHP
-13. [**nhsx/COVID-19-app-iOS-BETA**](https://github.com/nhsx/COVID-19-app-iOS-BETA)
-Source code of the Beta of the NHS COVID-19 iOS app
-14. [**s-matyukevich/raspberry-pi-os**](https://github.com/s-matyukevich/raspberry-pi-os)
+9. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
+Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+10. [**s-matyukevich/raspberry-pi-os**](https://github.com/s-matyukevich/raspberry-pi-os)
 Learning operating system development using Linux kernel and Raspberry Pi
-15. [**facebookresearch/pifuhd**](https://github.com/facebookresearch/pifuhd)
-High-Resolution 3D Human Digitization from A Single Image.
-16. [**spmallick/learnopencv**](https://github.com/spmallick/learnopencv)
+11. [**alibaba/hooks**](https://github.com/alibaba/hooks)
+React Hooks Library
+12. [**tobspr/shapez.io**](https://github.com/tobspr/shapez.io)
+shapez.io is an open source base building game inspired by factorio! Available on web & desktop
+13. [**grumpygamer/DeloresDev**](https://github.com/grumpygamer/DeloresDev)
+Read all about it on GrumpyGamer:
+14. [**qiniu/goplus**](https://github.com/qiniu/goplus)
+GoPlus - The Go+ language for data science
+15. [**spmallick/learnopencv**](https://github.com/spmallick/learnopencv)
 Learn OpenCV : C++ and Python Examples
-17. [**fastlane/fastlane**](https://github.com/fastlane/fastlane)
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-18. [**xkcoding/spring-boot-demo**](https://github.com/xkcoding/spring-boot-demo)
-spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
-19. [**utmapp/UTM**](https://github.com/utmapp/UTM)
-Virtual machines for iOS
-20. [**iaincollins/next-auth**](https://github.com/iaincollins/next-auth)
-Easy authentication for Next.js and Serverless
-21. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
+16. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
 OpenCore bootloader
-22. [**wg/wrk**](https://github.com/wg/wrk)
+17. [**beyondcode/expose**](https://github.com/beyondcode/expose)
+A beautiful, fully open-source, tunneling service - written in pure PHP
+18. [**facebookresearch/pifuhd**](https://github.com/facebookresearch/pifuhd)
+High-Resolution 3D Human Digitization from A Single Image.
+19. [**wg/wrk**](https://github.com/wg/wrk)
 Modern HTTP benchmarking tool
-23. [**Pure-L0G1C/Instagram**](https://github.com/Pure-L0G1C/Instagram)
-Bruteforce attack for Instagram
-24. [**getredash/redash**](https://github.com/getredash/redash)
-Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-25. [**google/jax**](https://github.com/google/jax)
+20. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
+《On Java 8》中文版，又名《Java编程思想》 第5版
+21. [**iaincollins/next-auth**](https://github.com/iaincollins/next-auth)
+Easy authentication for Next.js and Serverless
+22. [**jhu-ep-coursera/fullstack-course4**](https://github.com/jhu-ep-coursera/fullstack-course4)
+Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+23. [**google/jax**](https://github.com/google/jax)
 Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+24. [**airbnb/HorizonCalendar**](https://github.com/airbnb/HorizonCalendar)
+A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+25. [**xkcoding/spring-boot-demo**](https://github.com/xkcoding/spring-boot-demo)
+spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**Light-City/CPlusPlusThings**](https://github.com/Light-City/CPlusPlusThings)
 C++那些事
-2. [**facebookresearch/detr**](https://github.com/facebookresearch/detr)
-End-to-End Object Detection with Transformers
-3. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
+2. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
 《统计学习方法》的代码实现
-4. [**corona-warn-app/cwa-server**](https://github.com/corona-warn-app/cwa-server)
+3. [**corona-warn-app/cwa-server**](https://github.com/corona-warn-app/cwa-server)
 Backend implementation for the Apple/Google exposure notification API.
-5. [**corona-warn-app/cwa-verification-server**](https://github.com/corona-warn-app/cwa-verification-server)
-Backend implementation of the verification process
-6. [**corona-warn-app/cwa-documentation**](https://github.com/corona-warn-app/cwa-documentation)
+4. [**facebookresearch/detr**](https://github.com/facebookresearch/detr)
+End-to-End Object Detection with Transformers
+5. [**corona-warn-app/cwa-documentation**](https://github.com/corona-warn-app/cwa-documentation)
 Project overview, general documentation, and white papers.
-7. [**bradtraversy/vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects)
+6. [**bradtraversy/vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects)
 Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-8. [**kholia/OSX-KVM**](https://github.com/kholia/OSX-KVM)
-Run macOS on QEMU/KVM. Commercial support is now available. With OpenCore + Big Sur support now!
-9. [**chuzhixin/vue-admin-beautiful**](https://github.com/chuzhixin/vue-admin-beautiful)
-vue-admin-beautiful是一款基于element+vue的绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
-10. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
+7. [**corona-warn-app/cwa-verification-server**](https://github.com/corona-warn-app/cwa-verification-server)
+Backend implementation of the verification process
+8. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
 DeepFaceLab is the leading software for creating deepfakes.
+9. [**kholia/OSX-KVM**](https://github.com/kholia/OSX-KVM)
+Run macOS on QEMU/KVM. Commercial support is now available. With OpenCore + Big Sur support now!
+10. [**chuzhixin/vue-admin-beautiful**](https://github.com/chuzhixin/vue-admin-beautiful)
+vue-admin-beautiful是一款基于element+vue的绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
 11. [**foxlet/macOS-Simple-KVM**](https://github.com/foxlet/macOS-Simple-KVM)
 Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-12. [**shomali11/go-interview**](https://github.com/shomali11/go-interview)
-Collection of Technical Interview Questions solved with Go
+12. [**s-matyukevich/raspberry-pi-os**](https://github.com/s-matyukevich/raspberry-pi-os)
+Learning operating system development using Linux kernel and Raspberry Pi
 13. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
 OpenCore bootloader
-14. [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi)
-Productive & portable programming language for high-performance, sparse & differentiable computing
-15. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
+14. [**v2ray/v2ray-core**](https://github.com/v2ray/v2ray-core)
 A platform for building proxies to bypass network restrictions.
-16. [**open-mmlab/mmdetection**](https://github.com/open-mmlab/mmdetection)
-OpenMMLab Detection Toolbox and Benchmark
-17. [**nlohmann/json**](https://github.com/nlohmann/json)
+15. [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi)
+Productive & portable programming language for high-performance, sparse & differentiable computing
+16. [**nlohmann/json**](https://github.com/nlohmann/json)
 JSON for Modern C++
-18. [**alibaba/fastjson**](https://github.com/alibaba/fastjson)
+17. [**alibaba/fastjson**](https://github.com/alibaba/fastjson)
 A fast JSON parser/generator for Java.
-19. [**derailed/k9s**](https://github.com/derailed/k9s)
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-20. [**OpenRA/OpenRA**](https://github.com/OpenRA/OpenRA)
+18. [**OpenRA/OpenRA**](https://github.com/OpenRA/OpenRA)
 Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-21. [**mertJF/tailblocks**](https://github.com/mertJF/tailblocks)
-🎉 Ready-to-use Tailwind CSS blocks.
-22. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
-✅ The Node.js best practices list (June 2020)
-23. [**TheCherno/Hazel**](https://github.com/TheCherno/Hazel)
-Hazel Engine
-24. [**encode/django-rest-framework**](https://github.com/encode/django-rest-framework)
+19. [**open-mmlab/mmdetection**](https://github.com/open-mmlab/mmdetection)
+OpenMMLab Detection Toolbox and Benchmark
+20. [**encode/django-rest-framework**](https://github.com/encode/django-rest-framework)
 Web APIs for Django. 🎸
-25. [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes)
+21. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
+✅ The Node.js best practices list (June 2020)
+22. [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes)
 Production-Grade Container Scheduling and Management
+23. [**openai/gpt-2**](https://github.com/openai/gpt-2)
+Code for the paper "Language Models are Unsupervised Multitask Learners"
+24. [**macrozheng/mall-learning**](https://github.com/macrozheng/mall-learning)
+mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis5.0、Mongodb4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+25. [**derailed/k9s**](https://github.com/derailed/k9s)
+🐶 Kubernetes CLI To Manage Your Clusters In Style!
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab -->
