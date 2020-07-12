@@ -11,160 +11,160 @@ Auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**facebook/facebook-ios-sdk**](https://github.com/facebook/facebook-ios-sdk)
-Used to integrate the Facebook Platform with your iOS & tvOS apps.
-2. [**google/tsunami-security-scanner**](https://github.com/google/tsunami-security-scanner)
-Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-3. [**google/tsunami-security-scanner-plugins**](https://github.com/google/tsunami-security-scanner-plugins)
-This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
-4. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-5. [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool)
-ALL IN ONE Hacking Tool For Hackers
-6. [**JaidedAI/EasyOCR**](https://github.com/JaidedAI/EasyOCR)
-Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-7. [**MicrosoftDocs/azure-docs**](https://github.com/MicrosoftDocs/azure-docs)
-Open source documentation of Microsoft Azure
-8. [**google-research/torchsde**](https://github.com/google-research/torchsde)
-Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
-9. [**moby/moby**](https://github.com/moby/moby)
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-10. [**Dimillian/RedditOS**](https://github.com/Dimillian/RedditOS)
+1. [**Dimillian/RedditOS**](https://github.com/Dimillian/RedditOS)
 A SwiftUI Reddit client for macOS Big Sur
-11. [**kautukkundan/Awesome-Profile-README-templates**](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-A collection of awesome readme templates to display on your profile
-12. [**prometheus/prometheus**](https://github.com/prometheus/prometheus)
-The Prometheus monitoring system and time series database.
-13. [**bem/yandex-ui**](https://github.com/bem/yandex-ui)
-Yandex UI Kit build on React and bem-react
-14. [**maudzung/Complex-YOLOv4-Pytorch**](https://github.com/maudzung/Complex-YOLOv4-Pytorch)
-The PyTorch Implementation based on YOLOv4 of the paper: "Complex-YOLO: Real-time 3D Object Detection on Point Clouds"
-15. [**marcotcr/checklist**](https://github.com/marcotcr/checklist)
-Beyond Accuracy: Behavioral Testing of NLP models with CheckList
-16. [**iterative/cml**](https://github.com/iterative/cml)
-♾️ CML - Continuous Machine Learning or CI/CD for ML
-17. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
-"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-18. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
-🤓 Build your own (insert technology here)
-19. [**qishibo/AnotherRedisDesktopManager**](https://github.com/qishibo/AnotherRedisDesktopManager)
-🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-20. [**cilium/cilium**](https://github.com/cilium/cilium)
-eBPF-based Networking, Security, and Observability
-21. [**ripienaar/free-for-dev**](https://github.com/ripienaar/free-for-dev)
-A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-22. [**apache/pulsar**](https://github.com/apache/pulsar)
-Apache Pulsar - distributed pub-sub messaging system
-23. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
-DeepFaceLab is the leading software for creating deepfakes.
-24. [**huggingface/nlp**](https://github.com/huggingface/nlp)
+2. [**manikandanraji/youtubeclone-frontend**](https://github.com/manikandanraji/youtubeclone-frontend)
+Youtube Clone Frontend (React + Redux)
+3. [**deezer/spleeter**](https://github.com/deezer/spleeter)
+Deezer source separation library including pretrained models.
+4. [**ant-design-blazor/ant-design-blazor**](https://github.com/ant-design-blazor/ant-design-blazor)
+🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+5. [**flipped-aurora/gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin)
+基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+6. [**huggingface/nlp**](https://github.com/huggingface/nlp)
 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-25. [**dotnet/runtime**](https://github.com/dotnet/runtime)
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+7. [**google/tsunami-security-scanner**](https://github.com/google/tsunami-security-scanner)
+Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+8. [**iperov/DeepFaceLab**](https://github.com/iperov/DeepFaceLab)
+DeepFaceLab is the leading software for creating deepfakes.
+9. [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool)
+ALL IN ONE Hacking Tool For Hackers
+10. [**basir/node-react-ecommerce**](https://github.com/basir/node-react-ecommerce)
+Build ECommerce Website Like Amazon By React & Node & MongoDB
+11. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
+Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+12. [**apache/pulsar**](https://github.com/apache/pulsar)
+Apache Pulsar - distributed pub-sub messaging system
+13. [**gothinkster/realworld**](https://github.com/gothinkster/realworld)
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+14. [**kautukkundan/Awesome-Profile-README-templates**](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+A collection of awesome readme templates to display on your profile
+15. [**manikandanraji/youtubeclone-backend**](https://github.com/manikandanraji/youtubeclone-backend)
+Youtube Clone Backend (Express + Sequelize)
+16. [**Avik-Jain/100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+100 Days of ML Coding
+17. [**terjanq/Tiny-XSS-Payloads**](https://github.com/terjanq/Tiny-XSS-Payloads)
+A collection of tiny XSS Payloads that can be used in different contexts.
+18. [**apptension/developer-handbook**](https://github.com/apptension/developer-handbook)
+An opinionated guide on how to become a professional Web/Mobile App Developer.
+19. [**nndl/nndl.github.io**](https://github.com/nndl/nndl.github.io)
+《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+20. [**full-stack-deep-learning/fsdl-text-recognizer-project**](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project)
+The source repository is at https://github.com/full-stack-deep-learning/fsdl-text-recognizer
+21. [**0xricksanchez/paper_collection**](https://github.com/0xricksanchez/paper_collection)
+Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read
+22. [**NeuromatchAcademy/course-content**](https://github.com/NeuromatchAcademy/course-content)
+Summer course content for Neuromatch Academy
+23. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
+The Magic Mask for Android
+24. [**tiangolo/fastapi**](https://github.com/tiangolo/fastapi)
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+25. [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
+Master the command line, in one page
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**google/tsunami-security-scanner**](https://github.com/google/tsunami-security-scanner)
 Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-2. [**spotify/backstage**](https://github.com/spotify/backstage)
-Backstage is an open platform for building developer portals
-3. [**google/skywater-pdk**](https://github.com/google/skywater-pdk)
+2. [**google/skywater-pdk**](https://github.com/google/skywater-pdk)
 Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
+3. [**spotify/backstage**](https://github.com/spotify/backstage)
+Backstage is an open platform for building developer portals
 4. [**diego3g/rocketredis**](https://github.com/diego3g/rocketredis)
 A beautiful Redis GUI 🔥 (under development)
 5. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-6. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
+6. [**metersphere/metersphere**](https://github.com/metersphere/metersphere)
+MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+7. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
 Rich is a Python library for rich text and beautiful formatting in the terminal.
-7. [**tinode/chat**](https://github.com/tinode/chat)
-Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 8. [**vitejs/vite**](https://github.com/vitejs/vite)
 Native-ESM powered web dev build tool. It's fast.
-9. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google Research
+9. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
+Roadmap to becoming a web developer in 2020
 10. [**alibaba/COLA**](https://github.com/alibaba/COLA)
 Clean Object-oriented & Layered Architecture
 11. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
 Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
-12. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
-《On Java 8》中文版，又名《Java编程思想》 第5版
-13. [**macrozheng/mall**](https://github.com/macrozheng/mall)
-mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-14. [**hoanhan101/ultimate-go**](https://github.com/hoanhan101/ultimate-go)
-Ultimate Go study guide
-15. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-16. [**metersphere/metersphere**](https://github.com/metersphere/metersphere)
-MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
-17. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
-Roadmap to becoming a web developer in 2020
-18. [**foambubble/foam-template**](https://github.com/foambubble/foam-template)
-Foam workpace template
-19. [**Dod-o/Statistical-Learning-Method_Code**](https://github.com/Dod-o/Statistical-Learning-Method_Code)
-手写实现李航《统计学习方法》书中全部算法
-20. [**vuejs/vue**](https://github.com/vuejs/vue)
-🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-21. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
-flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
-22. [**midwayjs/midway**](https://github.com/midwayjs/midway)
-🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
-23. [**iawia002/annie**](https://github.com/iawia002/annie)
-👾 Fast, simple and clean video downloader
-24. [**trungk18/jira-clone-angular**](https://github.com/trungk18/jira-clone-angular)
-A simplified Jira clone built with Angular 9 and Akita
-25. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
+12. [**tinode/chat**](https://github.com/tinode/chat)
+Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+13. [**abseil/abseil-cpp**](https://github.com/abseil/abseil-cpp)
+Abseil Common Libraries (C++)
+14. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
 Lean's OpenWrt source
+15. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
+《On Java 8》中文版，又名《Java编程思想》 第5版
+16. [**zhisheng17/flink-learning**](https://github.com/zhisheng17/flink-learning)
+flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+17. [**facebookresearch/faiss**](https://github.com/facebookresearch/faiss)
+A library for efficient similarity search and clustering of dense vectors.
+18. [**vercel/swr**](https://github.com/vercel/swr)
+React Hooks library for remote data fetching
+19. [**foambubble/foam-template**](https://github.com/foambubble/foam-template)
+Foam workpace template
+20. [**commaai/openpilot**](https://github.com/commaai/openpilot)
+openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+21. [**vuejs/vue**](https://github.com/vuejs/vue)
+🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+22. [**JaidedAI/EasyOCR**](https://github.com/JaidedAI/EasyOCR)
+Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+23. [**GitSquared/edex-ui**](https://github.com/GitSquared/edex-ui)
+A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+24. [**Azure/azure-sdk-for-python**](https://github.com/Azure/azure-sdk-for-python)
+This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+25. [**HSEIreland/covid-tracker-app**](https://github.com/HSEIreland/covid-tracker-app)
+COVID Tracker App Repository
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**corona-warn-app/cwa-app-android**](https://github.com/corona-warn-app/cwa-app-android)
 Native Android app using the Apple/Google exposure notification API.
 2. [**dabeaz-course/practical-python**](https://github.com/dabeaz-course/practical-python)
 Practical Python Programming (course by @dabeaz)
-3. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
-一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-4. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
+3. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
 《On Java 8》中文版，又名《Java编程思想》 第5版
-5. [**corona-warn-app/cwa-app-ios**](https://github.com/corona-warn-app/cwa-app-ios)
-Native iOS app using the exposure notification framework from Apple.
-6. [**ultralytics/yolov5**](https://github.com/ultralytics/yolov5)
-YOLOv5 in PyTorch > ONNX > CoreML > iOS
-7. [**macrozheng/mall**](https://github.com/macrozheng/mall)
-mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-8. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
+4. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
+一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+5. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-9. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
+6. [**macrozheng/mall**](https://github.com/macrozheng/mall)
+mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+7. [**corona-warn-app/cwa-app-ios**](https://github.com/corona-warn-app/cwa-app-ios)
+Native iOS app using the exposure notification framework from Apple.
+8. [**acidanthera/OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg)
 OpenCore bootloader
+9. [**ultralytics/yolov5**](https://github.com/ultralytics/yolov5)
+YOLOv5 in PyTorch > ONNX > CoreML > iOS
 10. [**jackfrued/Python-Core-50-Courses**](https://github.com/jackfrued/Python-Core-50-Courses)
 Python语言基础50课
-11. [**chrislgarry/Apollo-11**](https://github.com/chrislgarry/Apollo-11)
-Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-12. [**vuejs/vue**](https://github.com/vuejs/vue)
+11. [**vuejs/vue**](https://github.com/vuejs/vue)
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+12. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
+《统计学习方法》的代码实现
 13. [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes)
 Production-Grade Container Scheduling and Management
-14. [**fengdu78/lihang-code**](https://github.com/fengdu78/lihang-code)
-《统计学习方法》的代码实现
+14. [**nzw9314/QuantumultX**](https://github.com/nzw9314/QuantumultX)
+QuantumultX
 15. [**zhoutaoo/SpringCloud**](https://github.com/zhoutaoo/SpringCloud)
 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
-16. [**chai2010/go-ast-book**](https://github.com/chai2010/go-ast-book)
-📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
-17. [**nzw9314/QuantumultX**](https://github.com/nzw9314/QuantumultX)
-QuantumultX
+16. [**chrislgarry/Apollo-11**](https://github.com/chrislgarry/Apollo-11)
+Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+17. [**redis/redis**](https://github.com/redis/redis)
+Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 18. [**spring-projects/spring-boot**](https://github.com/spring-projects/spring-boot)
 Spring Boot
-19. [**corona-warn-app/cwa-website**](https://github.com/corona-warn-app/cwa-website)
-Corona-Warn-App website
-20. [**corona-warn-app/cwa-server**](https://github.com/corona-warn-app/cwa-server)
-Backend implementation for the Apple/Google exposure notification API.
-21. [**livewire/livewire**](https://github.com/livewire/livewire)
-A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-22. [**redis/redis**](https://github.com/redis/redis)
-Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-23. [**open-mmlab/mmdetection**](https://github.com/open-mmlab/mmdetection)
-OpenMMLab Detection Toolbox and Benchmark
-24. [**Hunlongyu/ZY-Player**](https://github.com/Hunlongyu/ZY-Player)
-▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-25. [**abseil/abseil-cpp**](https://github.com/abseil/abseil-cpp)
+19. [**abseil/abseil-cpp**](https://github.com/abseil/abseil-cpp)
 Abseil Common Libraries (C++)
+20. [**open-mmlab/mmdetection**](https://github.com/open-mmlab/mmdetection)
+OpenMMLab Detection Toolbox and Benchmark
+21. [**chai2010/go-ast-book**](https://github.com/chai2010/go-ast-book)
+📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+22. [**apache/spark**](https://github.com/apache/spark)
+Apache Spark - A unified analytics engine for large-scale data processing
+23. [**douyu/jupiter**](https://github.com/douyu/jupiter)
+Jupiter是douyu开源的面向服务治理的Golang微服务框架
+24. [**corona-warn-app/cwa-website**](https://github.com/corona-warn-app/cwa-website)
+Corona-Warn-App website
+25. [**nuxt/nuxt.js**](https://github.com/nuxt/nuxt.js)
+The Intuitive Vue Framework
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab -->
