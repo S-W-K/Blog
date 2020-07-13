@@ -52,7 +52,7 @@ An opinionated guide on how to become a professional Web/Mobile App Developer.
 20. [**full-stack-deep-learning/fsdl-text-recognizer-project**](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project)
 The source repository is at https://github.com/full-stack-deep-learning/fsdl-text-recognizer
 21. [**0xricksanchez/paper_collection**](https://github.com/0xricksanchez/paper_collection)
-Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read
+Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read
 22. [**NeuromatchAcademy/course-content**](https://github.com/NeuromatchAcademy/course-content)
 Summer course content for Neuromatch Academy
 23. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
@@ -169,25 +169,25 @@ The Intuitive Vue Framework
 {% endsubtabs %}
 <!-- endtab -->
 <!-- tab Medium -->
-1. [**The Unintentional Racism Found in Traffic Signals**](https://level.medium.com/the-unintentional-racism-found-in-traffic-signals-b2899c34fefb?source=topic_page---------------------------20)
-Just because something doesn’t use an offensive mascot doesn’t mean it can’t reinforce a broken system
-2. [**Unlucky Charms: The Rise and Fall of Billion-Dollar Jewelry Empire Alex and Ani**](https://marker.medium.com/unlucky-charms-the-rise-and-fall-of-billion-dollar-jewelry-empire-alex-and-ani-6acd9a716fd2?source=topic_page---------0------------------1)
-Astrology, private equity, a $1.1 billion gender discrimination lawsuit, and a precariously built bangle behemoth
-3. [**Gaming During the Pandemic Is Starting to Feel Like Work**](https://onezero.medium.com/gaming-during-the-pandemic-is-starting-to-feel-like-work-33367af7d7e5?source=topic_page---------1------------------1)
-And that’s not a bad thing
-4. [**We Can’t Let Parents and Teachers Be Pitted Against Each Other In Debate Over School Reopenings**](https://medium.com/age-of-awareness/we-cant-let-parents-and-teachers-be-pitted-against-each-other-in-debate-over-school-reopenings-18449839f2f6?source=topic_page---------2------------------1)
-We have been presented with unacceptable choices by a society that doesn’t value children or working families
-5. [**Tiny Weed-Killing Robots Could Make Pesticides Obsolete**](https://onezero.medium.com/tiny-weed-killing-robots-could-make-pesticides-obsolete-99b3a6359c39?source=topic_page---------4------------------1)
-This swarm of robots may herald a chemical-free food revolution
-6. [**If Life Feels Bleak, It’s Because Our Civilization is Beginning to Collapse**](https://eand.co/if-life-feels-bleak-its-because-our-civilization-is-beginning-to-collapse-a787d62d714b?source=topic_page---------5------------------1)
-2030 Will Be Even Worse than 2020. And 2040 Will Be Even Worse than That. Unless.
-7. [**Coronavirus May Be a Blood Vessel Disease, Which Explains Everything**](https://elemental.medium.com/coronavirus-may-be-a-blood-vessel-disease-which-explains-everything-2c4032481ab2?source=topic_page---------6------------------1)
+1. [**Coronavirus May Be a Blood Vessel Disease, Which Explains Everything**](https://elemental.medium.com/coronavirus-may-be-a-blood-vessel-disease-which-explains-everything-2c4032481ab2?source=topic_page---------------------------20)
 Many of the infection’s bizarre symptoms have one thing in common
-8. [**Why African Spirituality Became Associated With Satan**](https://medium.com/@voncujovi.s/why-african-spirituality-became-associated-with-satan-a16712cf9cdf?source=topic_page---------7------------------1)
-“You must stop your Satanic idol-worship”, “You devil worshipper”, “You will go to Hell”. These are all common derogatory comments I have…
-9. [**The Most Mispronounced Word in the World**](https://humanparts.medium.com/the-most-mispronounced-word-in-the-world-20dcad2a6735?source=topic_page---------8------------------1)
-And how to undo decades of linguistic carnage
-10. [**If You Only Read A Few Books In 2020, Read These**](https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9?source=topic_page---------9------------------1)
-About creativity, finding your purpose, decision-making, the Big Four and so much more.
+2. [**American Passports Are Worthless Now (Map)**](https://medium.com/@indica/the-plague-states-of-america-53b20678a80e?source=topic_page---------0------------------1)
+Oh the places you can’t go
+3. [**COVID-19 Cases Are Rising, So Why Are Deaths Flatlining?**](https://medium.com/the-atlantic/covid-19-cases-are-rising-so-why-are-deaths-flatlining-3d801eb78871?source=topic_page---------1------------------1)
+The gap between soaring cases and falling deaths is being weaponized by the right to claim a hollow victory in the face of shameless…
+4. [**The Psychopath in Chief**](https://gen.medium.com/the-psychopath-in-chief-aa10ab2165d9?source=topic_page---------2------------------1)
+I spent hundreds of hours with Donald Trump to ghost-write ‘The Art of the Deal.’ I now see a deeper meaning behind his behavior.
+5. [**The Unintentional Racism Found in Traffic Signals**](https://level.medium.com/the-unintentional-racism-found-in-traffic-signals-b2899c34fefb?source=topic_page---------4------------------1)
+Just because something doesn’t use an offensive mascot doesn’t mean it can’t reinforce a broken system
+6. [**Unlucky Charms: The Rise and Fall of Billion-Dollar Jewelry Empire Alex and Ani**](https://marker.medium.com/unlucky-charms-the-rise-and-fall-of-billion-dollar-jewelry-empire-alex-and-ani-6acd9a716fd2?source=topic_page---------5------------------1)
+Astrology, private equity, a $1.1 billion gender discrimination lawsuit, and a precariously built bangle behemoth
+7. [**Gaming During the Pandemic Is Starting to Feel Like Work**](https://onezero.medium.com/gaming-during-the-pandemic-is-starting-to-feel-like-work-33367af7d7e5?source=topic_page---------6------------------1)
+And that’s not a bad thing
+8. [**We Can’t Let Parents and Teachers Be Pitted Against Each Other In Debate Over School Reopenings**](https://medium.com/age-of-awareness/we-cant-let-parents-and-teachers-be-pitted-against-each-other-in-debate-over-school-reopenings-18449839f2f6?source=topic_page---------7------------------1)
+We have been presented with unacceptable choices by a society that doesn’t value children or working families
+9. [**Tiny Weed-Killing Robots Could Make Pesticides Obsolete**](https://onezero.medium.com/tiny-weed-killing-robots-could-make-pesticides-obsolete-99b3a6359c39?source=topic_page---------8------------------1)
+This swarm of robots may herald a chemical-free food revolution
+10. [**If Life Feels Bleak, It’s Because Our Civilization is Beginning to Collapse**](https://eand.co/if-life-feels-bleak-its-because-our-civilization-is-beginning-to-collapse-a787d62d714b?source=topic_page---------9------------------1)
+2030 Will Be Even Worse than 2020. And 2040 Will Be Even Worse than That. Unless.
 <!-- endtab -->
 {% endtabs %}
