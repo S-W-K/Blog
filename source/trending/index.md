@@ -47,18 +47,12 @@ A roadmap connecting many of the most important concepts in machine learning, ho
 An open source re-implementation of Diablo 2
 18. [**rappasoft/laravel-boilerplate**](https://github.com/rappasoft/laravel-boilerplate)
 The Laravel Boilerplate Project - https://laravel-boilerplate.com
-19. [**umi-top/umi-core**](https://github.com/umi-top/umi-core)
-UMI Core Go Library
-20. [**surya-veer/movement-tracking**](https://github.com/surya-veer/movement-tracking)
+19. [**surya-veer/movement-tracking**](https://github.com/surya-veer/movement-tracking)
 UP - DOWN - LEFT - RIGHT movement tracking.
-21. [**umi-top/umi-top.github.io**](https://github.com/umi-top/umi-top.github.io)
-No repo_description
-22. [**karanpratapsingh/fullstack-starterkit**](https://github.com/karanpratapsingh/fullstack-starterkit)
+20. [**karanpratapsingh/fullstack-starterkit**](https://github.com/karanpratapsingh/fullstack-starterkit)
 GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-23. [**blaCCkHatHacEEkr/PENTESTING-BIBLE**](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+21. [**blaCCkHatHacEEkr/PENTESTING-BIBLE**](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-24. [**umi-top/umi-core-php**](https://github.com/umi-top/umi-core-php)
-UMI Core PHP Library
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**openai/gpt-3**](https://github.com/openai/gpt-3)
