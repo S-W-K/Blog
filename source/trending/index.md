@@ -11,152 +11,160 @@ Auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab GitHub -->
 {% subtabs GitHub Tab%}
 <!-- tab Daily -->
-1. [**UZ-SLAMLab/ORB_SLAM3**](https://github.com/UZ-SLAMLab/ORB_SLAM3)
-ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-2. [**anuraghazra/github-readme-stats**](https://github.com/anuraghazra/github-readme-stats)
-⚡ Dynamically generated stats for your github readmes
-3. [**plant99/felicette**](https://github.com/plant99/felicette)
-Satellite imagery for dummies.
-4. [**corona-warn-app/cwa-app-android**](https://github.com/corona-warn-app/cwa-app-android)
-Native Android app using the Apple/Google exposure notification API.
-5. [**radareorg/cutter**](https://github.com/radareorg/cutter)
-Free and Open Source Reverse Engineering Platform powered by radare2
-6. [**shreyashankar/gpt3-sandbox**](https://github.com/shreyashankar/gpt3-sandbox)
+1. [**github/rest-api-description**](https://github.com/github/rest-api-description)
+An OpenAPI description for GitHub's REST API
+2. [**imersao-alura/aluraflix**](https://github.com/imersao-alura/aluraflix)
+⚛️ Projeto feito durante a Imersão React da Alura
+3. [**WebDevSimplified/Zoom-Clone-With-WebRTC**](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
+No repo_description
+4. [**shreyashankar/gpt3-sandbox**](https://github.com/shreyashankar/gpt3-sandbox)
 The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
-7. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-8. [**iamvucms/react-native-instagram-clone**](https://github.com/iamvucms/react-native-instagram-clone)
-A React Native app - Clone Instagram mobile app (In progress)
-9. [**kautukkundan/Awesome-Profile-README-templates**](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-A collection of awesome readme templates to display on your profile
-10. [**androidx/androidx**](https://github.com/androidx/androidx)
-Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
-11. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
-A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-12. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
-刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-13. [**chrisbanes/tivi**](https://github.com/chrisbanes/tivi)
-Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
-14. [**noraj/OSCP-Exam-Report-Template-Markdown**](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
-📙 OSCP Exam Report Template in Markdown
-15. [**gto76/python-cheatsheet**](https://github.com/gto76/python-cheatsheet)
-Comprehensive Python Cheatsheet
-16. [**mrdbourke/machine-learning-roadmap**](https://github.com/mrdbourke/machine-learning-roadmap)
+5. [**mrdbourke/machine-learning-roadmap**](https://github.com/mrdbourke/machine-learning-roadmap)
 A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-17. [**OpenDiablo2/OpenDiablo2**](https://github.com/OpenDiablo2/OpenDiablo2)
-An open source re-implementation of Diablo 2
-18. [**rappasoft/laravel-boilerplate**](https://github.com/rappasoft/laravel-boilerplate)
-The Laravel Boilerplate Project - https://laravel-boilerplate.com
-19. [**surya-veer/movement-tracking**](https://github.com/surya-veer/movement-tracking)
+6. [**gto76/python-cheatsheet**](https://github.com/gto76/python-cheatsheet)
+Comprehensive Python Cheatsheet
+7. [**surya-veer/movement-tracking**](https://github.com/surya-veer/movement-tracking)
 UP - DOWN - LEFT - RIGHT movement tracking.
-20. [**karanpratapsingh/fullstack-starterkit**](https://github.com/karanpratapsingh/fullstack-starterkit)
-GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-21. [**blaCCkHatHacEEkr/PENTESTING-BIBLE**](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
-Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+8. [**anuraghazra/github-readme-stats**](https://github.com/anuraghazra/github-readme-stats)
+⚡ Dynamically generated stats for your github readmes
+9. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
+A libre lightweight streaming front-end for Android.
+10. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
+刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+11. [**icsharpcode/ILSpy**](https://github.com/icsharpcode/ILSpy)
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+12. [**pikvm/pikvm**](https://github.com/pikvm/pikvm)
+Open and cheap DIY IP-KVM based on Raspberry Pi
+13. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+14. [**flutter/flutter**](https://github.com/flutter/flutter)
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+15. [**OSCPU/NutShell**](https://github.com/OSCPU/NutShell)
+RISC-V SoC designed by students in UCAS
+16. [**apple/swift**](https://github.com/apple/swift)
+The Swift Programming Language
+17. [**ReactiveX/RxSwift**](https://github.com/ReactiveX/RxSwift)
+Reactive Programming in Swift
+18. [**Delta2Force/MCVmComputers**](https://github.com/Delta2Force/MCVmComputers)
+Order computer parts from a satellite orbiting around your minecraft world and build actual working computers with them!
+19. [**elyase/awesome-gpt3**](https://github.com/elyase/awesome-gpt3)
+No repo_description
+20. [**kdeldycke/awesome-falsehood**](https://github.com/kdeldycke/awesome-falsehood)
+😱 Falsehoods Programmers Believe in
+21. [**radareorg/cutter**](https://github.com/radareorg/cutter)
+Free and Open Source Reverse Engineering Platform powered by radare2
+22. [**apache/arrow**](https://github.com/apache/arrow)
+Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+23. [**metersphere/metersphere**](https://github.com/metersphere/metersphere)
+An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+24. [**uvipen/Super-mario-bros-PPO-pytorch**](https://github.com/uvipen/Super-mario-bros-PPO-pytorch)
+Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
+25. [**HaujetZhao/QuickCut**](https://github.com/HaujetZhao/QuickCut)
+Your most handy video processing software
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**openai/gpt-3**](https://github.com/openai/gpt-3)
-GPT-3: Language Models are Few-Shot Learners
+1. [**geekxh/hello-algorithm**](https://github.com/geekxh/hello-algorithm)
+🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 2. [**anuraghazra/github-readme-stats**](https://github.com/anuraghazra/github-readme-stats)
 ⚡ Dynamically generated stats for your github readmes
 3. [**vt-vl-lab/3d-photo-inpainting**](https://github.com/vt-vl-lab/3d-photo-inpainting)
 [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
-4. [**rappasoft/laravel-boilerplate**](https://github.com/rappasoft/laravel-boilerplate)
-The Laravel Boilerplate Project - https://laravel-boilerplate.com
+4. [**haizlin/fe-interview**](https://github.com/haizlin/fe-interview)
+前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 5. [**Requarks/wiki**](https://github.com/Requarks/wiki)
 Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
-6. [**lyswhut/lx-music-desktop**](https://github.com/lyswhut/lx-music-desktop)
+6. [**lidangzzz/hedgehog-lab**](https://github.com/lidangzzz/hedgehog-lab)
+An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
+7. [**lyswhut/lx-music-desktop**](https://github.com/lyswhut/lx-music-desktop)
 一个基于 electron 的音乐软件
-7. [**minimaxir/gpt-3-experiments**](https://github.com/minimaxir/gpt-3-experiments)
-Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
-8. [**TheAlphamerc/flutter_twitter_clone**](https://github.com/TheAlphamerc/flutter_twitter_clone)
-Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
-9. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
-completely free for everyone. Its build-in Flutter Dart.
-10. [**SergioBenitez/Rocket**](https://github.com/SergioBenitez/Rocket)
-A web framework for Rust.
+8. [**openai/gpt-3**](https://github.com/openai/gpt-3)
+GPT-3: Language Models are Few-Shot Learners
+9. [**rappasoft/laravel-boilerplate**](https://github.com/rappasoft/laravel-boilerplate)
+The Laravel Boilerplate Project - https://laravel-boilerplate.com
+10. [**AobingJava/JavaFamily**](https://github.com/AobingJava/JavaFamily)
+【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 11. [**adobe/react-spectrum**](https://github.com/adobe/react-spectrum)
 A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-12. [**AobingJava/JavaFamily**](https://github.com/AobingJava/JavaFamily)
-【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-13. [**RandalLinden/DOOM-FX**](https://github.com/RandalLinden/DOOM-FX)
-Doom/FX for Super Nintendo with SuperFX GSU2A
-14. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-15. [**Dreamacro/clash**](https://github.com/Dreamacro/clash)
-A rule-based tunnel in Go.
-16. [**openai/gpt-2**](https://github.com/openai/gpt-2)
-Code for the paper "Language Models are Unsupervised Multitask Learners"
-17. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
-Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-18. [**FortAwesome/Font-Awesome**](https://github.com/FortAwesome/Font-Awesome)
-The iconic SVG, font, and CSS toolkit
-19. [**sveltejs/svelte**](https://github.com/sveltejs/svelte)
-Cybernetically enhanced web apps
-20. [**material-components/material-components-web**](https://github.com/material-components/material-components-web)
-Modular and customizable Material Design UI components for the web
-21. [**0voice/interview_internal_reference**](https://github.com/0voice/interview_internal_reference)
-2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-22. [**huihut/interview**](https://github.com/huihut/interview)
+12. [**kautukkundan/Awesome-Profile-README-templates**](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+A collection of awesome readme templates to display on your profile
+13. [**ageron/handson-ml2**](https://github.com/ageron/handson-ml2)
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+14. [**apache/arrow**](https://github.com/apache/arrow)
+Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+15. [**huihut/interview**](https://github.com/huihut/interview)
 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
-23. [**abpframework/abp**](https://github.com/abpframework/abp)
-Open Source Web Application Framework for ASP.NET Core
-24. [**cds-snc/covid-alert-app**](https://github.com/cds-snc/covid-alert-app)
-Exposure notification client application / Application client de notification d'exposition
-25. [**vueComponent/ant-design-vue**](https://github.com/vueComponent/ant-design-vue)
-🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+16. [**quantumblacklabs/kedro**](https://github.com/quantumblacklabs/kedro)
+A Python library that implements software engineering best-practice for data and ML pipelines.
+17. [**vuejs/docs-next**](https://github.com/vuejs/docs-next)
+Vue 3 core documentation
+18. [**umputun/remark42**](https://github.com/umputun/remark42)
+comment engine
+19. [**deepinsight/insightface**](https://github.com/deepinsight/insightface)
+Face Analysis Project on MXNet
+20. [**MustangYM/WeChatExtension-ForMac**](https://github.com/MustangYM/WeChatExtension-ForMac)
+Mac版微信的功能拓展(A plugin for Mac WeChat)
+21. [**filecoin-project/lotus**](https://github.com/filecoin-project/lotus)
+Implementation of the Filecoin protocol, written in Go
+22. [**AliaksandrSiarohin/first-order-model**](https://github.com/AliaksandrSiarohin/first-order-model)
+This repository contains the source code for the paper First Order Motion Model for Image Animation
+23. [**GoesToEleven/GolangTraining**](https://github.com/GoesToEleven/GolangTraining)
+Training for Golang (go language)
+24. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+completely free for everyone. Its build-in Flutter Dart.
+25. [**wuyouzhuguli/SpringAll**](https://github.com/wuyouzhuguli/SpringAll)
+循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**google/tsunami-security-scanner**](https://github.com/google/tsunami-security-scanner)
 Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 2. [**openai/gpt-3**](https://github.com/openai/gpt-3)
 GPT-3: Language Models are Few-Shot Learners
-3. [**foambubble/foam**](https://github.com/foambubble/foam)
-A personal knowledge management and sharing system for VSCode
-4. [**FlameOfIgnis/Pwdb-Public**](https://github.com/FlameOfIgnis/Pwdb-Public)
-A collection of all the data i could extract from 1 billion leaked credentials from internet.
-5. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
+3. [**spotify/backstage**](https://github.com/spotify/backstage)
+Backstage is an open platform for building developer portals
+4. [**scutan90/DeepLearning-500-questions**](https://github.com/scutan90/DeepLearning-500-questions)
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-6. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
-《On Java 8》中文版，又名《Java编程思想》 第5版
-7. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
+5. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
 Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）
-8. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
+6. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
 Repo for Vue 3.0 (currently in beta)
-9. [**facebook/react**](https://github.com/facebook/react)
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
-10. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
-A sandbox tower defense game
-11. [**flipped-aurora/gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin)
+7. [**flipped-aurora/gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin)
 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
-12. [**macrozheng/mall**](https://github.com/macrozheng/mall)
-mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-13. [**openai/gpt-2**](https://github.com/openai/gpt-2)
+8. [**LingCoder/OnJava8**](https://github.com/LingCoder/OnJava8)
+《On Java 8》中文版，又名《Java编程思想》 第5版
+9. [**openai/gpt-2**](https://github.com/openai/gpt-2)
 Code for the paper "Language Models are Unsupervised Multitask Learners"
-14. [**YunaiV/SpringBoot-Labs**](https://github.com/YunaiV/SpringBoot-Labs)
-一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-15. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
-前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
-16. [**guipsamora/pandas_exercises**](https://github.com/guipsamora/pandas_exercises)
+10. [**facebook/react**](https://github.com/facebook/react)
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
+11. [**openjdk/jdk**](https://github.com/openjdk/jdk)
+Read-only mirror of https://hg.openjdk.java.net/jdk/jdk
+12. [**FlameOfIgnis/Pwdb-Public**](https://github.com/FlameOfIgnis/Pwdb-Public)
+A collection of all the data i could extract from 1 billion leaked credentials from internet.
+13. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
+A libre lightweight streaming front-end for Android.
+14. [**guipsamora/pandas_exercises**](https://github.com/guipsamora/pandas_exercises)
 Practice your pandas skills!
+15. [**apache/shardingsphere-elasticjob**](https://github.com/apache/shardingsphere-elasticjob)
+Distributed scheduled job framework
+16. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 17. [**commaai/openpilot**](https://github.com/commaai/openpilot)
 openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-18. [**an-tao/drogon**](https://github.com/an-tao/drogon)
-Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
-19. [**vuejs/vue**](https://github.com/vuejs/vue)
-🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-20. [**greyireland/algorithm-pattern**](https://github.com/greyireland/algorithm-pattern)
-算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-21. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
-Roadmap to becoming a web developer in 2020
-22. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
-completely free for everyone. Its build-in Flutter Dart.
-23. [**elastic/elasticsearch**](https://github.com/elastic/elasticsearch)
-Open Source, Distributed, RESTful Search Engine
-24. [**open-mmlab/mmdetection**](https://github.com/open-mmlab/mmdetection)
+18. [**googleapis/googleapis**](https://github.com/googleapis/googleapis)
+Public interface definitions of Google APIs.
+19. [**open-mmlab/mmdetection**](https://github.com/open-mmlab/mmdetection)
 OpenMMLab Detection Toolbox and Benchmark
-25. [**redis/redis**](https://github.com/redis/redis)
-Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+20. [**elastic/elasticsearch**](https://github.com/elastic/elasticsearch)
+Open Source, Distributed, RESTful Search Engine
+21. [**mitesh77/Best-Flutter-UI-Templates**](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+completely free for everyone. Its build-in Flutter Dart.
+22. [**an-tao/drogon**](https://github.com/an-tao/drogon)
+Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+23. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
+Roadmap to becoming a web developer in 2020
+24. [**pytorch/pytorch**](https://github.com/pytorch/pytorch)
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+25. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
+Papers from the computer science community to read and discuss.
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab -->
