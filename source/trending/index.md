@@ -177,7 +177,7 @@ Urban Legend, Nonsense, or Something More?
 Eating more of it will make you healthier
 4. [**Donald Trump Would Rather Burn the Whole Country Down Than Lose**](https://gen.medium.com/donald-trump-would-rather-burn-the-whole-country-down-than-lose-855fd3bdd042?source=topic_page---------2------------------1)
 What’s worse than Trump when he’s winning? Trump when he’s not.
-5. [**The Pinterest Paradox: Cupcakes and Toxicity**](https://medium.com/@francoise_93266/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960?source=topic_page---------4------------------1)
+5. [**The Pinterest Paradox: Cupcakes and Toxicity**](https://medium.com/digital-diplomacy/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960?source=topic_page---------4------------------1)
 Pinterest has always been about aspiration. It is a platform for sharing beautiful images, curating galleries of an idealized world. Users…
 6. [**Why Men Are So Bothered By Cardi B and Megan Thee Stallion’s ‘WAP’**](https://level.medium.com/why-men-are-so-bothered-by-cardi-b-and-megan-thee-stallions-wap-94aed0bb7024?source=topic_page---------5------------------1)
 Your patriarchy is showing, sir
