@@ -120,11 +120,11 @@ GPT-3: Language Models are Few-Shot Learners
 2. [**kautukkundan/Awesome-Profile-README-templates**](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 A collection of awesome readme templates to display on your profile
 3. [**mamoe/mirai**](https://github.com/mamoe/mirai)
-No repo_description
+高效率 QQ 机器人框架
 4. [**metersphere/metersphere**](https://github.com/metersphere/metersphere)
 An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
 5. [**KFCFans/PowerJob**](https://github.com/KFCFans/PowerJob)
-Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to access to use!
+Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
 6. [**taosdata/TDengine**](https://github.com/taosdata/TDengine)
 An open-source big data platform designed and optimized for the Internet of Things (IoT).
 7. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
@@ -169,25 +169,25 @@ A curated list of awesome Python frameworks, libraries, software and resources
 {% endsubtabs %}
 <!-- endtab -->
 <!-- tab Medium -->
-1. [**How to Identify a Smart Person in 3 Minutes**](https://forge.medium.com/how-to-identify-a-smart-person-in-3-minutes-57f058cd5561?source=topic_page---------------------------20)
+1. [**The 5 Least Subtle Dog-Whistles About Kamala Harris, Ranked**](https://level.medium.com/the-5-least-subtle-dog-whistles-about-kamala-harris-ranked-36e0cb9abfd5?source=topic_page---------------------------20)
+Y’all scared, huh? You should be.
+2. [**You’re living in 1985 if you don’t use Docker for your Data Science Projects**](https://towardsdatascience.com/youre-living-in-1985-if-you-don-t-use-docker-for-your-data-science-projects-858264db0082?source=topic_page---------0------------------1)
+What is it Docker and How to to use it with Python
+3. [**Why Black People Don’t Go Camping**](https://medium.com/an-injustice/why-black-people-dont-go-camping-a564dd47e5a8?source=topic_page---------1------------------1)
+Its not because we hate the great outdoors or cooking over an open fire
+4. [**Mozilla: The Greatest Tech Company Left Behind**](https://medium.com/young-coder/mozilla-the-greatest-tech-company-left-behind-9e912098a0e1?source=topic_page---------2------------------1)
+How could an organization that had its hand in so many world-changing technologies fail to thrive?
+5. [**How to Identify a Smart Person in 3 Minutes**](https://forge.medium.com/how-to-identify-a-smart-person-in-3-minutes-57f058cd5561?source=topic_page---------4------------------1)
 This two-question combo can help you look past the validation-seekers and find the most intelligent thinkers on your team
-2. [**Five Chilling Instances of Time Slips**](https://medium.com/inside-the-simulation/five-chilling-instances-of-time-slips-d3a7248c9e09?source=topic_page---------0------------------1)
+6. [**Five Chilling Instances of Time Slips**](https://medium.com/inside-the-simulation/five-chilling-instances-of-time-slips-d3a7248c9e09?source=topic_page---------5------------------1)
 Urban Legend, Nonsense, or Something More?
-3. [**90% of You Don’t Eat Enough of This Crucial Food**](https://medium.com/in-fitness-and-in-health/90-of-you-dont-eat-enough-of-this-crucial-food-7ec46ddb8124?source=topic_page---------1------------------1)
+7. [**90% of You Don’t Eat Enough of This Crucial Food**](https://medium.com/in-fitness-and-in-health/90-of-you-dont-eat-enough-of-this-crucial-food-7ec46ddb8124?source=topic_page---------6------------------1)
 Eating more of it will make you healthier
-4. [**Donald Trump Would Rather Burn the Whole Country Down Than Lose**](https://gen.medium.com/donald-trump-would-rather-burn-the-whole-country-down-than-lose-855fd3bdd042?source=topic_page---------2------------------1)
+8. [**Donald Trump Would Rather Burn the Whole Country Down Than Lose**](https://gen.medium.com/donald-trump-would-rather-burn-the-whole-country-down-than-lose-855fd3bdd042?source=topic_page---------7------------------1)
 What’s worse than Trump when he’s winning? Trump when he’s not.
-5. [**The Pinterest Paradox: Cupcakes and Toxicity**](https://medium.com/digital-diplomacy/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960?source=topic_page---------4------------------1)
+9. [**The Pinterest Paradox: Cupcakes and Toxicity**](https://medium.com/digital-diplomacy/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960?source=topic_page---------8------------------1)
 Pinterest has always been about aspiration. It is a platform for sharing beautiful images, curating galleries of an idealized world. Users…
-6. [**Why Men Are So Bothered By Cardi B and Megan Thee Stallion’s ‘WAP’**](https://level.medium.com/why-men-are-so-bothered-by-cardi-b-and-megan-thee-stallions-wap-94aed0bb7024?source=topic_page---------5------------------1)
+10. [**Why Men Are So Bothered By Cardi B and Megan Thee Stallion’s ‘WAP’**](https://level.medium.com/why-men-are-so-bothered-by-cardi-b-and-megan-thee-stallions-wap-94aed0bb7024?source=topic_page---------9------------------1)
 Your patriarchy is showing, sir
-7. [**GaryVee Is Still Preaching the Hustle Gospel in the Middle of a Pandemic**](https://marker.medium.com/garyvee-is-still-preaching-the-hustle-gospel-in-the-middle-of-a-pandemic-b033b25f0dc?source=topic_page---------6------------------1)
-His message is what so many desperate people want to hear right now. It’s also dangerous.
-8. [**The Coronavirus May Mess With Thyroid Levels, Too**](https://elemental.medium.com/the-coronavirus-may-mess-with-thyroid-levels-too-87f94e45c5c9?source=topic_page---------7------------------1)
-Early studies suggest that the thyroid is yet another organ affected by the pandemic coronavirus
-9. [**The Three Bay Areas**](https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727?source=topic_page---------8------------------1)
-The elites, the bohos, and the working class
-10. [**The First Gene-Edited Squid in History Is a Biological Breakthrough**](https://onezero.medium.com/the-first-gene-edited-squid-in-history-is-a-biological-breakthrough-c81cb0449e5a?source=topic_page---------9------------------1)
-The modified squid could be useful for brain research
 <!-- endtab -->
 {% endtabs %}
