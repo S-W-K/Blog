@@ -171,23 +171,23 @@ Roadmap to becoming a web developer in 2020
 <!-- tab Medium -->
 1. [**Your ‘Surge Capacity’ Is Depleted — It’s Why You Feel Awful**](https://elemental.medium.com/your-surge-capacity-is-depleted-it-s-why-you-feel-awful-de285d542f4c?source=topic_page---------------------------20)
 Here’s how to pull yourself out of despair and live your life
-2. [**MathGate, or the Battle of Two Plus Two**](https://arcdigital.media/mathgate-or-the-battle-of-two-plus-two-ed4af5f32933?source=topic_page---------0------------------1)
-The culture wars come to math and reach a new low
-3. [**Why Trump is Likely to Win Again**](https://blog.usejournal.com/why-trump-is-likely-to-win-again-23e56ccff95b?source=topic_page---------1------------------1)
-Swing voters are sick of “social vaporware”
-4. [**Why Black Men Don’t Like Kamala Harris — and How It Can Stop**](https://level.medium.com/why-black-men-dont-like-kamala-harris-and-how-it-can-stop-4d0b34a5415c?source=topic_page---------2------------------1)
+2. [**Why Black Men Don’t Like Kamala Harris — and How It Can Stop**](https://level.medium.com/why-black-men-dont-like-kamala-harris-and-how-it-can-stop-4d0b34a5415c?source=topic_page---------0------------------1)
 It’s not an easy conversation to have, but it’s an important one.
-5. [**Wireless Charging Is a Disaster Waiting to Happen**](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9?source=topic_page---------4------------------1)
+3. [**Trump Just Committed A Fatal Mistake**](https://medium.com/discourse/trump-just-committed-a-fatal-mistake-842448693292?source=topic_page---------1------------------1)
+Why publicly underfunding the U.S. Postal  Service was a step too far
+4. [**Stop Panicking About the Post Office**](https://gen.medium.com/stop-panicking-about-the-post-office-8bcd689b9601?source=topic_page---------2------------------1)
+There are many reasons to be concerned about the agency’s funding, but some of the reaction is misplaced
+5. [**MathGate, or the Battle of Two Plus Two**](https://arcdigital.media/mathgate-or-the-battle-of-two-plus-two-ed4af5f32933?source=topic_page---------4------------------1)
+The culture wars come to math and reach a new low
+6. [**Why Trump is Likely to Win Again**](https://blog.usejournal.com/why-trump-is-likely-to-win-again-23e56ccff95b?source=topic_page---------5------------------1)
+Swing voters are sick of “social vaporware”
+7. [**Wireless Charging Is a Disaster Waiting to Happen**](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9?source=topic_page---------6------------------1)
 We crunched the numbers on just how inefficient wireless charging is — and the results are pretty shocking
-6. [**It’s Actually a Good Thing The Avatar Creators Left the Netflix Remake**](https://medium.com/cinemania/its-actually-a-good-thing-the-avatar-creators-left-the-netflix-remake-c2dbdfe740ba?source=topic_page---------5------------------1)
+8. [**It’s Actually a Good Thing The Avatar Creators Left the Netflix Remake**](https://medium.com/cinemania/its-actually-a-good-thing-the-avatar-creators-left-the-netflix-remake-c2dbdfe740ba?source=topic_page---------7------------------1)
 ‘Failure is the opportunity to begin again. Only this time more wisely.” -Uncle Iroh
-7. [**The 5 States that Will Decide the Election**](https://medium.com/40fathoms/the-5-states-that-will-decide-the-election-3d73bbc6c67e?source=topic_page---------6------------------1)
+9. [**The 5 States that Will Decide the Election**](https://medium.com/40fathoms/the-5-states-that-will-decide-the-election-3d73bbc6c67e?source=topic_page---------8------------------1)
 And the one Nightmare Scenario.
-8. [**Stop Panicking About the Post Office**](https://medium.com/@nharpermn/stop-panicking-about-the-post-office-8bcd689b9601?source=topic_page---------7------------------1)
-Fear and misinformation has been spreading about the Post Office. Stop panicking!
-9. [**Amazon Wants to Make You an ML Practitioner— For Free**](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba?source=topic_page---------8------------------1)
+10. [**Amazon Wants to Make You an ML Practitioner— For Free**](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba?source=topic_page---------9------------------1)
 The tech giant plans to speed ML proficiency by publicizing its long-internal material
-10. [**How Fortnite Baited Apple Into a Losing Battle**](https://onezero.medium.com/how-fortnite-baited-apple-into-a-losing-battle-6973850ac1bc?source=topic_page---------9------------------1)
-Epic Games’ ambush shows how antitrust scrutiny has changed the app store landscape
 <!-- endtab -->
 {% endtabs %}
