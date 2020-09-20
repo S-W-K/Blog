@@ -30,7 +30,7 @@ This is the official source code of FreeCAD, a free and opensource multiplatform
 9. [**iamadamdev/bypass-paywalls-chrome**](https://github.com/iamadamdev/bypass-paywalls-chrome)
 Bypass Paywalls web browser extension for Chrome and Firefox.
 10. [**vuejs/vue-next**](https://github.com/vuejs/vue-next)
-Repo for Vue 3.0 (currently in RC)
+Repo for Vue 3.0
 11. [**microsoft/onefuzz**](https://github.com/microsoft/onefuzz)
 A self-hosted Fuzzing-As-A-Service platform
 12. [**twintproject/twint**](https://github.com/twintproject/twint)
