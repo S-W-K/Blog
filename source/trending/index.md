@@ -52,7 +52,7 @@ Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习�
 20. [**material-shell/material-shell**](https://github.com/material-shell/material-shell)
 A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 21. [**iamkun/dayjs**](https://github.com/iamkun/dayjs)
-⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 22. [**swisskyrepo/PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)
 A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 23. [**TheCherno/Hazel**](https://github.com/TheCherno/Hazel)
