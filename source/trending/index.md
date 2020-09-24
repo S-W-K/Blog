@@ -14,7 +14,7 @@ Auto-deployed with [Travis Ci](https://travis-ci.org/)
 1. [**cli/cli**](https://github.com/cli/cli)
 GitHub’s official command line tool
 2. [**gnebbia/kb**](https://github.com/gnebbia/kb)
-A minimalist knowledge base manager
+A minimalist command line knowledge base manager
 3. [**schollz/croc**](https://github.com/schollz/croc)
 Easily and securely send things from one computer to another 🐊 📦
 4. [**onevcat/Kingfisher**](https://github.com/onevcat/Kingfisher)
