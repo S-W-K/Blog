@@ -66,7 +66,7 @@ Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 1. [**mengshukeji/Luckysheet**](https://github.com/mengshukeji/Luckysheet)
 Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 2. [**anncwb/vue-vben-admin**](https://github.com/anncwb/vue-vben-admin)
-✨ ✨ ✨ vue-vben-admin2.0, A vue3.0,vue3, vite, antv2.x, typescript management system，Efforts to update in progress...
+✨ ✨ ✨ A vue3 style Admin based on Vite vue3.0, vite, ant design vue 2.x, typescript，Efforts to update in progress...
 3. [**v2fly/v2ray-core**](https://github.com/v2fly/v2ray-core)
 A platform for building proxies to bypass network restrictions.
 4. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
