@@ -13,134 +13,134 @@ Auto-deployed with [Travis Ci](https://travis-ci.org/)
 <!-- tab Daily -->
 1. [**zqjzqj/mtSecKill**](https://github.com/zqjzqj/mtSecKill)
 京东茅台抢购
-2. [**signalapp/Signal-Android**](https://github.com/signalapp/Signal-Android)
+2. [**signalapp/Signal-Server**](https://github.com/signalapp/Signal-Server)
+Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+3. [**signalapp/Signal-Android**](https://github.com/signalapp/Signal-Android)
 A private messenger for Android.
-3. [**lensapp/lens**](https://github.com/lensapp/lens)
+4. [**lensapp/lens**](https://github.com/lensapp/lens)
 Lens - The Kubernetes IDE
-4. [**WebKit/WebKit**](https://github.com/WebKit/WebKit)
-Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository.
-5. [**Asabeneh/30-Days-Of-JavaScript**](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
-6. [**LasCC/Hack-Tools**](https://github.com/LasCC/Hack-Tools)
-The all-in-one Red Team extension for Web Pentester 🛠
-7. [**priyankavergadia/GCPSketchnote**](https://github.com/priyankavergadia/GCPSketchnote)
-If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
-8. [**lucidrains/DALLE-pytorch**](https://github.com/lucidrains/DALLE-pytorch)
-Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
-9. [**shenzhenjinma/sn_jd_tb_tm_maotai_seckill**](https://github.com/shenzhenjinma/sn_jd_tb_tm_maotai_seckill)
-苏宁 京东 淘宝 天猫 茅台秒杀脚本 基于chrome浏览器插件
-10. [**Chocobozzz/PeerTube**](https://github.com/Chocobozzz/PeerTube)
-ActivityPub-federated video streaming platform using P2P directly in your web browser
-11. [**NARKOZ/hacker-scripts**](https://github.com/NARKOZ/hacker-scripts)
-Based on a true story
-12. [**ztino/helloworld**](https://github.com/ztino/helloworld)
-Hello，MT
-13. [**angular/angular**](https://github.com/angular/angular)
+5. [**angular/angular**](https://github.com/angular/angular)
 One framework. Mobile & desktop.
-14. [**acantril/learn-cantrill-io-labs**](https://github.com/acantril/learn-cantrill-io-labs)
-Standard and Advanced Demos for learn.cantrill.io courses
-15. [**devsuperior/sds2**](https://github.com/devsuperior/sds2)
+6. [**codeforpublic/morchana-app**](https://github.com/codeforpublic/morchana-app)
 No repo_description
-16. [**lowlighter/metrics**](https://github.com/lowlighter/metrics)
-📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
-17. [**openai/CLIP**](https://github.com/openai/CLIP)
-Contrastive Language-Image Pretraining
-18. [**wasmerio/wasmer**](https://github.com/wasmerio/wasmer)
+7. [**wasmerio/wasmer**](https://github.com/wasmerio/wasmer)
 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-19. [**who0sy/jd_kill**](https://github.com/who0sy/jd_kill)
-京东茅台懂得都懂 main分支是新版本，old分支是docker之前的版本
-20. [**ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code**](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-500 AI Machine learning Deep learning Computer vision NLP Projects with code
-21. [**open-mmlab/mmtracking**](https://github.com/open-mmlab/mmtracking)
-OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.
-22. [**Olshansk/interview**](https://github.com/Olshansk/interview)
-Everything you need to prepare for your technical interview
-23. [**aws/aws-sdk-go**](https://github.com/aws/aws-sdk-go)
-AWS SDK for the Go programming language.
-24. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
+8. [**Asabeneh/30-Days-Of-JavaScript**](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
+9. [**HarisIqbal88/PlotNeuralNet**](https://github.com/HarisIqbal88/PlotNeuralNet)
+Latex code for making neural networks diagrams
+10. [**signalapp/Signal-iOS**](https://github.com/signalapp/Signal-iOS)
+A private messenger for iOS.
+11. [**norvig/pytudes**](https://github.com/norvig/pytudes)
+Python programs, usually short, of considerable difficulty, to perfect particular skills.
+12. [**karan/Projects**](https://github.com/karan/Projects)
+📃 A list of practical projects that anyone can solve in any programming language.
+13. [**LasCC/Hack-Tools**](https://github.com/LasCC/Hack-Tools)
+The all-in-one Red Team extension for Web Pentester 🛠
+14. [**DrKLO/Telegram**](https://github.com/DrKLO/Telegram)
+Telegram for Android source
+15. [**signalapp/Signal-Desktop**](https://github.com/signalapp/Signal-Desktop)
+Signal — Private Messenger for Windows, Mac, and Linux
+16. [**lowlighter/metrics**](https://github.com/lowlighter/metrics)
+📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
+17. [**zealotCE/AmericaOpposeAmerica**](https://github.com/zealotCE/AmericaOpposeAmerica)
+《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
+18. [**zephyrproject-rtos/zephyr**](https://github.com/zephyrproject-rtos/zephyr)
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+19. [**lucidrains/DALLE-pytorch**](https://github.com/lucidrains/DALLE-pytorch)
+Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
+20. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
 💯 Materials to help you rock your next coding interview
-25. [**jamstack-cms/jamstack-ecommerce**](https://github.com/jamstack-cms/jamstack-ecommerce)
-A starter project for building performant ECommerce applications with Next.js and React
+21. [**stnkl/EverythingToolbar**](https://github.com/stnkl/EverythingToolbar)
+Everything integration for the Windows taskbar.
+22. [**davidbombal/red-python-scripts**](https://github.com/davidbombal/red-python-scripts)
+No repo_description
+23. [**telegramdesktop/tdesktop**](https://github.com/telegramdesktop/tdesktop)
+Telegram Desktop messaging app
+24. [**hjdhjd/homebridge-myq**](https://github.com/hjdhjd/homebridge-myq)
+🚗 myQ Liftmaster and Chamberlain Plugin for Homebridge https://github.com/nfarina/homebridge
+25. [**priyankavergadia/GCPSketchnote**](https://github.com/priyankavergadia/GCPSketchnote)
+If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**qeeqbox/social-analyzer**](https://github.com/qeeqbox/social-analyzer)
-API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
-2. [**cehui0303/Tmall_Tickets**](https://github.com/cehui0303/Tmall_Tickets)
+1. [**cehui0303/Tmall_Tickets**](https://github.com/cehui0303/Tmall_Tickets)
 天猫超市茅台抢票功能
-3. [**mxrch/GHunt**](https://github.com/mxrch/GHunt)
-🕵️‍♂️ Investigate Google Accounts with emails.
-4. [**jerry3747/taobao_seckill**](https://github.com/jerry3747/taobao_seckill)
+2. [**jerry3747/taobao_seckill**](https://github.com/jerry3747/taobao_seckill)
 淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党
-5. [**vitejs/vite**](https://github.com/vitejs/vite)
+3. [**probml/pyprobml**](https://github.com/probml/pyprobml)
+Python code for "Machine learning: a probabilistic perspective" (2nd edition)
+4. [**mxrch/GHunt**](https://github.com/mxrch/GHunt)
+🕵️‍♂️ Investigate Google Accounts with emails.
+5. [**qeeqbox/social-analyzer**](https://github.com/qeeqbox/social-analyzer)
+API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
+6. [**vitejs/vite**](https://github.com/vitejs/vite)
 Next generation frontend tooling. It's fast!
-6. [**photoprism/photoprism**](https://github.com/photoprism/photoprism)
-Personal Photo Management powered by Go and Google TensorFlow
-7. [**pythonstock/stock**](https://github.com/pythonstock/stock)
-stock，股票系统。使用python进行开发。
-8. [**qiurunze123/miaosha**](https://github.com/qiurunze123/miaosha)
+7. [**qiurunze123/miaosha**](https://github.com/qiurunze123/miaosha)
 ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+8. [**halfrost/LeetCode-Go**](https://github.com/halfrost/LeetCode-Go)
+✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 9. [**OpenDiablo2/OpenDiablo2**](https://github.com/OpenDiablo2/OpenDiablo2)
 An open source re-implementation of Diablo 2
-10. [**halfrost/LeetCode-Go**](https://github.com/halfrost/LeetCode-Go)
-✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+10. [**photoprism/photoprism**](https://github.com/photoprism/photoprism)
+Personal Photo Management powered by Go and Google TensorFlow
 11. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
 🔎 Hunt down social media accounts by username across social networks
-12. [**back8/github_huanghyw_jd_seckill**](https://github.com/back8/github_huanghyw_jd_seckill)
-No repo_description
-13. [**starship/starship**](https://github.com/starship/starship)
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-14. [**TheAlgorithms/Javascript**](https://github.com/TheAlgorithms/Javascript)
-A repository for All algorithms implemented in Javascript (for educational purposes only)
-15. [**nushell/nushell**](https://github.com/nushell/nushell)
-A new type of shell
-16. [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)
-Virtual whiteboard for sketching hand-drawn like diagrams
-17. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
+12. [**testerSunshine/12306**](https://github.com/testerSunshine/12306)
 12306智能刷票，订票
-18. [**thecodingmachine/workadventure**](https://github.com/thecodingmachine/workadventure)
-A collaborative web application (virtual office) presented as a 16-bit RPG video game
+13. [**signalapp/Signal-Server**](https://github.com/signalapp/Signal-Server)
+Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+14. [**pythonstock/stock**](https://github.com/pythonstock/stock)
+stock，股票系统。使用python进行开发。
+15. [**TheAlgorithms/Javascript**](https://github.com/TheAlgorithms/Javascript)
+A repository for All algorithms implemented in Javascript (for educational purposes only)
+16. [**nushell/nushell**](https://github.com/nushell/nushell)
+A new type of shell
+17. [**owid/covid-19-data**](https://github.com/owid/covid-19-data)
+Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+18. [**wlwwu/jd_maotai**](https://github.com/wlwwu/jd_maotai)
+No repo_description
 19. [**eggheadio/egghead-next**](https://github.com/eggheadio/egghead-next)
 The next iteration of the frontend for egghead.io.
-20. [**seanmonstar/reqwest**](https://github.com/seanmonstar/reqwest)
-An easy and powerful Rust HTTP Client
-21. [**wasmerio/wasmer**](https://github.com/wasmerio/wasmer)
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-22. [**woai3c/visual-drag-demo**](https://github.com/woai3c/visual-drag-demo)
-可视化拖拽组件库 DEMO
-23. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
-Rich is a Python library for rich text and beautiful formatting in the terminal.
-24. [**Basis-Cash/basiscash-protocol**](https://github.com/Basis-Cash/basiscash-protocol)
-Solidity implementation of the Basis Cash Protocol
-25. [**avelino/awesome-go**](https://github.com/avelino/awesome-go)
-A curated list of awesome Go frameworks, libraries and software
+20. [**starship/starship**](https://github.com/starship/starship)
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+21. [**signalapp/Signal-iOS**](https://github.com/signalapp/Signal-iOS)
+A private messenger for iOS.
+22. [**Redocly/redoc**](https://github.com/Redocly/redoc)
+📘 OpenAPI/Swagger-generated API Reference Documentation
+23. [**signalapp/Signal-Desktop**](https://github.com/signalapp/Signal-Desktop)
+Signal — Private Messenger for Windows, Mac, and Linux
+24. [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)
+Virtual whiteboard for sketching hand-drawn like diagrams
+25. [**elunez/eladmin**](https://github.com/elunez/eladmin)
+项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
 A complete computer science study plan to become a software engineer.
-2. [**microsoft/qlib**](https://github.com/microsoft/qlib)
-Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.
-3. [**ottomated/CrewLink**](https://github.com/ottomated/CrewLink)
+2. [**ottomated/CrewLink**](https://github.com/ottomated/CrewLink)
 Free, open, Among Us Proximity Chat
-4. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+3. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
 Collection of 5000+ publicly available IPTV channels from all over the world
-5. [**ottomated/CrewLink-server**](https://github.com/ottomated/CrewLink-server)
-Voice Relay server for CrewLink.
-6. [**qiurunze123/miaosha**](https://github.com/qiurunze123/miaosha)
-⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-7. [**vlang/v**](https://github.com/vlang/v)
-Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-8. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
+4. [**Netflix/consoleme**](https://github.com/Netflix/consoleme)
+ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.
+5. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
 🔎 Hunt down social media accounts by username across social networks
-9. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
-Rich is a Python library for rich text and beautiful formatting in the terminal.
-10. [**bitcoin/bitcoin**](https://github.com/bitcoin/bitcoin)
+6. [**ottomated/CrewLink-server**](https://github.com/ottomated/CrewLink-server)
+Voice Relay server for CrewLink.
+7. [**qiurunze123/miaosha**](https://github.com/qiurunze123/miaosha)
+⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+8. [**benawad/vsinder**](https://github.com/benawad/vsinder)
+Dating App for VSCode
+9. [**microsoft/qlib**](https://github.com/microsoft/qlib)
+Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.
+10. [**vlang/v**](https://github.com/vlang/v)
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+11. [**bitcoin/bitcoin**](https://github.com/bitcoin/bitcoin)
 Bitcoin Core integration/staging tree
-11. [**pythonstock/stock**](https://github.com/pythonstock/stock)
+12. [**pythonstock/stock**](https://github.com/pythonstock/stock)
 stock，股票系统。使用python进行开发。
-12. [**camtheperson/get-my-ps5**](https://github.com/camtheperson/get-my-ps5)
-A CLI utility to help people secure a PlayStation 5 (PS5).
-13. [**beurtschipper/Depix**](https://github.com/beurtschipper/Depix)
-Recovers passwords from pixelized screenshots
+13. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
+Rich is a Python library for rich text and beautiful formatting in the terminal.
 14. [**EvineDeng/jd-base**](https://github.com/EvineDeng/jd-base)
 京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具
 15. [**GoogleChrome/chrome-extensions-samples**](https://github.com/GoogleChrome/chrome-extensions-samples)
@@ -151,20 +151,20 @@ Revive unavailable songs for Netease Cloud Music
 Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 18. [**MichMich/MagicMirror**](https://github.com/MichMich/MagicMirror)
 MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-19. [**nickmccullum/algorithmic-trading-python**](https://github.com/nickmccullum/algorithmic-trading-python)
-The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
-20. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
-📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+19. [**signalapp/Signal-Android**](https://github.com/signalapp/Signal-Android)
+A private messenger for Android.
+20. [**vitejs/vite**](https://github.com/vitejs/vite)
+Next generation frontend tooling. It's fast!
 21. [**lxk0301/jd_scripts**](https://github.com/lxk0301/jd_scripts)
 基于JavaScript的京东薅羊毛工具
-22. [**freqtrade/freqtrade**](https://github.com/freqtrade/freqtrade)
+22. [**halfrost/LeetCode-Go**](https://github.com/halfrost/LeetCode-Go)
+✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+23. [**mxrch/GHunt**](https://github.com/mxrch/GHunt)
+🕵️‍♂️ Investigate Google Accounts with emails.
+24. [**freqtrade/freqtrade**](https://github.com/freqtrade/freqtrade)
 Free, open source crypto trading bot
-23. [**vitejs/vite**](https://github.com/vitejs/vite)
-Next generation frontend tooling. It's fast!
-24. [**MarlinFirmware/Marlin**](https://github.com/MarlinFirmware/Marlin)
-Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-25. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
-The Serenity Operating System 🐞
+25. [**beurtschipper/Depix**](https://github.com/beurtschipper/Depix)
+Recovers passwords from pixelized screenshots
 <!-- endtab -->
 {% endsubtabs %}
 <!-- endtab -->
