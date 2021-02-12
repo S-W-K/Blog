@@ -27,7 +27,7 @@ Collection of 5000+ publicly available IPTV channels from all over the world
 A tool for secrets management, encryption as a service, and privileged access management
 8. [**aws/amazon-sagemaker-examples**](https://github.com/aws/amazon-sagemaker-examples)
 Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
-9. [**felixge/go-profiler-notes**](https://github.com/felixge/go-profiler-notes)
+9. [**DataDog/go-profiler-notes**](https://github.com/DataDog/go-profiler-notes)
 My notes on the various go profiling methods that are available.
 10. [**JonnyBurger/remotion-trailer**](https://github.com/JonnyBurger/remotion-trailer)
 A video written in React
