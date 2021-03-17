@@ -30,7 +30,7 @@ Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Doc
 9. [**mentebinaria/retoolkit**](https://github.com/mentebinaria/retoolkit)
 Reverse Engineer's Toolkit
 10. [**stefan-jansen/machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading)
-Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
+Code for Machine Learning for Algorithmic Trading, 2nd edition.
 11. [**tuvtran/project-based-learning**](https://github.com/tuvtran/project-based-learning)
 Curated list of project-based tutorials
 12. [**oppia/oppia**](https://github.com/oppia/oppia)
