@@ -54,7 +54,7 @@ Concurrency patterns in Go
 21. [**naman14/adb-tools-mac**](https://github.com/naman14/adb-tools-mac)
 Mac menu bar app for common adb tools
 22. [**siduck76/neovim-dots**](https://github.com/siduck76/neovim-dots)
-my neovim configs
+most beautiful neovim cli setup
 23. [**sudheerj/reactjs-interview-questions**](https://github.com/sudheerj/reactjs-interview-questions)
 List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 24. [**sickcodes/Docker-OSX**](https://github.com/sickcodes/Docker-OSX)
