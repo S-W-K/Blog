@@ -5,9 +5,6 @@ node_js:
 branches:
   only:
   - master
-cache:
-  directories:
-  - node_modules
 before_install:
 - openssl aes-256-cbc -K $encrypted_2fc69c4133c3_key -iv $encrypted_2fc69c4133c3_iv
   -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
