@@ -1,7 +1,7 @@
 language: node_js
 sudo: false
 node_js:
-- 12.22.1
+- 8.10.0
 branches:
   only:
   - master
@@ -20,6 +20,5 @@ before_install:
 install:
 - npm install hexo-cli -g
 - npm install
-- hexo --version
 script:
 - hexo clean && hexo g -d
