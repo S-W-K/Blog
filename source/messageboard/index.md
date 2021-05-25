@@ -5,5 +5,5 @@ no_toc: true
 
 **Please leave a message if you have any questions…**
 
-{% meting "29717744" "netease" "song" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
 
+{% mmedia "meting" "server:netease" "type:song" "id:29717744" "loop:none" "order:random" "volume:0.66" "preload:auto" %}
