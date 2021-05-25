@@ -127,10 +127,10 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/avatar.gif
+  url: https://i.loli.net/2021/05/25/sFAPQlJjg7nCHhT.gif
   # If true, the avatar will be dispalyed in circle.
   rounded: true
-  # If true, the avatar will be rotated with the cursor.
+   #If true, the avatar will be rotated with the cursor.
   rotated: true
 
 # Posts / Categories / Tags in sidebar.
@@ -526,7 +526,7 @@ pjax: false
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
-fancybox: false
+fancybox: true
 
 # A JavaScript library for zooming images like Medium.
 # Warning: Do not enable both `fancybox` and `mediumzoom`.
