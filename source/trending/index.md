@@ -1,5 +1,5 @@
 ---
-title: Trending
+title: Github Trending
 comments: false
 no_toc: true
 ---
@@ -8,8 +8,6 @@ no_toc: true
 Auto-deployed with [Travis Ci](https://travis-ci.org/)
 
 {% tabs TAB %}
-<!-- tab GitHub -->
-{% subtabs GitHub Tab%}
 <!-- tab Daily -->
 1. [**minio/minio**](https://github.com/minio/minio)
 High Performance, Kubernetes Native Object Storage
@@ -165,10 +163,5 @@ Apache Pulsar - distributed pub-sub messaging system
 🥞 Pancake main features (farms, pools, IFO, lottery, profiles)
 25. [**pyodide/pyodide**](https://github.com/pyodide/pyodide)
 Python with the scientific stack, compiled to WebAssembly.
-<!-- endtab -->
-{% endsubtabs %}
-<!-- endtab -->
-<!-- tab Medium -->
-The crawler crashed, please contact the administrator to modify.
 <!-- endtab -->
 {% endtabs %}
