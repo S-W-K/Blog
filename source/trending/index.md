@@ -1,15 +1,13 @@
 ---
-title: Trending
+title: Github Trending
 comments: false
 no_toc: true
 ---
 
-> Scraped from [GitHub](https://github.com/trending), [Medium](https://medium.com/topic/popular)
+> Scraped from [GitHub](https://github.com/trending)
 Auto-deployed with [Travis Ci](https://travis-ci.org/)
 
 {% tabs TAB %}
-<!-- tab GitHub -->
-{% subtabs GitHub Tab%}
 <!-- tab Daily -->
 1. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
 Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -166,10 +164,4 @@ Python Crypto Bot
 25. [**rust-embedded/rust-raspberrypi-OS-tutorials**](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 📚 Learn to write an embedded OS in Rust 🦀
 <!-- endtab -->
-{% endsubtabs %}
-<!-- endtab -->
-<!-- tab Medium -->
-The crawler crashed, please contact the administrator to modify.
-<!-- endtab -->
 {% endtabs %}
-Hi
