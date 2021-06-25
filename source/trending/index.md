@@ -9,159 +9,159 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**rocketseat-education/nlw6-discover**](https://github.com/rocketseat-education/nlw6-discover)
-No repo_description
-2. [**six-ddc/plow**](https://github.com/six-ddc/plow)
+1. [**OpenXiangShan/XiangShan**](https://github.com/OpenXiangShan/XiangShan)
+Open-source high-performance RISC-V processor
+2. [**ThakeeNathees/pocketlang**](https://github.com/ThakeeNathees/pocketlang)
+A small and fast programming language.
+3. [**rocketseat-education/nlw-06-reactjs**](https://github.com/rocketseat-education/nlw-06-reactjs)
+Projeto desenvolvido na missão ReactJS no NLW #06
+4. [**fmeringdal/nettu-meet**](https://github.com/fmeringdal/nettu-meet)
+Open source video conferencing system for tutors.
+5. [**google-research/deeplab2**](https://github.com/google-research/deeplab2)
+DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
+6. [**maaslalani/slides**](https://github.com/maaslalani/slides)
+Terminal based presentation tool
+7. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
+24 Lessons, 12 Weeks, Get Started as a Web Developer
+8. [**OffcierCia/DeFi-Developer-Road-Map**](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
+9. [**six-ddc/plow**](https://github.com/six-ddc/plow)
 A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
-3. [**flutter/flutter**](https://github.com/flutter/flutter)
-Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-4. [**n8n-io/n8n**](https://github.com/n8n-io/n8n)
-Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-5. [**PaddlePaddle/PaddleClas**](https://github.com/PaddlePaddle/PaddleClas)
-A treasure chest for visual recognition powered by PaddlePaddle
-6. [**fmtlib/fmt**](https://github.com/fmtlib/fmt)
-A modern formatting library
-7. [**chrisseaton/rhizome**](https://github.com/chrisseaton/rhizome)
-A JIT for Ruby, implemented in pure Ruby
-8. [**toly1994328/FlutterUnit**](https://github.com/toly1994328/FlutterUnit)
-【Flutter 集录指南 App】The unity of flutter, The unity of coder.
-9. [**Sentdex/GANTheftAuto**](https://github.com/Sentdex/GANTheftAuto)
-No repo_description
 10. [**facebookresearch/Kats**](https://github.com/facebookresearch/Kats)
 Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
-11. [**maaslalani/slides**](https://github.com/maaslalani/slides)
-Terminal based presentation tool
-12. [**kdn251/interviews**](https://github.com/kdn251/interviews)
-Everything you need to know to get the job.
+11. [**PaddlePaddle/PaddleClas**](https://github.com/PaddlePaddle/PaddleClas)
+A treasure chest for visual recognition powered by PaddlePaddle
+12. [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
+刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 13. [**dfeneyrou/palanteer**](https://github.com/dfeneyrou/palanteer)
 High performance visual profiler, debugger, tests enabler for C++ and Python
 14. [**rocketseat-education/nlw-06-nodejs**](https://github.com/rocketseat-education/nlw-06-nodejs)
 No repo_description
-15. [**kwai/DouZero**](https://github.com/kwai/DouZero)
-[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
-16. [**KarenOk/whatsapp-web-clone**](https://github.com/KarenOk/whatsapp-web-clone)
-Clone of Whatsapp Web's current UI.
-17. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
-24 Lessons, 12 Weeks, Get Started as a Web Developer
-18. [**python-discord/cj8-qualifier**](https://github.com/python-discord/cj8-qualifier)
-CJ Qual
-19. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
-📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-20. [**mperham/sidekiq**](https://github.com/mperham/sidekiq)
-Simple, efficient background processing for Ruby
-21. [**unit8co/darts**](https://github.com/unit8co/darts)
-A python library for easy manipulation and forecasting of time series.
-22. [**tuteng/Best-websites-a-programmer-should-visit-zh**](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+15. [**tuteng/Best-websites-a-programmer-should-visit-zh**](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 程序员应该访问的最佳网站中文版
-23. [**ibraheemdev/modern-unix**](https://github.com/ibraheemdev/modern-unix)
-A collection of modern/faster/saner alternatives to common unix commands.
-24. [**sdmg15/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+16. [**thangchung/clean-architecture-dotnet**](https://github.com/thangchung/clean-architecture-dotnet)
+🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻
+17. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
+Short JavaScript code snippets for all your development needs
+18. [**ninechapter-algorithm/linghu-algorithm-templete**](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)
+No repo_description
+19. [**tobspr/shapez.io**](https://github.com/tobspr/shapez.io)
+shapez.io is an open source base building game inspired by factorio! Available on web & steam
+20. [**sdmg15/Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 🔗 Some useful websites for programmers.
-25. [**OffcierCia/DeFi-Developer-Road-Map**](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
+21. [**KarenOk/whatsapp-web-clone**](https://github.com/KarenOk/whatsapp-web-clone)
+Clone of Whatsapp Web's current UI.
+22. [**flutter/flutter**](https://github.com/flutter/flutter)
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+23. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+24. [**toly1994328/FlutterUnit**](https://github.com/toly1994328/FlutterUnit)
+【Flutter 集录指南 App】The unity of flutter, The unity of coder.
+25. [**calendso/calendso**](https://github.com/calendso/calendso)
+The open-source Calendly alternative.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**programthink/zhao**](https://github.com/programthink/zhao)
-【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-2. [**google/fully-homomorphic-encryption**](https://github.com/google/fully-homomorphic-encryption)
-Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
-3. [**nushell/nushell**](https://github.com/nushell/nushell)
-A new type of shell
-4. [**bee-san/pyWhat**](https://github.com/bee-san/pyWhat)
-🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-5. [**JDHelloWorld/jd_scripts**](https://github.com/JDHelloWorld/jd_scripts)
-No repo_description
-6. [**CaffeineMC/sodium-fabric**](https://github.com/CaffeineMC/sodium-fabric)
-A Fabric mod designed to improve frame rates and reduce micro-stutter
-7. [**siduck76/NvChad**](https://github.com/siduck76/NvChad)
-Beautiful neovim setup configured in lua
-8. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
-Yet another remote desktop software
-9. [**adiwajshing/Baileys**](https://github.com/adiwajshing/Baileys)
-Lightweight full-featured typescript/javascript WhatsApp Web API
-10. [**abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard**](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)
-Responsive Admin Panel or Dashboard using Flutter
-11. [**wasmerio/wasmer**](https://github.com/wasmerio/wasmer)
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-12. [**vercel/next.js**](https://github.com/vercel/next.js)
+1. [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes)
+Production-Grade Container Scheduling and Management
+2. [**vercel/next.js**](https://github.com/vercel/next.js)
 The React Framework
-13. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
-🔎 Hunt down social media accounts by username across social networks
-14. [**coolsnowwolf/lede**](https://github.com/coolsnowwolf/lede)
-Lean's OpenWrt source
-15. [**geohot/tinygrad**](https://github.com/geohot/tinygrad)
+3. [**microsoft/TypeScript**](https://github.com/microsoft/TypeScript)
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+4. [**geohot/tinygrad**](https://github.com/geohot/tinygrad)
 You like pytorch? You like micrograd? You love tinygrad! ❤️
-16. [**jina-ai/jina**](https://github.com/jina-ai/jina)
-Cloud-native neural search framework for any kind of data
-17. [**keras-team/keras**](https://github.com/keras-team/keras)
-Deep Learning for humans
-18. [**yunjey/pytorch-tutorial**](https://github.com/yunjey/pytorch-tutorial)
-PyTorch Tutorial for Deep Learning Researchers
-19. [**whyour/qinglong**](https://github.com/whyour/qinglong)
-Ant Design、Ant Design Pro 与 Umijs3.0 项目and暗黑主题实践（Crontab定时运行Python和JavaScript的Dashboard）
-20. [**mingrammer/diagrams**](https://github.com/mingrammer/diagrams)
-🎨 Diagram as Code for prototyping cloud system architectures
-21. [**v2fly/v2ray-core**](https://github.com/v2fly/v2ray-core)
+5. [**pytorch/pytorch**](https://github.com/pytorch/pytorch)
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+6. [**flutter/flutter**](https://github.com/flutter/flutter)
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+7. [**torvalds/linux**](https://github.com/torvalds/linux)
+Linux kernel source tree
+8. [**ibraheemdev/modern-unix**](https://github.com/ibraheemdev/modern-unix)
+A collection of modern/faster/saner alternatives to common unix commands.
+9. [**mui-org/material-ui**](https://github.com/mui-org/material-ui)
+Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+10. [**v2fly/v2ray-core**](https://github.com/v2fly/v2ray-core)
 A platform for building proxies to bypass network restrictions.
-22. [**thanos-io/thanos**](https://github.com/thanos-io/thanos)
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-23. [**vercel/commerce**](https://github.com/vercel/commerce)
-Next.js Commerce
-24. [**spring-projects-experimental/spring-native**](https://github.com/spring-projects-experimental/spring-native)
-Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
-25. [**deepinsight/insightface**](https://github.com/deepinsight/insightface)
-Face Analysis Project on PyTorch and MXNet
+11. [**n8n-io/n8n**](https://github.com/n8n-io/n8n)
+Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+12. [**chromium/chromium**](https://github.com/chromium/chromium)
+The official GitHub mirror of the Chromium source
+13. [**huggingface/transformers**](https://github.com/huggingface/transformers)
+🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+14. [**siduck76/NvChad**](https://github.com/siduck76/NvChad)
+Beautiful neovim setup configured in lua
+15. [**AkashSingh3031/The-Complete-FAANG-Preparation**](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…
+16. [**programthink/zhao**](https://github.com/programthink/zhao)
+【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
+17. [**vxunderground/MalwareSourceCode**](https://github.com/vxunderground/MalwareSourceCode)
+Collection of malware source code for a variety of platforms in an array of different programming languages.
+18. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
+Yet another remote desktop software
+19. [**organicmaps/organicmaps**](https://github.com/organicmaps/organicmaps)
+🍃 Organic Maps is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe founders. No ads, no tracking, no data collection, no crapware.
+20. [**kdn251/interviews**](https://github.com/kdn251/interviews)
+Everything you need to know to get the job.
+21. [**harvester/harvester**](https://github.com/harvester/harvester)
+Open source hyperconverged infrastructure (HCI) software
+22. [**mchong6/GANsNRoses**](https://github.com/mchong6/GANsNRoses)
+Official PyTorch repo for GAN's N' Roses. Diverse im2im and vid2vid selfie to anime translation.
+23. [**mingrammer/diagrams**](https://github.com/mingrammer/diagrams)
+🎨 Diagram as Code for prototyping cloud system architectures
+24. [**concrete-utopia/utopia**](https://github.com/concrete-utopia/utopia)
+Design ❤️ Code
+25. [**bee-san/pyWhat**](https://github.com/bee-san/pyWhat)
+🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 <!-- endtab -->
 <!-- tab Monthly -->
-1. [**programthink/zhao**](https://github.com/programthink/zhao)
+1. [**Awesome-HarmonyOS/HarmonyOS**](https://github.com/Awesome-HarmonyOS/HarmonyOS)
+A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+2. [**biancangming/wtv**](https://github.com/biancangming/wtv)
+解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
+3. [**pluja/awesome-privacy**](https://github.com/pluja/awesome-privacy)
+Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+4. [**programthink/zhao**](https://github.com/programthink/zhao)
 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-2. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
+5. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
 A complete computer science study plan to become a software engineer.
-3. [**deepfakes/faceswap**](https://github.com/deepfakes/faceswap)
-Deepfakes Software For All
-4. [**PaperMC/Paper**](https://github.com/PaperMC/Paper)
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-5. [**ethersphere/bee**](https://github.com/ethersphere/bee)
-Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.
-6. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
-Fig adds autocomplete to your terminal.
-7. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
-The Serenity Operating System 🐞
-8. [**facebook/folly**](https://github.com/facebook/folly)
-An open-source C++ library developed and used at Facebook.
-9. [**siduck76/NvChad**](https://github.com/siduck76/NvChad)
-Beautiful neovim setup configured in lua
-10. [**merry75/educative.io_courses**](https://github.com/merry75/educative.io_courses)
-this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-11. [**taosdata/TDengine**](https://github.com/taosdata/TDengine)
-An open-source big data platform designed and optimized for the Internet of Things (IoT).
-12. [**CyC2018/CS-Notes**](https://github.com/CyC2018/CS-Notes)
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-13. [**microsoft/winget-pkgs**](https://github.com/microsoft/winget-pkgs)
+6. [**vxunderground/MalwareSourceCode**](https://github.com/vxunderground/MalwareSourceCode)
+Collection of malware source code for a variety of platforms in an array of different programming languages.
+7. [**programthink/books**](https://github.com/programthink/books)
+【编程随想】收藏的电子书清单（多个学科，含下载链接）
+8. [**microsoft/winget-pkgs**](https://github.com/microsoft/winget-pkgs)
 The Microsoft community Windows Package Manager manifest repository
-14. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
-Yet another remote desktop software
-15. [**microsoft/winget-cli**](https://github.com/microsoft/winget-cli)
+9. [**microsoft/winget-cli**](https://github.com/microsoft/winget-cli)
 Windows Package Manager CLI (aka winget)
-16. [**doocs/leetcode**](https://github.com/doocs/leetcode)
-😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-17. [**alpinejs/alpine**](https://github.com/alpinejs/alpine)
-A rugged, minimal framework for composing JavaScript behavior in your markup.
-18. [**microsoft/playwright**](https://github.com/microsoft/playwright)
-Node.js library to automate Chromium, Firefox and WebKit with a single API
-19. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-20. [**IrisShaders/Iris**](https://github.com/IrisShaders/Iris)
-(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders
-21. [**academind/react-complete-guide-code**](https://github.com/academind/react-complete-guide-code)
-Code snapshots and materials for our "React - The Complete Guide" course (https://acad.link/reactjs)
-22. [**jhu-ep-coursera/fullstack-course4**](https://github.com/jhu-ep-coursera/fullstack-course4)
-Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-23. [**airbytehq/airbyte**](https://github.com/airbytehq/airbyte)
-Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
-24. [**neovim/neovim**](https://github.com/neovim/neovim)
-Vim-fork focused on extensibility and usability
-25. [**CyberPunkMetalHead/Binance-volatility-trading-bot**](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)
-This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
+10. [**deepfakes/faceswap**](https://github.com/deepfakes/faceswap)
+Deepfakes Software For All
+11. [**Tencent/secguide**](https://github.com/Tencent/secguide)
+面向开发人员梳理的代码安全指南
+12. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
+The Serenity Operating System 🐞
+13. [**PaperMC/Paper**](https://github.com/PaperMC/Paper)
+High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+14. [**jina-ai/jina**](https://github.com/jina-ai/jina)
+Cloud-native neural search framework for any kind of data
+15. [**nushell/nushell**](https://github.com/nushell/nushell)
+A new type of shell
+16. [**chubin/cheat.sh**](https://github.com/chubin/cheat.sh)
+the only cheat sheet you need
+17. [**tgbot-collection/YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot)
+🎬 人人影视bot，完全对接人人影视全部无删减资源
+18. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
+Yet another remote desktop software
+19. [**mechaniac/Map-of-Javascript**](https://github.com/mechaniac/Map-of-Javascript)
+Javascript on one sheet. (and one for algorithms)
+20. [**firstcontributions/first-contributions**](https://github.com/firstcontributions/first-contributions)
+🚀✨ Help beginners to contribute to open source projects
+21. [**ossu/computer-science**](https://github.com/ossu/computer-science)
+🎓 Path to a free self-taught education in Computer Science!
+22. [**kon9chunkit/GitHub-Chinese-Top-Charts**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+23. [**ethersphere/bee**](https://github.com/ethersphere/bee)
+Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.
+24. [**files-community/Files**](https://github.com/files-community/Files)
+A modern file explorer that pushes the boundaries of the platform.
+25. [**lan-tianxiang/jd_shell**](https://github.com/lan-tianxiang/jd_shell)
+Node网页开发工具
 <!-- endtab -->
 {% endtabs %}
