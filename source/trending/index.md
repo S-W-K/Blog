@@ -11,106 +11,106 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 <!-- tab Daily -->
 1. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
 12 weeks, 24 lessons, classic Machine Learning for all
-2. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-Clone a voice in 5 seconds to generate arbitrary speech in real-time
-3. [**solidjs/solid**](https://github.com/solidjs/solid)
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
-4. [**public-apis/public-apis**](https://github.com/public-apis/public-apis)
-A collective list of free APIs
-5. [**Th3Wall/Fakeflix**](https://github.com/Th3Wall/Fakeflix)
+2. [**vuejs/petite-vue**](https://github.com/vuejs/petite-vue)
+5kb subset of Vue optimized for progressive enhancement
+3. [**ChristianChiarulli/LunarVim**](https://github.com/ChristianChiarulli/LunarVim)
+An IDE layer for Neovim with sane defaults. Completely free and community driven.
+4. [**Th3Wall/Fakeflix**](https://github.com/Th3Wall/Fakeflix)
 Not the usual clone that you can find on the web.
-6. [**input-output-hk/plutus-pioneer-program**](https://github.com/input-output-hk/plutus-pioneer-program)
-No repo_description
-7. [**ossf/scorecard**](https://github.com/ossf/scorecard)
-Security Scorecards - Security health metrics for Open Source
-8. [**hlldz/CVE-2021-1675-LPE**](https://github.com/hlldz/CVE-2021-1675-LPE)
-Local Privilege Escalation Edition for CVE-2021-1675
-9. [**input-output-hk/plutus**](https://github.com/input-output-hk/plutus)
-The Plutus language implementation and tools
-10. [**LaresLLC/CVE-2021-1675**](https://github.com/LaresLLC/CVE-2021-1675)
-CVE-2021-1675 Detection Info
-11. [**EssayKillerBrain/EssayKiller_V2**](https://github.com/EssayKillerBrain/EssayKiller_V2)
-基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-12. [**ashemery/exploitation-course**](https://github.com/ashemery/exploitation-course)
-Offensive Software Exploitation Course
-13. [**cube0x0/CVE-2021-1675**](https://github.com/cube0x0/CVE-2021-1675)
-C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
-14. [**RosettaCommons/RoseTTAFold**](https://github.com/RosettaCommons/RoseTTAFold)
-This package contains deep learning models and related scripts for RoseTTAFold
-15. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
-Roadmap to becoming a web developer in 2021
-16. [**wtsxDev/reverse-engineering**](https://github.com/wtsxDev/reverse-engineering)
-List of awesome reverse engineering resources
-17. [**dexidp/dex**](https://github.com/dexidp/dex)
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-18. [**cisagov/cset**](https://github.com/cisagov/cset)
-Cybersecurity Evaluation Tool
-19. [**jeecgboot/jeecg-boot**](https://github.com/jeecgboot/jeecg-boot)
-「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
-20. [**PowerShell/PowerShell**](https://github.com/PowerShell/PowerShell)
-PowerShell for every system!
-21. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
+5. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
 50+ mini web projects using HTML, CSS & JS
-22. [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig)
-Quickstart configurations for the Nvim LSP client
-23. [**chinese-poetry/chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
-The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
-24. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
-「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-25. [**rust-lang/rust**](https://github.com/rust-lang/rust)
+6. [**neovim/neovim**](https://github.com/neovim/neovim)
+Vim-fork focused on extensibility and usability
+7. [**public-apis/public-apis**](https://github.com/public-apis/public-apis)
+A collective list of free APIs
+8. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+Clone a voice in 5 seconds to generate arbitrary speech in real-time
+9. [**sudofox/rtteg**](https://github.com/sudofox/rtteg)
+gettr reversed
+10. [**ossf/scorecard**](https://github.com/ossf/scorecard)
+Security Scorecards - Security health metrics for Open Source
+11. [**rust-lang/rust**](https://github.com/rust-lang/rust)
 Empowering everyone to build reliable and efficient software.
+12. [**mirumee/saleor**](https://github.com/mirumee/saleor)
+A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+13. [**home-assistant/core**](https://github.com/home-assistant/core)
+🏡 Open source home automation that puts local control and privacy first
+14. [**nvim-treesitter/nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter)
+Nvim Treesitter configurations and abstraction layer
+15. [**input-output-hk/plutus-pioneer-program**](https://github.com/input-output-hk/plutus-pioneer-program)
+No repo_description
+16. [**PlummersSoftwareLLC/Primes**](https://github.com/PlummersSoftwareLLC/Primes)
+Prime Number Projects in C#/C++/Python
+17. [**0voice/campus_recruitmen_questions**](https://github.com/0voice/campus_recruitmen_questions)
+2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。持续更新中
+18. [**MLReef/mlreef**](https://github.com/MLReef/mlreef)
+Your entire Machine Learning life cycle in one platform.
+19. [**wtsxDev/reverse-engineering**](https://github.com/wtsxDev/reverse-engineering)
+List of awesome reverse engineering resources
+20. [**calebstewart/CVE-2021-1675**](https://github.com/calebstewart/CVE-2021-1675)
+Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)
+21. [**kingoflolz/mesh-transformer-jax**](https://github.com/kingoflolz/mesh-transformer-jax)
+Model parallel transformers in JAX and Haiku
+22. [**hrsh7th/nvim-compe**](https://github.com/hrsh7th/nvim-compe)
+Auto completion plugin for nvim that written in Lua.
+23. [**input-output-hk/plutus**](https://github.com/input-output-hk/plutus)
+The Plutus language implementation and tools
+24. [**solidjs/solid**](https://github.com/solidjs/solid)
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
+25. [**shopizer-ecommerce/shopizer**](https://github.com/shopizer-ecommerce/shopizer)
+Shopizer java e-commerce software
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**CorentinJ/Real-Time-Voice-Cloning**](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-2. [**chinese-poetry/chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
-The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+2. [**freefq/free**](https://github.com/freefq/free)
+翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 3. [**diasurgical/devilutionX**](https://github.com/diasurgical/devilutionX)
 Diablo build for modern operating systems
-4. [**JetBrains/kotlin**](https://github.com/JetBrains/kotlin)
-The Kotlin Programming Language.
-5. [**jina-ai/jina**](https://github.com/jina-ai/jina)
-Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
-6. [**geerlingguy/internet-pi**](https://github.com/geerlingguy/internet-pi)
-Raspberry Pi config for all things Internet.
-7. [**rocketseat-education/nlw-06-reactjs**](https://github.com/rocketseat-education/nlw-06-reactjs)
-Projeto desenvolvido na missão ReactJS no NLW #06
-8. [**curtinlv/JD-Script**](https://github.com/curtinlv/JD-Script)
-菜鸟写的脚本，仅供参考。
-9. [**JDHelloWorld/jd_scripts**](https://github.com/JDHelloWorld/jd_scripts)
-No repo_description
-10. [**jackfrued/Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
-Python - 100天从新手到大师
-11. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
+4. [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge)
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+5. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
 50+ mini web projects using HTML, CSS & JS
-12. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
-24 Lessons, 12 Weeks, Get Started as a Web Developer
-13. [**ElemeFE/element**](https://github.com/ElemeFE/element)
-A Vue.js 2.0 UI Toolkit for Web
-14. [**GamestonkTerminal/GamestonkTerminal**](https://github.com/GamestonkTerminal/GamestonkTerminal)
-A FOSS alternative to Bloomberg Terminal.
-15. [**facebook/docusaurus**](https://github.com/facebook/docusaurus)
-Easy to maintain open source documentation websites.
-16. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
-Build smaller, faster, and more secure desktop applications with a web frontend.
-17. [**ChristianChiarulli/LunarVim**](https://github.com/ChristianChiarulli/LunarVim)
-An IDE layer for Neovim with sane defaults.
-18. [**PyTorchLightning/pytorch-lightning**](https://github.com/PyTorchLightning/pytorch-lightning)
-The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-19. [**MobSF/Mobile-Security-Framework-MobSF**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-20. [**DrKLO/Telegram**](https://github.com/DrKLO/Telegram)
-Telegram for Android source
-21. [**blazorhero/CleanArchitecture**](https://github.com/blazorhero/CleanArchitecture)
-Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
-22. [**mirumee/saleor**](https://github.com/mirumee/saleor)
+6. [**ChristianChiarulli/LunarVim**](https://github.com/ChristianChiarulli/LunarVim)
+An IDE layer for Neovim with sane defaults. Completely free and community driven.
+7. [**jina-ai/jina**](https://github.com/jina-ai/jina)
+Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
+8. [**mirumee/saleor**](https://github.com/mirumee/saleor)
 A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
-23. [**newbee-ltd/newbee-mall**](https://github.com/newbee-ltd/newbee-mall)
-🔥 🎉newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-24. [**nrwl/nx**](https://github.com/nrwl/nx)
+9. [**JetBrains/kotlin**](https://github.com/JetBrains/kotlin)
+The Kotlin Programming Language.
+10. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
+24 Lessons, 12 Weeks, Get Started as a Web Developer
+11. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
+Build smaller, faster, and more secure desktop applications with a web frontend.
+12. [**curtinlv/JD-Script**](https://github.com/curtinlv/JD-Script)
+菜鸟写的脚本，仅供参考。
+13. [**geerlingguy/internet-pi**](https://github.com/geerlingguy/internet-pi)
+Raspberry Pi config for all things Internet.
+14. [**facebook/docusaurus**](https://github.com/facebook/docusaurus)
+Easy to maintain open source documentation websites.
+15. [**ElemeFE/element**](https://github.com/ElemeFE/element)
+A Vue.js 2.0 UI Toolkit for Web
+16. [**GamestonkTerminal/GamestonkTerminal**](https://github.com/GamestonkTerminal/GamestonkTerminal)
+A FOSS alternative to Bloomberg Terminal.
+17. [**sudheerj/reactjs-interview-questions**](https://github.com/sudheerj/reactjs-interview-questions)
+List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+18. [**JDHelloWorld/jd_scripts**](https://github.com/JDHelloWorld/jd_scripts)
+No repo_description
+19. [**google/ExoPlayer**](https://github.com/google/ExoPlayer)
+An extensible media player for Android
+20. [**PowerShell/PowerShell**](https://github.com/PowerShell/PowerShell)
+PowerShell for every system!
+21. [**airbytehq/airbyte**](https://github.com/airbytehq/airbyte)
+Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+22. [**nrwl/nx**](https://github.com/nrwl/nx)
 Smart, Extensible Build Framework
-25. [**morpheusthewhite/spicetify-themes**](https://github.com/morpheusthewhite/spicetify-themes)
-A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
+23. [**blazorhero/CleanArchitecture**](https://github.com/blazorhero/CleanArchitecture)
+Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+24. [**ossrs/srs**](https://github.com/ossrs/srs)
+SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
+25. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**jina-ai/jina**](https://github.com/jina-ai/jina)
@@ -125,43 +125,43 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 Collection of malware source code for a variety of platforms in an array of different programming languages.
 6. [**ParthJadhav/Tkinter-Designer**](https://github.com/ParthJadhav/Tkinter-Designer)
 Create Beautiful Tkinter GUIs by Drag and Drop ☄️
-7. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
-Yet another remote desktop software
-8. [**tgbot-collection/YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot)
+7. [**tgbot-collection/YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot)
 🎬 人人影视bot，完全对接人人影视全部无删减资源
+8. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
+Yet another remote desktop software
 9. [**nushell/nushell**](https://github.com/nushell/nushell)
 A new type of shell
-10. [**PaperMC/Paper**](https://github.com/PaperMC/Paper)
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-11. [**maziarraissi/Applied-Deep-Learning**](https://github.com/maziarraissi/Applied-Deep-Learning)
-Applied Deep Learning
-12. [**binhnguyennus/awesome-scalability**](https://github.com/binhnguyennus/awesome-scalability)
+10. [**binhnguyennus/awesome-scalability**](https://github.com/binhnguyennus/awesome-scalability)
 The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+11. [**PaperMC/Paper**](https://github.com/PaperMC/Paper)
+High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+12. [**maziarraissi/Applied-Deep-Learning**](https://github.com/maziarraissi/Applied-Deep-Learning)
+Applied Deep Learning
 13. [**SigNoz/signoz**](https://github.com/SigNoz/signoz)
 SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 14. [**freefq/free**](https://github.com/freefq/free)
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-15. [**Awesome-HarmonyOS/HarmonyOS**](https://github.com/Awesome-HarmonyOS/HarmonyOS)
-A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+15. [**Asabeneh/30-Days-Of-JavaScript**](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 16. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
 A complete computer science study plan to become a software engineer.
-17. [**Asabeneh/30-Days-Of-JavaScript**](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
-18. [**chubin/cheat.sh**](https://github.com/chubin/cheat.sh)
-the only cheat sheet you need
-19. [**kdn251/interviews**](https://github.com/kdn251/interviews)
+17. [**PaddlePaddle/PaddleHub**](https://github.com/PaddlePaddle/PaddleHub)
+Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+18. [**kdn251/interviews**](https://github.com/kdn251/interviews)
 Everything you need to know to get the job.
-20. [**programthink/books**](https://github.com/programthink/books)
+19. [**programthink/books**](https://github.com/programthink/books)
 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-21. [**firstcontributions/first-contributions**](https://github.com/firstcontributions/first-contributions)
+20. [**firstcontributions/first-contributions**](https://github.com/firstcontributions/first-contributions)
 🚀✨ Help beginners to contribute to open source projects
+21. [**n8n-io/n8n**](https://github.com/n8n-io/n8n)
+Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 22. [**mechaniac/Map-of-Javascript**](https://github.com/mechaniac/Map-of-Javascript)
 Javascript on one sheet. (and one for algorithms)
-23. [**mingrammer/diagrams**](https://github.com/mingrammer/diagrams)
-🎨 Diagram as Code for prototyping cloud system architectures
-24. [**n8n-io/n8n**](https://github.com/n8n-io/n8n)
-Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-25. [**sudheerj/reactjs-interview-questions**](https://github.com/sudheerj/reactjs-interview-questions)
+23. [**bee-san/pyWhat**](https://github.com/bee-san/pyWhat)
+🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+24. [**sudheerj/reactjs-interview-questions**](https://github.com/sudheerj/reactjs-interview-questions)
 List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+25. [**Awesome-HarmonyOS/HarmonyOS**](https://github.com/Awesome-HarmonyOS/HarmonyOS)
+A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 <!-- endtab -->
 {% endtabs %}
