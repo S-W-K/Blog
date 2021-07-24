@@ -26,7 +26,7 @@ A complete computer science study plan to become a software engineer.
 8. [**microsoft/CBL-Mariner**](https://github.com/microsoft/CBL-Mariner)
 Linux OS for Azure 1P services and edge appliances
 9. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
-🔥 🔥 The Open Source Airtable alternative.
+🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀
 10. [**tinode/chat**](https://github.com/tinode/chat)
 Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 11. [**blueedgetechno/windows11**](https://github.com/blueedgetechno/windows11)
