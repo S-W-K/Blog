@@ -68,7 +68,7 @@ No repo_description
 3. [**microsoft/CBL-Mariner**](https://github.com/microsoft/CBL-Mariner)
 Linux OS for Azure 1P services and edge appliances
 4. [**dromara/Sa-Token**](https://github.com/dromara/Sa-Token)
-这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+这可能是史上功能最全的Java权限认证框架，权限架构设计的绝佳实践！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 5. [**bndw/wifi-card**](https://github.com/bndw/wifi-card)
 📶 Print a QR code for connecting to your WiFi (wificard.io)
 6. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
