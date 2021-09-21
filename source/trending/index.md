@@ -9,159 +9,159 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**authelia/authelia**](https://github.com/authelia/authelia)
-The Single Sign-On Multi-Factor portal for web apps
+1. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp)
+freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 2. [**public-apis/public-apis**](https://github.com/public-apis/public-apis)
 A collective list of free APIs
-3. [**7kms/react-illustration-series**](https://github.com/7kms/react-illustration-series)
-图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
-4. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp)
-freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-5. [**calendso/calendso**](https://github.com/calendso/calendso)
-Scheduling infrastructure for absolutely everyone.
-6. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-7. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-Short JavaScript code snippets for all your development needs
-8. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
+3. [**openkraken/kraken**](https://github.com/openkraken/kraken)
+A high-performance, web standards-compliant rendering engine based on Flutter.
+4. [**krayin/laravel-crm**](https://github.com/krayin/laravel-crm)
+Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+5. [**authelia/authelia**](https://github.com/authelia/authelia)
+The Single Sign-On Multi-Factor portal for web apps
+6. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
+Rich is a Python library for rich text and beautiful formatting in the terminal.
+7. [**termux/termux-packages**](https://github.com/termux/termux-packages)
+A build system and primary set of packages for Termux.
+8. [**typescript-cheatsheets/react**](https://github.com/typescript-cheatsheets/react)
+Cheatsheets for experienced React developers getting started with TypeScript
+9. [**Richasy/Bili.Uwp**](https://github.com/Richasy/Bili.Uwp)
+适用于新系统UI的哔哩
+10. [**IrisShaders/Iris**](https://github.com/IrisShaders/Iris)
+(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders
+11. [**GoTurkiye/training**](https://github.com/GoTurkiye/training)
+No repo_description
+12. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
 A new bootable USB solution.
-9. [**sogou/workflow**](https://github.com/sogou/workflow)
-C++ Parallel Computing and Asynchronous Networking Engine. Simple C++ HTTP Server/Client.
-10. [**girlscript/winter-of-contributing**](https://github.com/girlscript/winter-of-contributing)
-GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.
-11. [**Atmosphere-NX/Atmosphere**](https://github.com/Atmosphere-NX/Atmosphere)
-Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-12. [**PeterL1n/RobustVideoMatting**](https://github.com/PeterL1n/RobustVideoMatting)
-Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
-13. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
-Open-IM-Server is open source instant messaging Server.Backend in Go.
-14. [**TheAlgorithms/Java**](https://github.com/TheAlgorithms/Java)
-All Algorithms implemented in Java
-15. [**orico/www.mlcompendium.com**](https://github.com/orico/www.mlcompendium.com)
-The Machine Learning & Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook.
-16. [**jumpserver/jumpserver**](https://github.com/jumpserver/jumpserver)
-JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
-17. [**LeCoupa/awesome-cheatsheets**](https://github.com/LeCoupa/awesome-cheatsheets)
-👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-18. [**laoshenkaopu/kkndme_tianya**](https://github.com/laoshenkaopu/kkndme_tianya)
-天涯 kkndme 神贴聊房价
-19. [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
+13. [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
 Master the command line, in one page
-20. [**klezVirus/CVE-2021-40444**](https://github.com/klezVirus/CVE-2021-40444)
-CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
-21. [**eugeneyan/applied-ml**](https://github.com/eugeneyan/applied-ml)
+14. [**girlscript/winter-of-contributing**](https://github.com/girlscript/winter-of-contributing)
+GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.
+15. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
+🔎 Hunt down social media accounts by username across social networks
+16. [**joehillen/sysz**](https://github.com/joehillen/sysz)
+An fzf terminal UI for systemctl
+17. [**jorisschellekens/borb**](https://github.com/jorisschellekens/borb)
+borb is a library for reading, creating and manipulating PDF files in python.
+18. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
+Run Nintendo Switch homebrew & games on your Android device!
+19. [**DataWithDanny/sql-masterclass**](https://github.com/DataWithDanny/sql-masterclass)
+No repo_description
+20. [**eugeneyan/applied-ml**](https://github.com/eugeneyan/applied-ml)
 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-22. [**WZMIAOMIAO/deep-learning-for-image-processing**](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
-deep learning for image processing including classification and object-detection etc.
-23. [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome)
-😎 Awesome lists about all kinds of interesting topics
-24. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
-Spring源码阅读
-25. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+21. [**microsoft/PythonProgrammingPuzzles**](https://github.com/microsoft/PythonProgrammingPuzzles)
+A Dataset of Python Challenges for AI Research
+22. [**geerlingguy/internet-pi**](https://github.com/geerlingguy/internet-pi)
+Raspberry Pi config for all things Internet.
+23. [**mamun-sec/dfirt**](https://github.com/mamun-sec/dfirt)
+Collect information of Windows PC when doing incident response
+24. [**input-output-hk/essential-cardano**](https://github.com/input-output-hk/essential-cardano)
+Repository for the Essential Cardano list
+25. [**DovAmir/awesome-design-patterns**](https://github.com/DovAmir/awesome-design-patterns)
+A curated list of software and architecture related design patterns.
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**Python-World/python-mini-projects**](https://github.com/Python-World/python-mini-projects)
 A collection of simple python mini projects to enhance your python skills
-2. [**SudhanPlayz/Discord-MusicBot**](https://github.com/SudhanPlayz/Discord-MusicBot)
-An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+2. [**lockedbyte/CVE-2021-40444**](https://github.com/lockedbyte/CVE-2021-40444)
+CVE-2021-40444 PoC
 3. [**calendso/calendso**](https://github.com/calendso/calendso)
 Scheduling infrastructure for absolutely everyone.
 4. [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui)
 Spotify for the terminal written in Rust 🚀
-5. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
+5. [**eritislami/evobot**](https://github.com/eritislami/evobot)
+🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
+6. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-6. [**mmazzarolo/react-native-universal-monorepo**](https://github.com/mmazzarolo/react-native-universal-monorepo)
-React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
-7. [**exiled-apes/candy-machine-mint**](https://github.com/exiled-apes/candy-machine-mint)
-Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
-8. [**microsoft/qlib**](https://github.com/microsoft/qlib)
+7. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
+📚 Freely available programming books
+8. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
+A complete computer science study plan to become a software engineer.
+9. [**microsoft/qlib**](https://github.com/microsoft/qlib)
 Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.
-9. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
+10. [**yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
 💯 Curated interview preparation materials for busy engineers
-10. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
-12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
-11. [**pyg-team/pytorch_geometric**](https://github.com/pyg-team/pytorch_geometric)
-Graph Neural Network Library for PyTorch
+11. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
+Spring源码阅读
 12. [**solana-labs/solana**](https://github.com/solana-labs/solana)
 Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-13. [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop)
-Official electron build of diagrams.net
-14. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
-A complete computer science study plan to become a software engineer.
-15. [**paritytech/substrate**](https://github.com/paritytech/substrate)
+13. [**paritytech/substrate**](https://github.com/paritytech/substrate)
 Substrate: The platform for blockchain innovators
-16. [**cloudwego/netpoll**](https://github.com/cloudwego/netpoll)
-A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
-17. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-18. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-Short JavaScript code snippets for all your development needs
-19. [**rammcodes/Dopefolio**](https://github.com/rammcodes/Dopefolio)
-Dopefolio 🔥 - Portfolio Template for Developers 🚀
-20. [**restic/restic**](https://github.com/restic/restic)
-Fast, secure, efficient backup program
+14. [**mmazzarolo/react-native-universal-monorepo**](https://github.com/mmazzarolo/react-native-universal-monorepo)
+React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
+15. [**pyg-team/pytorch_geometric**](https://github.com/pyg-team/pytorch_geometric)
+Graph Neural Network Library for PyTorch
+16. [**google/filament**](https://github.com/google/filament)
+Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+17. [**jgraph/drawio-desktop**](https://github.com/jgraph/drawio-desktop)
+Official electron build of diagrams.net
+18. [**exiled-apes/candy-machine-mint**](https://github.com/exiled-apes/candy-machine-mint)
+Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
+19. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
+12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
+20. [**TheAlgorithms/C**](https://github.com/TheAlgorithms/C)
+Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 21. [**vector-im/element-web**](https://github.com/vector-im/element-web)
 A glossy Matrix collaboration client for the web.
-22. [**supabase/supabase**](https://github.com/supabase/supabase)
+22. [**willmcgugan/rich**](https://github.com/willmcgugan/rich)
+Rich is a Python library for rich text and beautiful formatting in the terminal.
+23. [**uNetworking/uWebSockets**](https://github.com/uNetworking/uWebSockets)
+Simple, secure & standards compliant web server for the most demanding of applications
+24. [**tannerlinsley/react-table**](https://github.com/tannerlinsley/react-table)
+⚛️ Hooks for building fast and extendable tables and datagrids for React
+25. [**supabase/supabase**](https://github.com/supabase/supabase)
 The open source Firebase alternative. Follow to stay updated about our public Beta.
-23. [**google/filament**](https://github.com/google/filament)
-Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
-24. [**seaswalker/spring-analysis**](https://github.com/seaswalker/spring-analysis)
-Spring源码阅读
-25. [**pablokbs/peladonerd**](https://github.com/pablokbs/peladonerd)
-Repo con los archivos que uso para mi videos en youtube
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp)
 A youtube-dl fork with additional features and fixes
 2. [**xinntao/Real-ESRGAN**](https://github.com/xinntao/Real-ESRGAN)
 Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
-3. [**babysor/MockingBird**](https://github.com/babysor/MockingBird)
-🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-4. [**metaplex-foundation/metaplex**](https://github.com/metaplex-foundation/metaplex)
+3. [**metaplex-foundation/metaplex**](https://github.com/metaplex-foundation/metaplex)
 Protocol and application framework for decentralized NFT minting, storefronts, and sales.
-5. [**filebrowser/filebrowser**](https://github.com/filebrowser/filebrowser)
-📂 Web File Browser
+4. [**babysor/MockingBird**](https://github.com/babysor/MockingBird)
+🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+5. [**solana-labs/solana**](https://github.com/solana-labs/solana)
+Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 6. [**0voice/Introduction-to-Golang**](https://github.com/0voice/Introduction-to-Golang)
 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-7. [**solana-labs/solana**](https://github.com/solana-labs/solana)
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-8. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
-Papers from the computer science community to read and discuss.
-9. [**containers/podman**](https://github.com/containers/podman)
+7. [**filebrowser/filebrowser**](https://github.com/filebrowser/filebrowser)
+📂 Web File Browser
+8. [**containers/podman**](https://github.com/containers/podman)
 Podman: A tool for managing OCI containers and pods.
-10. [**whyour/qinglong**](https://github.com/whyour/qinglong)
+9. [**whyour/qinglong**](https://github.com/whyour/qinglong)
 Python/JavaScript/Shell/Typescript 定时任务管理面板
+10. [**GTAmodding/re3**](https://github.com/GTAmodding/re3)
+GTA III, Vice City
 11. [**TheAlgorithms/C-Plus-Plus**](https://github.com/TheAlgorithms/C-Plus-Plus)
 Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 12. [**cloudwego/netpoll**](https://github.com/cloudwego/netpoll)
 A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
-13. [**GTAmodding/re3**](https://github.com/GTAmodding/re3)
-GTA III, Vice City
-14. [**Vonng/ddia**](https://github.com/Vonng/ddia)
+13. [**Vonng/ddia**](https://github.com/Vonng/ddia)
 《Designing Data-Intensive Application》DDIA中文翻译
-15. [**cli/cli**](https://github.com/cli/cli)
+14. [**cli/cli**](https://github.com/cli/cli)
 GitHub’s official command line tool
-16. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
+15. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-17. [**input-output-hk/cardano-node**](https://github.com/input-output-hk/cardano-node)
-The core component that is used to participate in a Cardano decentralised blockchain.
-18. [**DIGITALCRIMINAL/OnlyFans**](https://github.com/DIGITALCRIMINAL/OnlyFans)
-Scrape all the media from an OnlyFans account - Updated regularly
-19. [**edeng23/binance-trade-bot**](https://github.com/edeng23/binance-trade-bot)
-Automated cryptocurrency trading bot
-20. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
+16. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
+Papers from the computer science community to read and discuss.
+17. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
 Fig adds autocomplete to your terminal.
+18. [**TheAlgorithms/Javascript**](https://github.com/TheAlgorithms/Javascript)
+A repository for All algorithms implemented in Javascript (for educational purposes only)
+19. [**input-output-hk/cardano-node**](https://github.com/input-output-hk/cardano-node)
+The core component that is used to participate in a Cardano decentralised blockchain.
+20. [**edeng23/binance-trade-bot**](https://github.com/edeng23/binance-trade-bot)
+Automated cryptocurrency trading bot
 21. [**vnpy/vnpy**](https://github.com/vnpy/vnpy)
 基于Python的开源量化交易平台开发框架
-22. [**ffmpegwasm/ffmpeg.wasm**](https://github.com/ffmpegwasm/ffmpeg.wasm)
-FFmpeg for browser and node, powered by WebAssembly
-23. [**solana-labs/solana-program-library**](https://github.com/solana-labs/solana-program-library)
+22. [**solana-labs/solana-program-library**](https://github.com/solana-labs/solana-program-library)
 A collection of Solana-maintained on-chain programs
-24. [**godotengine/godot**](https://github.com/godotengine/godot)
+23. [**godotengine/godot**](https://github.com/godotengine/godot)
 Godot Engine – Multi-platform 2D and 3D game engine
-25. [**doocs/leetcode**](https://github.com/doocs/leetcode)
+24. [**doocs/leetcode**](https://github.com/doocs/leetcode)
 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+25. [**ant-design/ant-design-mobile**](https://github.com/ant-design/ant-design-mobile)
+A configurable Mobile UI
 <!-- endtab -->
 {% endtabs %}
