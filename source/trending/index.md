@@ -11,157 +11,157 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 <!-- tab Daily -->
 1. [**cisagov/log4j-scanner**](https://github.com/cisagov/log4j-scanner)
 log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.
-2. [**airbnb/javascript**](https://github.com/airbnb/javascript)
-JavaScript Style Guide
-3. [**codenotary/immudb**](https://github.com/codenotary/immudb)
-immudb - world’s fastest immutable database, built on a zero trust model
-4. [**Vonng/ddia**](https://github.com/Vonng/ddia)
-《Designing Data-Intensive Application》DDIA中文翻译
-5. [**wader/fq**](https://github.com/wader/fq)
-jq for binary formats
-6. [**Tencent/tdesign**](https://github.com/Tencent/tdesign)
-Enterprise Design System
-7. [**mtdvio/every-programmer-should-know**](https://github.com/mtdvio/every-programmer-should-know)
-A collection of (mostly) technical things every software developer should know about
-8. [**freqtrade/freqtrade**](https://github.com/freqtrade/freqtrade)
-Free, open source crypto trading bot
-9. [**kon9chunkit/GitHub-Chinese-Top-Charts**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
-10. [**EmbarkStudios/kajiya**](https://github.com/EmbarkStudios/kajiya)
-💡 Experimental real-time global illumination renderer 🦀
-11. [**zeromicro/go-zero**](https://github.com/zeromicro/go-zero)
-go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-12. [**jina-ai/jina**](https://github.com/jina-ai/jina)
-Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
-13. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-Short JavaScript code snippets for all your development needs
-14. [**mchong6/JoJoGAN**](https://github.com/mchong6/JoJoGAN)
-Official PyTorch repo for JoJoGAN: One Shot Face Stylization
-15. [**PaddlePaddle/PaddleSpeech**](https://github.com/PaddlePaddle/PaddleSpeech)
-An Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
-16. [**AkaiRep/video-to-ascii**](https://github.com/AkaiRep/video-to-ascii)
-Скрипт который выводит видео в консоль. Ничего лишнего)
-17. [**prisma/prisma**](https://github.com/prisma/prisma)
-Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
-18. [**Tencent/tdesign-vue**](https://github.com/Tencent/tdesign-vue)
-A Vue.js UI components lib for TDesign.
-19. [**louisfb01/best_AI_papers_2021**](https://github.com/louisfb01/best_AI_papers_2021)
-A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]
-20. [**dani-garcia/vaultwarden**](https://github.com/dani-garcia/vaultwarden)
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-21. [**tiangolo/sqlmodel**](https://github.com/tiangolo/sqlmodel)
-SQL databases in Python, designed for simplicity, compatibility, and robustness.
-22. [**gakonst/solidity-book**](https://github.com/gakonst/solidity-book)
-The Senior Solidity Engineer's Book is a resource meant to transform you into a Senior Solidity Engineer.
-23. [**marktext/marktext**](https://github.com/marktext/marktext)
+2. [**open-mmlab/mmrazor**](https://github.com/open-mmlab/mmrazor)
+OpenMMLab Model Compression Toolbox and Benchmark.
+3. [**sxyu/svox2**](https://github.com/sxyu/svox2)
+Plenoxels: Radiance Fields without Neural Networks, Code release WIP
+4. [**mpcabete/bombcrypto-bot**](https://github.com/mpcabete/bombcrypto-bot)
+This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.
+5. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+The automation tower defense game
+6. [**marktext/marktext**](https://github.com/marktext/marktext)
 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-24. [**macrozheng/mall**](https://github.com/macrozheng/mall)
-mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-25. [**microsoft/unilm**](https://github.com/microsoft/unilm)
-Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+7. [**h3r2tic/cornell-mcray**](https://github.com/h3r2tic/cornell-mcray)
+🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly
+8. [**d2forum/16th**](https://github.com/d2forum/16th)
+第十六届D2前端技术论坛「精心」
+9. [**mehdihadeli/awesome-go-education**](https://github.com/mehdihadeli/awesome-go-education)
+A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
+10. [**Tencent/tdesign-react**](https://github.com/Tencent/tdesign-react)
+A React UI components lib for TDesign.
+11. [**fanux/sealos**](https://github.com/fanux/sealos)
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗
+12. [**Tencent/tdesign**](https://github.com/Tencent/tdesign)
+Enterprise Design System
+13. [**wailsapp/wails**](https://github.com/wailsapp/wails)
+Create desktop apps using Go and Web Technologies.
+14. [**ssssssss-team/spider-flow**](https://github.com/ssssssss-team/spider-flow)
+新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+15. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
+Short JavaScript code snippets for all your development needs
+16. [**mtdvio/every-programmer-should-know**](https://github.com/mtdvio/every-programmer-should-know)
+A collection of (mostly) technical things every software developer should know about
+17. [**wader/fq**](https://github.com/wader/fq)
+jq for binary formats
+18. [**easychen/pushdeer**](https://github.com/easychen/pushdeer)
+开放源码的无App推送服务，🚧 WIP
+19. [**airbnb/javascript**](https://github.com/airbnb/javascript)
+JavaScript Style Guide
+20. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
+A libre lightweight streaming front-end for Android.
+21. [**prisma/prisma**](https://github.com/prisma/prisma)
+Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
+22. [**Tencent/tdesign-vue-next**](https://github.com/Tencent/tdesign-vue-next)
+A Vue3.x UI components lib for TDesign.
+23. [**bozbez/win-capture-audio**](https://github.com/bozbez/win-capture-audio)
+An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
+24. [**Courseplay/courseplay**](https://github.com/Courseplay/courseplay)
+Courseplay for Farming Simulator 2019
+25. [**freeCodeCamp/LearnToCodeRPG**](https://github.com/freeCodeCamp/LearnToCodeRPG)
+A visual novel video game where you learn to code and get a dev job 🎯
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**kozmer/log4j-shell-poc**](https://github.com/kozmer/log4j-shell-poc)
-A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.
-2. [**cisagov/log4j-affected-db**](https://github.com/cisagov/log4j-affected-db)
-A community sourced list of log4j-affected software
+1. [**Shopify/react-native-skia**](https://github.com/Shopify/react-native-skia)
+High-performance React Native Graphics using Skia
+2. [**CERTCC/CVE-2021-44228_scanner**](https://github.com/CERTCC/CVE-2021-44228_scanner)
+Scanners for Jar files that may be vulnerable to CVE-2021-44228
 3. [**codenotary/immudb**](https://github.com/codenotary/immudb)
 immudb - world’s fastest immutable database, built on a zero trust model
-4. [**rui314/mold**](https://github.com/rui314/mold)
-mold: A Modern Linker
-5. [**kuaifan/dootask**](https://github.com/kuaifan/dootask)
+4. [**kuaifan/dootask**](https://github.com/kuaifan/dootask)
 DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
-6. [**Vonng/ddia**](https://github.com/Vonng/ddia)
+5. [**Vonng/ddia**](https://github.com/Vonng/ddia)
 《Designing Data-Intensive Application》DDIA中文翻译
-7. [**TencentARC/GFPGAN**](https://github.com/TencentARC/GFPGAN)
-GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-8. [**fox-it/log4j-finder**](https://github.com/fox-it/log4j-finder)
-Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)
-9. [**ssssssss-team/spider-flow**](https://github.com/ssssssss-team/spider-flow)
+6. [**kozmer/log4j-shell-poc**](https://github.com/kozmer/log4j-shell-poc)
+A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.
+7. [**RedisJSON/RedisJSON**](https://github.com/RedisJSON/RedisJSON)
+RedisJSON - a JSON data type for Redis
+8. [**cisagov/log4j-affected-db**](https://github.com/cisagov/log4j-affected-db)
+A community sourced list of log4j-affected software
+9. [**rui314/mold**](https://github.com/rui314/mold)
+mold: A Modern Linker
+10. [**ssssssss-team/spider-flow**](https://github.com/ssssssss-team/spider-flow)
 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-10. [**Eugeny/tabby**](https://github.com/Eugeny/tabby)
-A terminal for a more modern age
-11. [**qier222/YesPlayMusic**](https://github.com/qier222/YesPlayMusic)
-高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
-12. [**parallel101/course**](https://github.com/parallel101/course)
-高性能并行编程与优化 - 课件
-13. [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio)
-OBS Studio - Free and open source software for live streaming and screen recording
-14. [**picocss/pico**](https://github.com/picocss/pico)
-Minimal CSS Framework for semantic HTML
-15. [**PKUanonym/REKCARC-TSC-UHT**](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-16. [**go-kratos/kratos**](https://github.com/go-kratos/kratos)
-A modular-designed and easy-to-use microservices framework in Go.
-17. [**google-research/google-research**](https://github.com/google-research/google-research)
-Google Research
-18. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
+11. [**TencentARC/GFPGAN**](https://github.com/TencentARC/GFPGAN)
+GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+12. [**Anuken/Mindustry**](https://github.com/Anuken/Mindustry)
 The automation tower defense game
-19. [**sunym1993/flash-linux0.11-talk**](https://github.com/sunym1993/flash-linux0.11-talk)
+13. [**fox-it/log4j-finder**](https://github.com/fox-it/log4j-finder)
+Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)
+14. [**LianjiaTech/bruno**](https://github.com/LianjiaTech/bruno)
+Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.
+15. [**Eugeny/tabby**](https://github.com/Eugeny/tabby)
+A terminal for a more modern age
+16. [**qier222/YesPlayMusic**](https://github.com/qier222/YesPlayMusic)
+高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+17. [**dtm-labs/dtm**](https://github.com/dtm-labs/dtm)
+🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 跨语言分布式事务管理器
+18. [**sunym1993/flash-linux0.11-talk**](https://github.com/sunym1993/flash-linux0.11-talk)
 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-20. [**hillu/local-log4j-vuln-scanner**](https://github.com/hillu/local-log4j-vuln-scanner)
-Simple local scanner for vulnerable log4j instances
-21. [**smartcontractkit/full-blockchain-solidity-course-py**](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
-Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
-22. [**rails/rails**](https://github.com/rails/rails)
-Ruby on Rails
-23. [**alibaba/COLA**](https://github.com/alibaba/COLA)
-🥤 COLA: Clean Object-oriented & Layered Architecture
-24. [**megaease/easegress**](https://github.com/megaease/easegress)
-A Cloud Native traffic orchestration system
-25. [**freqtrade/freqtrade**](https://github.com/freqtrade/freqtrade)
-Free, open source crypto trading bot
+19. [**jina-ai/jina**](https://github.com/jina-ai/jina)
+Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
+20. [**parallel101/course**](https://github.com/parallel101/course)
+高性能并行编程与优化 - 课件
+21. [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio)
+OBS Studio - Free and open source software for live streaming and screen recording
+22. [**marktext/marktext**](https://github.com/marktext/marktext)
+📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+23. [**PKUanonym/REKCARC-TSC-UHT**](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+24. [**picocss/pico**](https://github.com/picocss/pico)
+Minimal CSS Framework for semantic HTML
+25. [**PaddlePaddle/PaddleGAN**](https://github.com/PaddlePaddle/PaddleGAN)
+PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**TencentARC/GFPGAN**](https://github.com/TencentARC/GFPGAN)
 GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-2. [**phoboslab/qoi**](https://github.com/phoboslab/qoi)
-The “Quite OK Image Format” for fast, lossless image compression
+2. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
+Roadmap to becoming a developer in 2021
 3. [**ssssssss-team/spider-flow**](https://github.com/ssssssss-team/spider-flow)
 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-4. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
-Roadmap to becoming a developer in 2021
+4. [**phoboslab/qoi**](https://github.com/phoboslab/qoi)
+The “Quite OK Image Format” for fast, lossless image compression
 5. [**PaperMC/Paper**](https://github.com/PaperMC/Paper)
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 6. [**supabase/supabase**](https://github.com/supabase/supabase)
 The open source Firebase alternative. Follow to stay updated about our public Beta.
 7. [**PKUanonym/REKCARC-TSC-UHT**](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-8. [**remix-run/remix**](https://github.com/remix-run/remix)
-Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-9. [**AppFlowy-IO/appflowy**](https://github.com/AppFlowy-IO/appflowy)
+8. [**AppFlowy-IO/appflowy**](https://github.com/AppFlowy-IO/appflowy)
 AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-10. [**JetBrains/compose-jb**](https://github.com/JetBrains/compose-jb)
+9. [**JetBrains/compose-jb**](https://github.com/JetBrains/compose-jb)
 Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-11. [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit)
+10. [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit)
 simple terminal UI for git commands
-12. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
+11. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
 📚 Freely available programming books
-13. [**QianMo/Real-Time-Rendering-4th-Bibliography-Collection**](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
+12. [**QianMo/Real-Time-Rendering-4th-Bibliography-Collection**](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
 Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference
-14. [**elastic/elasticsearch**](https://github.com/elastic/elasticsearch)
+13. [**remix-run/remix**](https://github.com/remix-run/remix)
+Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+14. [**pengzhiliang/MAE-pytorch**](https://github.com/pengzhiliang/MAE-pytorch)
+Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners
+15. [**elastic/elasticsearch**](https://github.com/elastic/elasticsearch)
 Free and Open, Distributed, RESTful Search Engine
-15. [**FerretDB/FerretDB**](https://github.com/FerretDB/FerretDB)
-A truly Open Source MongoDB alternative
-16. [**PaddlePaddle/PaddleDetection**](https://github.com/PaddlePaddle/PaddleDetection)
-Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
-17. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-18. [**cilium/cilium**](https://github.com/cilium/cilium)
-eBPF-based Networking, Security, and Observability
-19. [**CaffeineMC/sodium-fabric**](https://github.com/CaffeineMC/sodium-fabric)
+16. [**CaffeineMC/sodium-fabric**](https://github.com/CaffeineMC/sodium-fabric)
 A Fabric mod designed to improve frame rates and reduce micro-stutter
-20. [**type-challenges/type-challenges**](https://github.com/type-challenges/type-challenges)
-Collection of TypeScript type challenges with online judge
-21. [**flame-engine/flame**](https://github.com/flame-engine/flame)
+17. [**cilium/cilium**](https://github.com/cilium/cilium)
+eBPF-based Networking, Security, and Observability
+18. [**flame-engine/flame**](https://github.com/flame-engine/flame)
 A minimalist Flutter game engine
-22. [**justjavac/free-programming-books-zh_CN**](https://github.com/justjavac/free-programming-books-zh_CN)
-📚 免费的计算机编程类中文书籍，欢迎投稿
-23. [**elastic/logstash**](https://github.com/elastic/logstash)
+19. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+20. [**FerretDB/FerretDB**](https://github.com/FerretDB/FerretDB)
+A truly Open Source MongoDB alternative
+21. [**elastic/logstash**](https://github.com/elastic/logstash)
 Logstash - transport and process your logs, events, or other data
-24. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
-Command-line program to download videos from YouTube.com and other video sites
-25. [**spring-projects/spring-boot**](https://github.com/spring-projects/spring-boot)
+22. [**type-challenges/type-challenges**](https://github.com/type-challenges/type-challenges)
+Collection of TypeScript type challenges with online judge
+23. [**spring-projects/spring-boot**](https://github.com/spring-projects/spring-boot)
 Spring Boot
+24. [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp)
+A youtube-dl fork with additional features and fixes
+25. [**egametang/ET**](https://github.com/egametang/ET)
+Unity3D Client And C# Server Framework
 <!-- endtab -->
 {% endtabs %}
