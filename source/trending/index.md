@@ -90,7 +90,7 @@ Build Better Websites. Create modern, resilient user experiences with web fundam
 14. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
 Build smaller, faster, and more secure desktop applications with a web frontend.
 15. [**sunface/rust-course**](https://github.com/sunface/rust-course)
-“连续六年成为全世界最受喜爱的语言，无GC也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS未来基石" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的wasm、deno等专题。这可能是目前最用心的Rust中文开源教程
+“连续六年成为全世界最受喜爱的语言，无GC也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS未来基石" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的WASM和Deno等专题。这可能是目前最用心的Rust中文开源教程
 16. [**sickcodes/Docker-OSX**](https://github.com/sickcodes/Docker-OSX)
 Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 17. [**hashicorp/consul**](https://github.com/hashicorp/consul)
