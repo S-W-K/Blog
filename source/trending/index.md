@@ -96,7 +96,7 @@ The uncompromising Python code formatter
 17. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
 A libre lightweight streaming front-end for Android.
 18. [**ToolJet/ToolJet**](https://github.com/ToolJet/ToolJet)
-Open-source low-code framework for building React-based web applications and internal tools 🚀
+Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
 19. [**ThioJoe/YT-Spammer-Purge**](https://github.com/ThioJoe/YT-Spammer-Purge)
 Allows you easily scan for and delete scam comments using several methods.
 20. [**ansible/awx**](https://github.com/ansible/awx)
