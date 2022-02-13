@@ -120,7 +120,7 @@ A complete computer science study plan to become a software engineer.
 3. [**doocs/leetcode**](https://github.com/doocs/leetcode)
 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 4. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test
+Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 5. [**HashLips/hashlips_art_engine**](https://github.com/HashLips/hashlips_art_engine)
 HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 6. [**mattermost/focalboard**](https://github.com/mattermost/focalboard)
