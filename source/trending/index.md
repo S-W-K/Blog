@@ -9,159 +9,159 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**liamg/traitor**](https://github.com/liamg/traitor)
-⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-2. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
-3. [**giltayar/proposal-types-as-comments**](https://github.com/giltayar/proposal-types-as-comments)
-ECMAScript proposal for type syntax that is erased - Stage 0
-4. [**facebookresearch/StyleNeRF**](https://github.com/facebookresearch/StyleNeRF)
-This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"
-5. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-6. [**sysdream/ligolo**](https://github.com/sysdream/ligolo)
-Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
-7. [**GorvGoyl/Clone-Wars**](https://github.com/GorvGoyl/Clone-Wars)
-100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-8. [**onevcat/Kingfisher**](https://github.com/onevcat/Kingfisher)
-A lightweight, pure-Swift library for downloading and caching images from the web.
-9. [**deepmind/ithaca**](https://github.com/deepmind/ithaca)
-Restoring and attributing ancient texts using deep neural networks
-10. [**darbra/sperm**](https://github.com/darbra/sperm)
-浏览过的精彩逆向文章汇总，值得一看
-11. [**devkodeio/the-dom-challenge**](https://github.com/devkodeio/the-dom-challenge)
-DOM Challenge is a 60-90 minutes online weekly challenge related to frontend development consisting of industrial level machine round questions.
-12. [**mattermost/mattermost-server**](https://github.com/mattermost/mattermost-server)
-Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-13. [**gto76/python-cheatsheet**](https://github.com/gto76/python-cheatsheet)
-Comprehensive Python Cheatsheet
-14. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
+1. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
 A complete computer science study plan to become a software engineer.
-15. [**NVIDIA/DeepLearningExamples**](https://github.com/NVIDIA/DeepLearningExamples)
-Deep Learning Examples
-16. [**gorhill/uBlock**](https://github.com/gorhill/uBlock)
-uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-17. [**axios/axios**](https://github.com/axios/axios)
-Promise based HTTP client for the browser and node.js
-18. [**ngosang/trackerslist**](https://github.com/ngosang/trackerslist)
-Updated list of public BitTorrent trackers
-19. [**mli/paper-reading**](https://github.com/mli/paper-reading)
-深度学习经典、新论文逐段精读
-20. [**nrwl/nx**](https://github.com/nrwl/nx)
-Smart, Fast and Extensible Build System
-21. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
-Run Nintendo Switch homebrew & games on your Android device!
-22. [**ruanyf/weekly**](https://github.com/ruanyf/weekly)
+2. [**liamg/traitor**](https://github.com/liamg/traitor)
+⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+3. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+4. [**AmruthPillai/Reactive-Resume**](https://github.com/AmruthPillai/Reactive-Resume)
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+5. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
+A new bootable USB solution.
+6. [**hwdsl2/setup-ipsec-vpn**](https://github.com/hwdsl2/setup-ipsec-vpn)
+Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+7. [**coding-horror/basic-computer-games**](https://github.com/coding-horror/basic-computer-games)
+An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
+8. [**GorvGoyl/Clone-Wars**](https://github.com/GorvGoyl/Clone-Wars)
+100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+9. [**apache/arrow-datafusion**](https://github.com/apache/arrow-datafusion)
+Apache Arrow DataFusion and Ballista query engines
+10. [**chen310/NeteaseCloudMusicTasks**](https://github.com/chen310/NeteaseCloudMusicTasks)
+网易云音乐自动任务：刷等级、云贝、云豆等
+11. [**excalidraw/excalidraw**](https://github.com/excalidraw/excalidraw)
+Virtual whiteboard for sketching hand-drawn like diagrams
+12. [**Yin-Hongwei/music-website**](https://github.com/Yin-Hongwei/music-website)
+🎧 Vue + SpringBoot + MyBatis 音乐网站
+13. [**sysdream/ligolo**](https://github.com/sysdream/ligolo)
+Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
+14. [**3b1b/manim**](https://github.com/3b1b/manim)
+Animation engine for explanatory math videos
+15. [**ruanyf/weekly**](https://github.com/ruanyf/weekly)
 科技爱好者周刊，每周五发布
-23. [**ververica/flink-cdc-connectors**](https://github.com/ververica/flink-cdc-connectors)
-Change Data Capture (CDC) Connectors for Apache Flink
-24. [**loggie-io/loggie**](https://github.com/loggie-io/loggie)
+16. [**neovim/neovim**](https://github.com/neovim/neovim)
+Vim-fork focused on extensibility and usability
+17. [**CSSEGISandData/COVID-19**](https://github.com/CSSEGISandData/COVID-19)
+Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+18. [**loggie-io/loggie**](https://github.com/loggie-io/loggie)
 A lightweight, cloud-native data transfer agent and aggregator
-25. [**xiaorouji/openwrt-passwall**](https://github.com/xiaorouji/openwrt-passwall)
+19. [**Asabeneh/30-Days-Of-JavaScript**](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
+20. [**probml/pyprobml**](https://github.com/probml/pyprobml)
+Python code for "Probabilistic Machine learning" book by Kevin Murphy
+21. [**datastack-net/dockerized**](https://github.com/datastack-net/dockerized)
+Run popular commandline tools within docker
+22. [**vinta/awesome-python**](https://github.com/vinta/awesome-python)
+A curated list of awesome Python frameworks, libraries, software and resources
+23. [**xiaorouji/openwrt-passwall**](https://github.com/xiaorouji/openwrt-passwall)
 No repo_description
+24. [**checkstyle/checkstyle**](https://github.com/checkstyle/checkstyle)
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+25. [**iptv-org/iptv**](https://github.com/iptv-org/iptv)
+Collection of publicly available IPTV channels from all over the world
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**Arriven/db1000n**](https://github.com/Arriven/db1000n)
-No repo_description
-2. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
+1. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
 24 Lessons, 12 Weeks, Get Started as a Web Developer
-3. [**YaoApp/yao**](https://github.com/YaoApp/yao)
-Yao A low code engine to create web services and dashboard.
-4. [**lapce/lapce**](https://github.com/lapce/lapce)
-Lightning-fast and Powerful Code Editor written in Rust
-5. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
+2. [**Arriven/db1000n**](https://github.com/Arriven/db1000n)
+No repo_description
+3. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
 📚 Freely available programming books
-6. [**italiaremote/awesome-italia-remote**](https://github.com/italiaremote/awesome-italia-remote)
-A list of remote-friendly or full-remote companies that targets Italian talents.
-7. [**type-challenges/type-challenges**](https://github.com/type-challenges/type-challenges)
-Collection of TypeScript type challenges with online judge
-8. [**mdn/content**](https://github.com/mdn/content)
-The content behind MDN Web Docs
-9. [**hpcaitech/ColossalAI**](https://github.com/hpcaitech/ColossalAI)
+4. [**YaoApp/yao**](https://github.com/YaoApp/yao)
+Yao A low code engine to create web services and dashboard.
+5. [**remotion-dev/remotion**](https://github.com/remotion-dev/remotion)
+🎥 Create videos programmatically in React
+6. [**hpcaitech/ColossalAI**](https://github.com/hpcaitech/ColossalAI)
 Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
-10. [**FeeiCN/Security-PPT**](https://github.com/FeeiCN/Security-PPT)
-Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）
-11. [**opengs/uashield**](https://github.com/opengs/uashield)
-Voluntary Ukraine security platform to protect us from Russian forces in the Internet
-12. [**TheAlgorithms/C-Plus-Plus**](https://github.com/TheAlgorithms/C-Plus-Plus)
-Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-13. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
+7. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
 Command-line program to download videos from YouTube.com and other video sites
-14. [**avelino/awesome-go**](https://github.com/avelino/awesome-go)
-A curated list of awesome Go frameworks, libraries and software
-15. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-16. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
-All Algorithms implemented in Python
-17. [**trailofbits/algo**](https://github.com/trailofbits/algo)
-Set up a personal VPN in the cloud
-18. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+8. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
-19. [**actions/checkout**](https://github.com/actions/checkout)
-Action for checking out a repo
-20. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
+9. [**mdn/content**](https://github.com/mdn/content)
+The content behind MDN Web Docs
+10. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+11. [**type-challenges/type-challenges**](https://github.com/type-challenges/type-challenges)
+Collection of TypeScript type challenges with online judge
+12. [**nkallen/plasticity**](https://github.com/nkallen/plasticity)
+No repo_description
+13. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
+Fast, easy and reliable testing for anything that runs in a browser.
+14. [**topjohnwu/Magisk**](https://github.com/topjohnwu/Magisk)
 The Magic Mask for Android
-21. [**Lakr233/Rayon**](https://github.com/Lakr233/Rayon)
-yet another SSH machine manager
-22. [**arthurspk/guiadevbrasil**](https://github.com/arthurspk/guiadevbrasil)
-GUIA EXTENSO DE PROGRAMAÇÃO:
+15. [**fighting41love/funNLP**](https://github.com/fighting41love/funNLP)
+中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
+16. [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify)
+🐉 Material Component Framework for Vue
+17. [**actions/checkout**](https://github.com/actions/checkout)
+Action for checking out a repo
+18. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
+All Algorithms implemented in Python
+19. [**samber/lo**](https://github.com/samber/lo)
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+20. [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
+Master the command line, in one page
+21. [**Rapptz/discord.py**](https://github.com/Rapptz/discord.py)
+An API wrapper for Discord written in Python.
+22. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
+Run Nintendo Switch homebrew & games on your Android device!
 23. [**Avik-Jain/100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 100 Days of ML Coding
-24. [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line)
-Master the command line, in one page
-25. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
-Run Nintendo Switch homebrew & games on your Android device!
+24. [**arthurspk/guiadevbrasil**](https://github.com/arthurspk/guiadevbrasil)
+GUIA EXTENSO DE PROGRAMAÇÃO:
+25. [**Lakr233/Rayon**](https://github.com/Lakr233/Rayon)
+yet another SSH machine manager
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**MHProDev/MHDDoS**](https://github.com/MHProDev/MHDDoS)
 Best DDoS Attack Script Python3, Cyber Attack With 50 Methods
 2. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid)
 Generation of diagram and flowchart from text in a similar manner as markdown
-3. [**ocornut/imgui**](https://github.com/ocornut/imgui)
-Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-4. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
+3. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-5. [**qiurunze123/miaosha**](https://github.com/qiurunze123/miaosha)
+4. [**ocornut/imgui**](https://github.com/ocornut/imgui)
+Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+5. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
+🤓 Build your own (insert technology here)
+6. [**qiurunze123/miaosha**](https://github.com/qiurunze123/miaosha)
 ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-6. [**penpot/penpot**](https://github.com/penpot/penpot)
+7. [**penpot/penpot**](https://github.com/penpot/penpot)
 Penpot - The Open-Source design & prototyping platform
-7. [**huihut/interview**](https://github.com/huihut/interview)
+8. [**huihut/interview**](https://github.com/huihut/interview)
 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…
-8. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
-「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-9. [**mdn/content**](https://github.com/mdn/content)
-The content behind MDN Web Docs
-10. [**saadeghi/daisyui**](https://github.com/saadeghi/daisyui)
-⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
-11. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
-24 Lessons, 12 Weeks, Get Started as a Web Developer
-12. [**vuejs/core**](https://github.com/vuejs/core)
+9. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
+📚 Freely available programming books
+10. [**vuejs/core**](https://github.com/vuejs/core)
 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+11. [**mdn/content**](https://github.com/mdn/content)
+The content behind MDN Web Docs
+12. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
+24 Lessons, 12 Weeks, Get Started as a Web Developer
 13. [**hoppscotch/hoppscotch**](https://github.com/hoppscotch/hoppscotch)
 👽 Open source API development ecosystem - https://hoppscotch.io
-14. [**ObuchiYuki/DevToysMac**](https://github.com/ObuchiYuki/DevToysMac)
-DevToys For mac
+14. [**Snailclimb/JavaGuide**](https://github.com/Snailclimb/JavaGuide)
+「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 15. [**YunaiV/ruoyi-vue-pro**](https://github.com/YunaiV/ruoyi-vue-pro)
 基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-16. [**halo-dev/halo**](https://github.com/halo-dev/halo)
-✍ 一款现代化的开源博客/CMS系统。
+16. [**saadeghi/daisyui**](https://github.com/saadeghi/daisyui)
+⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 17. [**lapce/lapce**](https://github.com/lapce/lapce)
 Lightning-fast and Powerful Code Editor written in Rust
-18. [**iamadamdev/bypass-paywalls-chrome**](https://github.com/iamadamdev/bypass-paywalls-chrome)
-Bypass Paywalls web browser extension for Chrome and Firefox.
-19. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-20. [**vbenjs/vue-vben-admin**](https://github.com/vbenjs/vue-vben-admin)
-A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
-21. [**chiru-labs/ERC721A**](https://github.com/chiru-labs/ERC721A)
-https://ERC721A.org
-22. [**vitejs/vite**](https://github.com/vitejs/vite)
-Next generation frontend tooling. It's fast!
-23. [**faif/python-patterns**](https://github.com/faif/python-patterns)
-A collection of design patterns/idioms in Python
-24. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
+18. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
 Fig adds autocomplete to your terminal.
-25. [**NVlabs/instant-ngp**](https://github.com/NVlabs/instant-ngp)
-Instant neural graphics primitives: lightning fast NeRF and more
+19. [**vbenjs/vue-vben-admin**](https://github.com/vbenjs/vue-vben-admin)
+A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+20. [**DuGuQiuBai/Java**](https://github.com/DuGuQiuBai/Java)
+27天成为Java大神
+21. [**iamadamdev/bypass-paywalls-chrome**](https://github.com/iamadamdev/bypass-paywalls-chrome)
+Bypass Paywalls web browser extension for Chrome and Firefox.
+22. [**Python-World/python-mini-projects**](https://github.com/Python-World/python-mini-projects)
+A collection of simple python mini projects to enhance your python skills
+23. [**vuejs/vue**](https://github.com/vuejs/vue)
+🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+24. [**sampotts/plyr**](https://github.com/sampotts/plyr)
+A simple HTML5, YouTube and Vimeo player
+25. [**faif/python-patterns**](https://github.com/faif/python-patterns)
+A collection of design patterns/idioms in Python
 <!-- endtab -->
 {% endtabs %}
