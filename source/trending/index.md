@@ -18,7 +18,7 @@ Open source documentation of Microsoft Azure
 4. [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog)
 Find credentials all over the place
 5. [**Lissy93/personal-security-checklist**](https://github.com/Lissy93/personal-security-checklist)
-🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 6. [**Anduin2017/HowToCook**](https://github.com/Anduin2017/HowToCook)
 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 7. [**shuax/chrome_plus**](https://github.com/shuax/chrome_plus)
