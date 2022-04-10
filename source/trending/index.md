@@ -9,108 +9,108 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**BoomingTech/Pilot**](https://github.com/BoomingTech/Pilot)
-Pilot – mini game engine for games104
-2. [**codeedu/imersao-7-codepix**](https://github.com/codeedu/imersao-7-codepix)
-No repo_description
-3. [**MicrosoftDocs/azure-docs**](https://github.com/MicrosoftDocs/azure-docs)
-Open source documentation of Microsoft Azure
-4. [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog)
+1. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
+Papers from the computer science community to read and discuss.
+2. [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university)
+A complete computer science study plan to become a software engineer.
+3. [**lambda765/robFoodDD**](https://github.com/lambda765/robFoodDD)
+辅助买菜
+4. [**Skykai521/DingDongHelper**](https://github.com/Skykai521/DingDongHelper)
+叮咚买菜抢菜插件
+5. [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog)
 Find credentials all over the place
-5. [**Lissy93/personal-security-checklist**](https://github.com/Lissy93/personal-security-checklist)
-🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
-6. [**Anduin2017/HowToCook**](https://github.com/Anduin2017/HowToCook)
-程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-7. [**shuax/chrome_plus**](https://github.com/shuax/chrome_plus)
-Chrome 增强软件
-8. [**CompVis/latent-diffusion**](https://github.com/CompVis/latent-diffusion)
-High-Resolution Image Synthesis with Latent Diffusion Models
+6. [**nlohmann/json**](https://github.com/nlohmann/json)
+JSON for Modern C++
+7. [**ClemensElflein/OpenMower**](https://github.com/ClemensElflein/OpenMower)
+Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+8. [**yoship1639/UniToon**](https://github.com/yoship1639/UniToon)
+Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 9. [**tgbot-collection/YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot)
 🎬 人人影视bot，完全对接人人影视全部无删减资源
-10. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
-Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-11. [**NCSC-NL/spring4shell**](https://github.com/NCSC-NL/spring4shell)
-Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework
-12. [**kris-nova/boopkit**](https://github.com/kris-nova/boopkit)
-Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
-13. [**kestra-io/kestra**](https://github.com/kestra-io/kestra)
-Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
-14. [**saic-mdal/lama**](https://github.com/saic-mdal/lama)
-🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
-15. [**shuax/edge_plus**](https://github.com/shuax/edge_plus)
-Chromium-based Edge 增强软件
-16. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
-This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
-17. [**arthurspk/guiadobackend**](https://github.com/arthurspk/guiadobackend)
-Guia do Desenvolvedor Back-end
-18. [**Atmosphere-NX/Atmosphere**](https://github.com/Atmosphere-NX/Atmosphere)
-Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-19. [**s0md3v/Smap**](https://github.com/s0md3v/Smap)
-a drop-in replacement for Nmap powered by shodan.io
-20. [**danielmiessler/SecLists**](https://github.com/danielmiessler/SecLists)
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-21. [**zbroyar/mass_killings**](https://github.com/zbroyar/mass_killings)
+10. [**goldbergyoni/javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices)
+📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
+11. [**vercel/pkg**](https://github.com/vercel/pkg)
+Package your Node.js project into an executable
+12. [**peng-zhihui/ElectronBot**](https://github.com/peng-zhihui/ElectronBot)
 No repo_description
-22. [**Azure/azure-sdk-for-net**](https://github.com/Azure/azure-sdk-for-net)
-This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-23. [**saikou-app/saikou**](https://github.com/saikou-app/saikou)
-An anilist only client, which lets you stream & download Anime & Manga.
-24. [**microsoft/azure-pipelines-tasks**](https://github.com/microsoft/azure-pipelines-tasks)
+13. [**lucidrains/DALLE2-pytorch**](https://github.com/lucidrains/DALLE2-pytorch)
+Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+14. [**BabylonJS/Babylon.js**](https://github.com/BabylonJS/Babylon.js)
+Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+15. [**wagtail/wagtail**](https://github.com/wagtail/wagtail)
+A Django content management system focused on flexibility and user experience
+16. [**brettwooldridge/HikariCP**](https://github.com/brettwooldridge/HikariCP)
+光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+17. [**microsoft/azure-pipelines-tasks**](https://github.com/microsoft/azure-pipelines-tasks)
 Tasks for Azure Pipelines
-25. [**vercel/next.js**](https://github.com/vercel/next.js)
+18. [**vercel/next.js**](https://github.com/vercel/next.js)
 The React Framework
+19. [**rome/tools**](https://github.com/rome/tools)
+The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+20. [**apache/incubator-shenyu**](https://github.com/apache/incubator-shenyu)
+ShenYu is High-Performance Java API Gateway.
+21. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+Windows system utilities to maximize productivity
+22. [**jozhn/ddmc.monitor**](https://github.com/jozhn/ddmc.monitor)
+叮咚买菜 运力监控
+23. [**Kindelia/HVM**](https://github.com/Kindelia/HVM)
+A massively parallel, optimal functional runtime in Rust
+24. [**qulingyuan/robVeg**](https://github.com/qulingyuan/robVeg)
+美团买菜 抢菜脚本
+25. [**google/re2**](https://github.com/google/re2)
+RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**github/copilot-docs**](https://github.com/github/copilot-docs)
-Documentation for GitHub Copilot
-2. [**scottbez1/smartknob**](https://github.com/scottbez1/smartknob)
-Haptic input knob with software-defined endstops and virtual detents
-3. [**ciderapp/Cider**](https://github.com/ciderapp/Cider)
-A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
-4. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
-The Serenity Operating System 🐞
-5. [**techno-tim/k3s-ansible**](https://github.com/techno-tim/k3s-ansible)
-A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
-6. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
-Script to remove Windows 10 bloatware.
-7. [**breakthecode2/neo**](https://github.com/breakthecode2/neo)
-A plugin that enables usage of cheatcodes in Break The Code 2
-8. [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates)
-Community curated list of templates for the nuclei engine to find security vulnerabilities.
-9. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-10. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
-Spring Framework
-11. [**Alamofire/Alamofire**](https://github.com/Alamofire/Alamofire)
-Elegant HTTP Networking in Swift
-12. [**mastodon/mastodon**](https://github.com/mastodon/mastodon)
-Your self-hosted, globally interconnected microblogging community
-13. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
-Fig adds autocomplete to your terminal.
-14. [**wangyuan389/mall-cook**](https://github.com/wangyuan389/mall-cook)
-商城低代码平台，可视化搭建H5、小程序多端商城
-15. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
-Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-16. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
-📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-17. [**calcom/cal.com**](https://github.com/calcom/cal.com)
-Scheduling infrastructure for absolutely everyone.
-18. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
-Pre-Built Vulnerable Environments Based on Docker-Compose
-19. [**dotnetcore/FastGithub**](https://github.com/dotnetcore/FastGithub)
-github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-20. [**projectdiscovery/nuclei**](https://github.com/projectdiscovery/nuclei)
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-21. [**photoview/photoview**](https://github.com/photoview/photoview)
-Photo gallery for self-hosted personal servers
-22. [**AI4Finance-Foundation/FinRL**](https://github.com/AI4Finance-Foundation/FinRL)
-FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
-23. [**python/mypy**](https://github.com/python/mypy)
-Optional static typing for Python
-24. [**TheAlgorithms/Javascript**](https://github.com/TheAlgorithms/Javascript)
-Algorithms implemented in JavaScript for beginners, following best practices.
-25. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal)
+1. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal)
 Investment Research for Everyone, Anywhere.
+2. [**github/copilot-docs**](https://github.com/github/copilot-docs)
+Documentation for GitHub Copilot
+3. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
+Papers from the computer science community to read and discuss.
+4. [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool)
+ALL IN ONE Hacking Tool For Hackers
+5. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
+Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+6. [**sahat/hackathon-starter**](https://github.com/sahat/hackathon-starter)
+A boilerplate for Node.js web applications
+7. [**TheAlgorithms/Javascript**](https://github.com/TheAlgorithms/Javascript)
+Algorithms implemented in JavaScript for beginners, following best practices.
+8. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
+This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+9. [**redwoodjs/redwood**](https://github.com/redwoodjs/redwood)
+The App Framework for Startups
+10. [**nlohmann/json**](https://github.com/nlohmann/json)
+JSON for Modern C++
+11. [**calcom/cal.com**](https://github.com/calcom/cal.com)
+Scheduling infrastructure for absolutely everyone.
+12. [**nvm-sh/nvm**](https://github.com/nvm-sh/nvm)
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+13. [**Alamofire/Alamofire**](https://github.com/Alamofire/Alamofire)
+Elegant HTTP Networking in Swift
+14. [**TanStack/react-table**](https://github.com/TanStack/react-table)
+⚛️ Hooks for building fast and extendable tables and datagrids for React
+15. [**vmware-tanzu/community-edition**](https://github.com/vmware-tanzu/community-edition)
+VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+16. [**mastodon/mastodon**](https://github.com/mastodon/mastodon)
+Your self-hosted, globally interconnected microblogging community
+17. [**projectdiscovery/nuclei**](https://github.com/projectdiscovery/nuclei)
+Fast and customizable vulnerability scanner based on simple YAML based DSL.
+18. [**flutter/flutter**](https://github.com/flutter/flutter)
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+19. [**Azure/azure-sdk-for-net**](https://github.com/Azure/azure-sdk-for-net)
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+20. [**jhu-ep-coursera/fullstack-course4**](https://github.com/jhu-ep-coursera/fullstack-course4)
+Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+21. [**alembics/disco-diffusion**](https://github.com/alembics/disco-diffusion)
+No repo_description
+22. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
+Fig adds autocomplete to your terminal.
+23. [**cloudflare/cloudflared**](https://github.com/cloudflare/cloudflared)
+Cloudflare Tunnel client (formerly Argo Tunnel)
+24. [**MicrosoftDocs/azure-docs**](https://github.com/MicrosoftDocs/azure-docs)
+Open source documentation of Microsoft Azure
+25. [**withastro/astro**](https://github.com/withastro/astro)
+Build fast websites, faster. 🚀🧑‍🚀✨
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**github/copilot-docs**](https://github.com/github/copilot-docs)
@@ -123,45 +123,45 @@ Amplication is an open‑source development tool. It helps you develop quality N
 An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 5. [**lapce/lapce**](https://github.com/lapce/lapce)
 Lightning-fast and Powerful Code Editor written in Rust
-6. [**peng-zhihui/Dummy-Robot**](https://github.com/peng-zhihui/Dummy-Robot)
-我的超迷你机械臂机器人项目。
-7. [**helix-editor/helix**](https://github.com/helix-editor/helix)
+6. [**helix-editor/helix**](https://github.com/helix-editor/helix)
 A post-modern modal text editor.
-8. [**YaoApp/yao**](https://github.com/YaoApp/yao)
-Yao A low code engine to create web services and dashboard.
-9. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
+7. [**peng-zhihui/Dummy-Robot**](https://github.com/peng-zhihui/Dummy-Robot)
+我的超迷你机械臂机器人项目。
+8. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
 Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-10. [**rui314/chibicc**](https://github.com/rui314/chibicc)
-A small C compiler
-11. [**samber/lo**](https://github.com/samber/lo)
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-12. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
+9. [**paperless-ngx/paperless-ngx**](https://github.com/paperless-ngx/paperless-ngx)
+A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+10. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
-13. [**Arriven/db1000n**](https://github.com/Arriven/db1000n)
-No repo_description
-14. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
-24 Lessons, 12 Weeks, Get Started as a Web Developer
-15. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
+11. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
 A list of Free Software network services and web applications which can be hosted on your own servers
-16. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
+12. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
+Script to remove Windows 10 bloatware.
+13. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
 OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+14. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
+Fig adds autocomplete to your terminal.
+15. [**Arriven/db1000n**](https://github.com/Arriven/db1000n)
+No repo_description
+16. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
+Spring Framework
 17. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
 Pre-Built Vulnerable Environments Based on Docker-Compose
-18. [**ToolJet/ToolJet**](https://github.com/ToolJet/ToolJet)
+18. [**liamg/traitor**](https://github.com/liamg/traitor)
+⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+19. [**blawar/ooot**](https://github.com/blawar/ooot)
+No repo_description
+20. [**ToolJet/ToolJet**](https://github.com/ToolJet/ToolJet)
 Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-19. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
+21. [**samber/lo**](https://github.com/samber/lo)
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+22. [**TeamNewPipe/NewPipe**](https://github.com/TeamNewPipe/NewPipe)
 A libre lightweight streaming front-end for Android.
-20. [**hpcaitech/ColossalAI**](https://github.com/hpcaitech/ColossalAI)
-Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
-21. [**2dust/v2rayN**](https://github.com/2dust/v2rayN)
-A V2Ray client for Windows, support Xray core and v2fly core
-22. [**YunaiV/ruoyi-vue-pro**](https://github.com/YunaiV/ruoyi-vue-pro)
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-23. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
-Fig adds autocomplete to your terminal.
-24. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
-Spring Framework
-25. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
-Script to remove Windows 10 bloatware.
+23. [**PanJiaChen/vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin)
+🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
+24. [**ppy/osu**](https://github.com/ppy/osu)
+rhythm is just a *click* away!
+25. [**Binaryify/NeteaseCloudMusicApi**](https://github.com/Binaryify/NeteaseCloudMusicApi)
+网易云音乐 Node.js API service
 <!-- endtab -->
 {% endtabs %}
