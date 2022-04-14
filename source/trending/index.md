@@ -9,159 +9,159 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**ekzhang/bore**](https://github.com/ekzhang/bore)
-🕳 bore is a simple CLI tool for making tunnels to localhost
-2. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
-Run Nintendo Switch homebrew & games on your Android device!
-3. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
-This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
-4. [**JannsenYang/dingdong-helper**](https://github.com/JannsenYang/dingdong-helper)
+1. [**JannsenYang/dingdong-helper**](https://github.com/JannsenYang/dingdong-helper)
 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可
-5. [**iced-rs/iced**](https://github.com/iced-rs/iced)
-A cross-platform GUI library for Rust, inspired by Elm
-6. [**AgainstTheWest/NginxDay**](https://github.com/AgainstTheWest/NginxDay)
-Nginx 18.1 04/09/22 zero-day repo
-7. [**a-little-org-called-mario/a-little-game-called-mario**](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
-open source collective hell game
-8. [**arthurspk/guiadevbrasil**](https://github.com/arthurspk/guiadevbrasil)
-GUIA EXTENSO DE PROGRAMAÇÃO:
-9. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
-Papers from the computer science community to read and discuss.
-10. [**robmarkcole/satellite-image-deep-learning**](https://github.com/robmarkcole/satellite-image-deep-learning)
-Resources for deep learning with satellite & aerial imagery
-11. [**goldbergyoni/javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices)
-📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
-12. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
-🤓 Build your own (insert technology here)
-13. [**vxunderground/MalwareSourceCode**](https://github.com/vxunderground/MalwareSourceCode)
-Collection of malware source code for a variety of platforms in an array of different programming languages.
-14. [**rome/tools**](https://github.com/rome/tools)
-The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-15. [**public-apis/public-apis**](https://github.com/public-apis/public-apis)
-A collective list of free APIs
-16. [**H-M-H/Weylus**](https://github.com/H-M-H/Weylus)
-Use your tablet as graphic tablet/touch screen on your computer.
-17. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
+2. [**ekzhang/bore**](https://github.com/ekzhang/bore)
+🕳 bore is a simple CLI tool for making tunnels to localhost
+3. [**chiru-labs/ERC721A**](https://github.com/chiru-labs/ERC721A)
+https://ERC721A.org
+4. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
+This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+5. [**fighting41love/funNLP**](https://github.com/fighting41love/funNLP)
+中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
+6. [**archway-network/testnets**](https://github.com/archway-network/testnets)
+This repository contains archway testnets
+7. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-18. [**CodeEditApp/CodeEdit**](https://github.com/CodeEditApp/CodeEdit)
-CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-19. [**react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form)
-📋 React Hooks for form state management and validation (Web + React Native)
-20. [**blackmatrix7/ios_rule_script**](https://github.com/blackmatrix7/ios_rule_script)
-各平台的分流规则、复写规则及自动化脚本。
-21. [**mrd0x/BITB**](https://github.com/mrd0x/BITB)
-Browser In The Browser (BITB) Templates
-22. [**GitHubDaily/GitHubDaily**](https://github.com/GitHubDaily/GitHubDaily)
-坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
-23. [**arthurspk/guiadofrontend**](https://github.com/arthurspk/guiadofrontend)
-Guia do Desenvolvedor Front-end
-24. [**ethereum/solidity**](https://github.com/ethereum/solidity)
-Solidity, the Smart Contract Programming Language
-25. [**Budibase/budibase**](https://github.com/Budibase/budibase)
-Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
+8. [**robmarkcole/satellite-image-deep-learning**](https://github.com/robmarkcole/satellite-image-deep-learning)
+Resources for deep learning with satellite & aerial imagery
+9. [**goldbergyoni/javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices)
+📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
+10. [**goldbergyoni/nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices)
+✅ The Node.js best practices list (March 2022)
+11. [**gakonst/foundry**](https://github.com/gakonst/foundry)
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+12. [**oneThousand1000/non-hair-FFHQ**](https://github.com/oneThousand1000/non-hair-FFHQ)
+A dataset that contains 6,000 non-hair FFHQ portraits.
+13. [**grafana/loki**](https://github.com/grafana/loki)
+Like Prometheus, but for logs.
+14. [**Sjj1024/QiangCai**](https://github.com/Sjj1024/QiangCai)
+上海疫情被封在家，开始抢菜之路，美团抢菜，叮咚抢菜，抢菜
+15. [**projectdiscovery/subfinder**](https://github.com/projectdiscovery/subfinder)
+Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+16. [**kubernetes/kubernetes**](https://github.com/kubernetes/kubernetes)
+Production-Grade Container Scheduling and Management
+17. [**vinta/awesome-python**](https://github.com/vinta/awesome-python)
+A curated list of awesome Python frameworks, libraries, software and resources
+18. [**lucidrains/DALLE2-pytorch**](https://github.com/lucidrains/DALLE2-pytorch)
+Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+19. [**mlcommons/inference**](https://github.com/mlcommons/inference)
+Reference implementations of MLPerf™ inference benchmarks
+20. [**danistefanovic/build-your-own-x**](https://github.com/danistefanovic/build-your-own-x)
+🤓 Build your own (insert technology here)
+21. [**ern0/howto-wasm-minimal**](https://github.com/ern0/howto-wasm-minimal)
+How to create minimal wasm module
+22. [**projectdiscovery/uncover**](https://github.com/projectdiscovery/uncover)
+Quickly discover exposed hosts on the internet using multiple search engine.
+23. [**Azure/azure-sdk-for-python**](https://github.com/Azure/azure-sdk-for-python)
+This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+24. [**tc39/proposals**](https://github.com/tc39/proposals)
+Tracking ECMAScript Proposals
+25. [**archway-network/testnet-signer**](https://github.com/archway-network/testnet-signer)
+Small utility to sign a small json containing basic kyc information. The key generated by it is fully compatible with cosmos based chains.
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
 Papers from the computer science community to read and discuss.
-2. [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog)
-Find credentials all over the place
-3. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
+2. [**BoomingTech/Pilot**](https://github.com/BoomingTech/Pilot)
+Pilot – mini game engine for games104
+3. [**CompVis/latent-diffusion**](https://github.com/CompVis/latent-diffusion)
+High-Resolution Image Synthesis with Latent Diffusion Models
+4. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
 This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
-4. [**helix-editor/helix**](https://github.com/helix-editor/helix)
-A post-modern modal text editor.
-5. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
+5. [**trufflesecurity/trufflehog**](https://github.com/trufflesecurity/trufflehog)
+Find credentials all over the place
+6. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-6. [**Azure/azure-sdk-for-net**](https://github.com/Azure/azure-sdk-for-net)
-This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-7. [**nlohmann/json**](https://github.com/nlohmann/json)
-JSON for Modern C++
-8. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
-Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-9. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
+7. [**helix-editor/helix**](https://github.com/helix-editor/helix)
+A post-modern modal text editor.
+8. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
 Run Nintendo Switch homebrew & games on your Android device!
-10. [**github/copilot-docs**](https://github.com/github/copilot-docs)
-Documentation for GitHub Copilot
-11. [**stackrox/stackrox**](https://github.com/stackrox/stackrox)
-The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
-12. [**kestra-io/kestra**](https://github.com/kestra-io/kestra)
-Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
-13. [**microsoft/azure-pipelines-tasks**](https://github.com/microsoft/azure-pipelines-tasks)
-Tasks for Azure Pipelines
-14. [**redwoodjs/redwood**](https://github.com/redwoodjs/redwood)
-The App Framework for Startups
-15. [**alembics/disco-diffusion**](https://github.com/alembics/disco-diffusion)
-No repo_description
+9. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
+Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+10. [**Azure/azure-sdk-for-net**](https://github.com/Azure/azure-sdk-for-net)
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+11. [**nlohmann/json**](https://github.com/nlohmann/json)
+JSON for Modern C++
+12. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
+Windows system utilities to maximize productivity
+13. [**projectdiscovery/httpx**](https://github.com/projectdiscovery/httpx)
+httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+14. [**atom/atom**](https://github.com/atom/atom)
+The hackable text editor
+15. [**jellyfin/jellyfin**](https://github.com/jellyfin/jellyfin)
+The Free Software Media System
 16. [**sickcodes/Docker-OSX**](https://github.com/sickcodes/Docker-OSX)
 Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-17. [**megaease/easeprobe**](https://github.com/megaease/easeprobe)
-A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
-18. [**jellyfin/jellyfin**](https://github.com/jellyfin/jellyfin)
-The Free Software Media System
-19. [**microsoft/PowerToys**](https://github.com/microsoft/PowerToys)
-Windows system utilities to maximize productivity
-20. [**atom/atom**](https://github.com/atom/atom)
-The hackable text editor
-21. [**vercel/pkg**](https://github.com/vercel/pkg)
-Package your Node.js project into an executable
-22. [**jhu-ep-coursera/fullstack-course4**](https://github.com/jhu-ep-coursera/fullstack-course4)
-Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-23. [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh)
-A prompt theme engine for any shell.
-24. [**nvm-sh/nvm**](https://github.com/nvm-sh/nvm)
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-25. [**google/jax**](https://github.com/google/jax)
-Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+17. [**alembics/disco-diffusion**](https://github.com/alembics/disco-diffusion)
+No repo_description
+18. [**github/copilot-docs**](https://github.com/github/copilot-docs)
+Documentation for GitHub Copilot
+19. [**openai/DALL-E**](https://github.com/openai/DALL-E)
+PyTorch package for the discrete VAE used for DALL·E.
+20. [**tgbot-collection/YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot)
+🎬 人人影视bot，完全对接人人影视全部无删减资源
+21. [**sean529/robFood**](https://github.com/sean529/robFood)
+因为上海疫情，用于抢菜~
+22. [**Lissy93/personal-security-checklist**](https://github.com/Lissy93/personal-security-checklist)
+🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+23. [**vxunderground/MalwareSourceCode**](https://github.com/vxunderground/MalwareSourceCode)
+Collection of malware source code for a variety of platforms in an array of different programming languages.
+24. [**robmarkcole/satellite-image-deep-learning**](https://github.com/robmarkcole/satellite-image-deep-learning)
+Resources for deep learning with satellite & aerial imagery
+25. [**Anduin2017/HowToCook**](https://github.com/Anduin2017/HowToCook)
+程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**github/copilot-docs**](https://github.com/github/copilot-docs)
 Documentation for GitHub Copilot
 2. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal)
 Investment Research for Everyone, Anywhere.
-3. [**helix-editor/helix**](https://github.com/helix-editor/helix)
+3. [**amplication/amplication**](https://github.com/amplication/amplication)
+Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+4. [**helix-editor/helix**](https://github.com/helix-editor/helix)
 A post-modern modal text editor.
-4. [**alibaba/lowcode-engine**](https://github.com/alibaba/lowcode-engine)
+5. [**alibaba/lowcode-engine**](https://github.com/alibaba/lowcode-engine)
 An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-5. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
-Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-6. [**lapce/lapce**](https://github.com/lapce/lapce)
-Lightning-fast and Powerful Code Editor written in Rust
-7. [**peng-zhihui/ElectronBot**](https://github.com/peng-zhihui/ElectronBot)
-No repo_description
-8. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
+6. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
 Papers from the computer science community to read and discuss.
-9. [**AmruthPillai/Reactive-Resume**](https://github.com/AmruthPillai/Reactive-Resume)
-A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-10. [**rui314/chibicc**](https://github.com/rui314/chibicc)
+7. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
+Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+8. [**lapce/lapce**](https://github.com/lapce/lapce)
+Lightning-fast and Powerful Code Editor written in Rust
+9. [**rui314/chibicc**](https://github.com/rui314/chibicc)
 A small C compiler
-11. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
+10. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
-12. [**peng-zhihui/Dummy-Robot**](https://github.com/peng-zhihui/Dummy-Robot)
-我的超迷你机械臂机器人项目。
-13. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
-A list of Free Software network services and web applications which can be hosted on your own servers
-14. [**openai/DALL-E**](https://github.com/openai/DALL-E)
-PyTorch package for the discrete VAE used for DALL·E.
-15. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
+11. [**peng-zhihui/ElectronBot**](https://github.com/peng-zhihui/ElectronBot)
+No repo_description
+12. [**AmruthPillai/Reactive-Resume**](https://github.com/AmruthPillai/Reactive-Resume)
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+13. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
+Run Nintendo Switch homebrew & games on your Android device!
+14. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
 Pre-Built Vulnerable Environments Based on Docker-Compose
+15. [**peng-zhihui/Dummy-Robot**](https://github.com/peng-zhihui/Dummy-Robot)
+我的超迷你机械臂机器人项目。
 16. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
 Fig adds autocomplete to your terminal.
-17. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
-OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+17. [**cloudreve/Cloudreve**](https://github.com/cloudreve/Cloudreve)
+🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 18. [**nkallen/plasticity**](https://github.com/nkallen/plasticity)
 No repo_description
-19. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
-12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-20. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
-Script to remove Windows 10 bloatware.
-21. [**cloudreve/Cloudreve**](https://github.com/cloudreve/Cloudreve)
-🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-22. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
-Run Nintendo Switch homebrew & games on your Android device!
-23. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
+19. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
+OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+20. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
+A list of Free Software network services and web applications which can be hosted on your own servers
+21. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
 Spring Framework
-24. [**paperless-ngx/paperless-ngx**](https://github.com/paperless-ngx/paperless-ngx)
-A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-25. [**hoppscotch/hoppscotch**](https://github.com/hoppscotch/hoppscotch)
-👽 Open source API development ecosystem - https://hoppscotch.io
+22. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
+Script to remove Windows 10 bloatware.
+23. [**tachiyomiorg/tachiyomi**](https://github.com/tachiyomiorg/tachiyomi)
+Free and open source manga reader for Android.
+24. [**PanJiaChen/vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin)
+🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
+25. [**blawar/ooot**](https://github.com/blawar/ooot)
+No repo_description
 <!-- endtab -->
 {% endtabs %}
