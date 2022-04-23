@@ -11,106 +11,106 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 <!-- tab Daily -->
 1. [**geekan/HowToLiveLonger**](https://github.com/geekan/HowToLiveLonger)
 程序员延寿指南 | A programmer's guide to live longer
-2. [**Grasscutters/Grasscutter**](https://github.com/Grasscutters/Grasscutter)
-A server software reimplementation for a certain anime game.
-3. [**ydb-platform/ydb**](https://github.com/ydb-platform/ydb)
-YDB server (daemon) source code
-4. [**inventree/InvenTree**](https://github.com/inventree/InvenTree)
-Open Source Inventory Management System
-5. [**realm/realm-swift**](https://github.com/realm/realm-swift)
-Realm is a mobile database: a replacement for Core Data & SQLite
-6. [**localstack/localstack**](https://github.com/localstack/localstack)
-💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-7. [**PaddlePaddle/PaddleDetection**](https://github.com/PaddlePaddle/PaddleDetection)
-Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
-8. [**Leaflet/Leaflet**](https://github.com/Leaflet/Leaflet)
-🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-9. [**google/libphonenumber**](https://github.com/google/libphonenumber)
-Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-10. [**protocolbuffers/protobuf**](https://github.com/protocolbuffers/protobuf)
-Protocol Buffers - Google's data interchange format
-11. [**ClemensElflein/OpenMower**](https://github.com/ClemensElflein/OpenMower)
-Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
-12. [**Chia-Network/chia-blockchain**](https://github.com/Chia-Network/chia-blockchain)
-Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
-13. [**doocs/advanced-java**](https://github.com/doocs/advanced-java)
-😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-14. [**calcom/cal.com**](https://github.com/calcom/cal.com)
+2. [**calcom/cal.com**](https://github.com/calcom/cal.com)
 Scheduling infrastructure for absolutely everyone.
-15. [**trustwallet/assets**](https://github.com/trustwallet/assets)
+3. [**gin-gonic/gin**](https://github.com/gin-gonic/gin)
+Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+4. [**KeenSecurityLab/BinAbsInspector**](https://github.com/KeenSecurityLab/BinAbsInspector)
+BinAbsInspector: Vulnerability Scanner for Binaries
+5. [**Grasscutters/Grasscutter**](https://github.com/Grasscutters/Grasscutter)
+A server software reimplementation for a certain anime game.
+6. [**trustwallet/assets**](https://github.com/trustwallet/assets)
 A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-16. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
-📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-17. [**microsoft/terminal**](https://github.com/microsoft/terminal)
-The new Windows Terminal and the original Windows console host, all in the same place!
-18. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
-🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
-19. [**zinclabs/zinc**](https://github.com/zinclabs/zinc)
-Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-20. [**nvm-sh/nvm**](https://github.com/nvm-sh/nvm)
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-21. [**pmmp/PocketMine-MP**](https://github.com/pmmp/PocketMine-MP)
-A server software for Minecraft: Bedrock Edition in PHP
-22. [**dbeaver/dbeaver**](https://github.com/dbeaver/dbeaver)
-Free universal database tool and SQL client
-23. [**mattermost/mattermost-server**](https://github.com/mattermost/mattermost-server)
-Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-24. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
-Fig adds autocomplete to your terminal.
-25. [**alibaba/fastjson2**](https://github.com/alibaba/fastjson2)
-🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
+7. [**localstack/localstack**](https://github.com/localstack/localstack)
+💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+8. [**bloomberg/memray**](https://github.com/bloomberg/memray)
+Memray is a memory profiler for Python
+9. [**dair-ai/ML-Notebooks**](https://github.com/dair-ai/ML-Notebooks)
+🔥 A series of code examples for all sorts of machine learning tasks and applications.
+10. [**riramar/Web-Attack-Cheat-Sheet**](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+Web Attack Cheat Sheet
+11. [**ydb-platform/ydb**](https://github.com/ydb-platform/ydb)
+YDB server (daemon) source code
+12. [**ryanmcdermott/clean-code-javascript**](https://github.com/ryanmcdermott/clean-code-javascript)
+🛁 Clean Code concepts adapted for JavaScript
+13. [**antonmedv/fx**](https://github.com/antonmedv/fx)
+Terminal JSON viewer
+14. [**hehonghui/the-economist-ebooks**](https://github.com/hehonghui/the-economist-ebooks)
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
+15. [**nuxt/framework**](https://github.com/nuxt/framework)
+The Hybrid Vue(3) Framework.
+16. [**MLEveryday/100-Days-Of-ML-Code**](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+100-Days-Of-ML-Code中文版
+17. [**alexa/massive**](https://github.com/alexa/massive)
+Tools and Modeling Code for the MASSIVE dataset
+18. [**AppFlowy-IO/AppFlowy**](https://github.com/AppFlowy-IO/AppFlowy)
+AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+19. [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub)
+分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+20. [**Leaflet/Leaflet**](https://github.com/Leaflet/Leaflet)
+🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+21. [**catchorg/Catch2**](https://github.com/catchorg/Catch2)
+A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+22. [**JetBrains/kotlin**](https://github.com/JetBrains/kotlin)
+The Kotlin Programming Language.
+23. [**denoland/deno**](https://github.com/denoland/deno)
+A modern runtime for JavaScript and TypeScript.
+24. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
+⚙️ NGINX config generator on steroids 💉
+25. [**Eugeny/tabby**](https://github.com/Eugeny/tabby)
+A terminal for a more modern age
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**The-Run-Philosophy-Organization/run**](https://github.com/The-Run-Philosophy-Organization/run)
 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-2. [**JannsenYang/dingdong-helper**](https://github.com/JannsenYang/dingdong-helper)
-叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可
-3. [**lucidrains/DALLE2-pytorch**](https://github.com/lucidrains/DALLE2-pytorch)
-Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
-4. [**fighting41love/funNLP**](https://github.com/fighting41love/funNLP)
-中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
-5. [**medusajs/medusa**](https://github.com/medusajs/medusa)
-The open-source Shopify alternative ⚡️
-6. [**PaddlePaddle/PaddleDetection**](https://github.com/PaddlePaddle/PaddleDetection)
-Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
-7. [**ja-netfilter/ja-netfilter**](https://github.com/ja-netfilter/ja-netfilter)
-A javaagent framework
-8. [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli)
-A cli tool to browse and play anime
-9. [**vlang/v**](https://github.com/vlang/v)
-Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-10. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
-12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-11. [**jCodeLife/mind-map**](https://github.com/jCodeLife/mind-map)
-🖼个人思维导图笔记，已整理JS、TS、Vue、React ... 持续更新中，欢迎 PR 和 Start~
-12. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
-This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
-13. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
-Command-line program to download videos from YouTube.com and other video sites
-14. [**ethereum/solidity**](https://github.com/ethereum/solidity)
-Solidity, the Smart Contract Programming Language
-15. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp)
-freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-16. [**pytube/pytube**](https://github.com/pytube/pytube)
-A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-17. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-18. [**Leaflet/Leaflet**](https://github.com/Leaflet/Leaflet)
-🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-19. [**fastlane/fastlane**](https://github.com/fastlane/fastlane)
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-20. [**facebook/lexical**](https://github.com/facebook/lexical)
+2. [**facebook/lexical**](https://github.com/facebook/lexical)
 Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-21. [**TechXueXi/TechXueXi**](https://github.com/TechXueXi/TechXueXi)
-强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
-22. [**httpie/httpie**](https://github.com/httpie/httpie)
+3. [**JannsenYang/dingdong-helper**](https://github.com/JannsenYang/dingdong-helper)
+叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可
+4. [**medusajs/medusa**](https://github.com/medusajs/medusa)
+The open-source Shopify alternative ⚡️
+5. [**lucidrains/DALLE2-pytorch**](https://github.com/lucidrains/DALLE2-pytorch)
+Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+6. [**Leaflet/Leaflet**](https://github.com/Leaflet/Leaflet)
+🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+7. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
+This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+8. [**vlang/v**](https://github.com/vlang/v)
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+9. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp)
+freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+10. [**trustwallet/assets**](https://github.com/trustwallet/assets)
+A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+11. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
+Short JavaScript code snippets for all your development needs
+12. [**fighting41love/funNLP**](https://github.com/fighting41love/funNLP)
+中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
+13. [**pytube/pytube**](https://github.com/pytube/pytube)
+A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+14. [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl)
+Command-line program to download videos from YouTube.com and other video sites
+15. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+16. [**ethereum/solidity**](https://github.com/ethereum/solidity)
+Solidity, the Smart Contract Programming Language
+17. [**hexops/mach**](https://github.com/hexops/mach)
+Mach is a game engine & graphics toolkit for the future.
+18. [**microsoft/terminal**](https://github.com/microsoft/terminal)
+The new Windows Terminal and the original Windows console host, all in the same place!
+19. [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli)
+A cli tool to browse and play anime
+20. [**ja-netfilter/ja-netfilter**](https://github.com/ja-netfilter/ja-netfilter)
+A javaagent framework
+21. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
+12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+22. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
+Roadmap to becoming a developer in 2022
+23. [**termux/termux-packages**](https://github.com/termux/termux-packages)
+A build system and primary set of packages for Termux.
+24. [**commaai/openpilot**](https://github.com/commaai/openpilot)
+openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+25. [**httpie/httpie**](https://github.com/httpie/httpie)
 As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-23. [**bradtraversy/design-resources-for-developers**](https://github.com/bradtraversy/design-resources-for-developers)
-Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-24. [**GitHubDaily/GitHubDaily**](https://github.com/GitHubDaily/GitHubDaily)
-坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
-25. [**slowmist/Blockchain-dark-forest-selfguard-handbook**](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
-Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**github/copilot-docs**](https://github.com/github/copilot-docs)
@@ -123,44 +123,44 @@ capture SSL/TLS text content without CA cert by eBPF.
 An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 5. [**aptos-labs/aptos-core**](https://github.com/aptos-labs/aptos-core)
 A layer 1 for everyone!
-6. [**HarbourMasters/Shipwright**](https://github.com/HarbourMasters/Shipwright)
-No repo_description
-7. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
-Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-8. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
+6. [**skyline-emu/skyline**](https://github.com/skyline-emu/skyline)
 Run Nintendo Switch homebrew & games on your Android device!
-9. [**amplication/amplication**](https://github.com/amplication/amplication)
-Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-10. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
-🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
-11. [**vlang/v**](https://github.com/vlang/v)
+7. [**vlang/v**](https://github.com/vlang/v)
 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-12. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
+8. [**Sycnex/Windows10Debloater**](https://github.com/Sycnex/Windows10Debloater)
 Script to remove Windows 10 bloatware.
-13. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
-Pre-Built Vulnerable Environments Based on Docker-Compose
-14. [**sunym1993/flash-linux0.11-talk**](https://github.com/sunym1993/flash-linux0.11-talk)
-你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-15. [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted)
-A list of Free Software network services and web applications which can be hosted on your own servers
-16. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
-Spring Framework
-17. [**shengcaishizhan/kkndme_tianya**](https://github.com/shengcaishizhan/kkndme_tianya)
-天涯 kkndme 神贴聊房价
-18. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
-OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
-19. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
-Fig adds autocomplete to your terminal.
-20. [**hehonghui/the-economist-ebooks**](https://github.com/hehonghui/the-economist-ebooks)
+9. [**nocodb/nocodb**](https://github.com/nocodb/nocodb)
+🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+10. [**redwoodjs/redwood**](https://github.com/redwoodjs/redwood)
+The App Framework for Startups
+11. [**hehonghui/the-economist-ebooks**](https://github.com/hehonghui/the-economist-ebooks)
 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
-21. [**nushell/nushell**](https://github.com/nushell/nushell)
-A new type of shell
-22. [**zinclabs/zinc**](https://github.com/zinclabs/zinc)
-Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-23. [**fighting41love/funNLP**](https://github.com/fighting41love/funNLP)
-中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
-24. [**danielgatis/rembg**](https://github.com/danielgatis/rembg)
+12. [**amplication/amplication**](https://github.com/amplication/amplication)
+Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+13. [**sunym1993/flash-linux0.11-talk**](https://github.com/sunym1993/flash-linux0.11-talk)
+你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+14. [**vulhub/vulhub**](https://github.com/vulhub/vulhub)
+Pre-Built Vulnerable Environments Based on Docker-Compose
+15. [**OpenIMSDK/Open-IM-Server**](https://github.com/OpenIMSDK/Open-IM-Server)
+OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+16. [**Leaflet/Leaflet**](https://github.com/Leaflet/Leaflet)
+🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+17. [**danielgatis/rembg**](https://github.com/danielgatis/rembg)
 Rembg is a tool to remove images background.
+18. [**spring-projects/spring-framework**](https://github.com/spring-projects/spring-framework)
+Spring Framework
+19. [**tachiyomiorg/tachiyomi**](https://github.com/tachiyomiorg/tachiyomi)
+Free and open source manga reader for Android.
+20. [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer)
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+21. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
+Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+22. [**withfig/autocomplete**](https://github.com/withfig/autocomplete)
+Fig adds autocomplete to your terminal.
+23. [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates)
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+24. [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh)
+A prompt theme engine for any shell.
 25. [**NVlabs/instant-ngp**](https://github.com/NVlabs/instant-ngp)
 Instant neural graphics primitives: lightning fast NeRF and more
 <!-- endtab -->
