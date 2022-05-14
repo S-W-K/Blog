@@ -82,7 +82,7 @@ Combined Resource Folder from Multiple Sources of certain anime game
 10. [**Vonng/ddia**](https://github.com/Vonng/ddia)
 《Designing Data-Intensive Application》DDIA中文翻译
 11. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
-Open source virtual / remote desktop infrastructure for everyone!
+Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 12. [**Grasscutters/Grasscutter**](https://github.com/Grasscutters/Grasscutter)
 A server software reimplementation for a certain anime game.
 13. [**zadam/trilium**](https://github.com/zadam/trilium)
