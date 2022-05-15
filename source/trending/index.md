@@ -40,7 +40,7 @@ A powerful little TUI framework 🏗
 15. [**databricks-academy/data-engineering-with-databricks**](https://github.com/databricks-academy/data-engineering-with-databricks)
 No repo_description
 16. [**hectorqin/reader**](https://github.com/hectorqin/reader)
-阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element
+阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。🚫请不要fork，点star就好❗️
 17. [**Azure/azure-rest-api-specs**](https://github.com/Azure/azure-rest-api-specs)
 The source for REST API specifications for Microsoft Azure.
 18. [**terra-money/core**](https://github.com/terra-money/core)
