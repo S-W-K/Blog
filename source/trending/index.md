@@ -9,159 +9,159 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**google/googletest**](https://github.com/google/googletest)
-GoogleTest - Google Testing and Mocking Framework
-2. [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates)
-Community curated list of templates for the nuclei engine to find security vulnerabilities.
-3. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
-⚙️ NGINX config generator on steroids 💉
-4. [**flutter/flutter**](https://github.com/flutter/flutter)
+1. [**flutter/flutter**](https://github.com/flutter/flutter)
 Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-5. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
-Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-6. [**flutter/pinball**](https://github.com/flutter/pinball)
-Google I/O 2022 Pinball game built with Flutter and Firebase
-7. [**wolfogre/go-pprof-practice**](https://github.com/wolfogre/go-pprof-practice)
-go pprof practice.
-8. [**supabase/supabase**](https://github.com/supabase/supabase)
-The open source Firebase alternative. Follow to stay updated about our public Beta.
-9. [**felipefialho/frontend-challenges**](https://github.com/felipefialho/frontend-challenges)
-A public list of open-source challenges from companies around the world
-10. [**flutter/samples**](https://github.com/flutter/samples)
-A collection of Flutter examples and demos
-11. [**alibaba/fastjson2**](https://github.com/alibaba/fastjson2)
-🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
-12. [**florinpop17/app-ideas**](https://github.com/florinpop17/app-ideas)
-A Collection of application ideas which can be used to improve your coding skills.
-13. [**charmbracelet/bubbletea**](https://github.com/charmbracelet/bubbletea)
-A powerful little TUI framework 🏗
-14. [**huggingface/transformers**](https://github.com/huggingface/transformers)
-🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-15. [**databricks-academy/data-engineering-with-databricks**](https://github.com/databricks-academy/data-engineering-with-databricks)
+2. [**aptos-labs/aptos-core**](https://github.com/aptos-labs/aptos-core)
+A layer 1 for everyone!
+3. [**getify/You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS)
+A book series on JavaScript. @YDKJS on twitter.
+4. [**android/nowinandroid**](https://github.com/android/nowinandroid)
+A fully functional Android app built entirely with Kotlin and Jetpack Compose
+5. [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates)
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+6. [**google/googletest**](https://github.com/google/googletest)
+GoogleTest - Google Testing and Mocking Framework
+7. [**Cveinnt/LiveTerm**](https://github.com/Cveinnt/LiveTerm)
+💻 Build terminal styled websites in minutes!
+8. [**b3nj5m1n/xdg-ninja**](https://github.com/b3nj5m1n/xdg-ninja)
 No repo_description
-16. [**hectorqin/reader**](https://github.com/hectorqin/reader)
-阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。🚫请不要fork，点star就好❗️
-17. [**Azure/azure-rest-api-specs**](https://github.com/Azure/azure-rest-api-specs)
-The source for REST API specifications for Microsoft Azure.
-18. [**terra-money/core**](https://github.com/terra-money/core)
-GO implementation of the Terra Protocol
-19. [**saltstack/salt**](https://github.com/saltstack/salt)
-Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
-20. [**PKUFlyingPig/cs-self-learning**](https://github.com/PKUFlyingPig/cs-self-learning)
-计算机自学指南
-21. [**actions/virtual-environments**](https://github.com/actions/virtual-environments)
-GitHub Actions virtual environments
-22. [**jojoldu/junior-recruit-scheduler**](https://github.com/jojoldu/junior-recruit-scheduler)
-주니어 개발자 채용 정보
-23. [**dotnet/aspnetcore**](https://github.com/dotnet/aspnetcore)
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-24. [**danielgindi/Charts**](https://github.com/danielgindi/Charts)
-Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-25. [**microsoft/unilm**](https://github.com/microsoft/unilm)
-Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+9. [**Asabeneh/30-Days-Of-JavaScript**](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
+10. [**lapce/lapce**](https://github.com/lapce/lapce)
+Lightning-fast and Powerful Code Editor written in Rust
+11. [**NannyML/nannyml**](https://github.com/NannyML/nannyml)
+Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.
+12. [**Rari-Capital/solmate**](https://github.com/Rari-Capital/solmate)
+Modern, opinionated, and gas optimized building blocks for smart contract development.
+13. [**florinpop17/app-ideas**](https://github.com/florinpop17/app-ideas)
+A Collection of application ideas which can be used to improve your coding skills.
+14. [**HalseySpicy/Geeker-Admin**](https://github.com/HalseySpicy/Geeker-Admin)
+Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。
+15. [**ryanmcdermott/clean-code-javascript**](https://github.com/ryanmcdermott/clean-code-javascript)
+🛁 Clean Code concepts adapted for JavaScript
+16. [**supabase/supabase**](https://github.com/supabase/supabase)
+The open source Firebase alternative. Follow to stay updated about our public Beta.
+17. [**zbezj/HEU_KMS_Activator**](https://github.com/zbezj/HEU_KMS_Activator)
+No repo_description
+18. [**dokku/dokku**](https://github.com/dokku/dokku)
+A docker-powered PaaS that helps you build and manage the lifecycle of applications
+19. [**kunal-kushwaha/DSA-Bootcamp-Java**](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
+20. [**tachiyomiorg/tachiyomi**](https://github.com/tachiyomiorg/tachiyomi)
+Free and open source manga reader for Android.
+21. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+22. [**Fndroid/clash_for_windows_pkg**](https://github.com/Fndroid/clash_for_windows_pkg)
+A Windows/macOS GUI based on Clash
+23. [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome)
+😎 Awesome lists about all kinds of interesting topics
+24. [**PathOfBuildingCommunity/PathOfBuilding**](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
+Offline build planner for Path of Exile.
+25. [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli)
+Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 <!-- endtab -->
 <!-- tab Weekly -->
-1. [**Tencent/tmagic-editor**](https://github.com/Tencent/tmagic-editor)
-No repo_description
-2. [**facebookresearch/metaseq**](https://github.com/facebookresearch/metaseq)
-Repo for external large-scale work
-3. [**pyscript/pyscript**](https://github.com/pyscript/pyscript)
-No repo_description
-4. [**programthink/zhao**](https://github.com/programthink/zhao)
-【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-5. [**education/GitHubGraduation-2022**](https://github.com/education/GitHubGraduation-2022)
-Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
-6. [**microsoft/Microsoft-3D-Movie-Maker**](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
-This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
-7. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
+1. [**terra-money/core**](https://github.com/terra-money/core)
+GO implementation of the Terra Protocol
+2. [**microsoft/Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners)
 24 Lessons, 12 Weeks, Get Started as a Web Developer
-8. [**gogs/gogs**](https://github.com/gogs/gogs)
-Gogs is a painless self-hosted Git service
-9. [**Koko-boya/Grasscutter_Resources**](https://github.com/Koko-boya/Grasscutter_Resources)
+3. [**flutter/samples**](https://github.com/flutter/samples)
+A collection of Flutter examples and demos
+4. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
+⚙️ NGINX config generator on steroids 💉
+5. [**Koko-boya/Grasscutter_Resources**](https://github.com/Koko-boya/Grasscutter_Resources)
 Combined Resource Folder from Multiple Sources of certain anime game
-10. [**Vonng/ddia**](https://github.com/Vonng/ddia)
-《Designing Data-Intensive Application》DDIA中文翻译
-11. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
-Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
-12. [**Grasscutters/Grasscutter**](https://github.com/Grasscutters/Grasscutter)
-A server software reimplementation for a certain anime game.
-13. [**zadam/trilium**](https://github.com/zadam/trilium)
-Build your personal knowledge base with Trilium Notes
-14. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
-Build smaller, faster, and more secure desktop applications with a web frontend.
-15. [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates)
-Community curated list of templates for the nuclei engine to find security vulnerabilities.
-16. [**NvChad/NvChad**](https://github.com/NvChad/NvChad)
-An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
-17. [**onceupon/Bash-Oneliner**](https://github.com/onceupon/Bash-Oneliner)
-A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-18. [**SebLague/Geographical-Adventures**](https://github.com/SebLague/Geographical-Adventures)
+6. [**Tencent/tmagic-editor**](https://github.com/Tencent/tmagic-editor)
 No repo_description
-19. [**sunface/rust-course**](https://github.com/sunface/rust-course)
-“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
-20. [**docker/awesome-compose**](https://github.com/docker/awesome-compose)
-Awesome Docker Compose samples
-21. [**alibaba/fastjson2**](https://github.com/alibaba/fastjson2)
+7. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
+Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+8. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
+Build smaller, faster, and more secure desktop applications with a web frontend.
+9. [**projectdiscovery/nuclei-templates**](https://github.com/projectdiscovery/nuclei-templates)
+Community curated list of templates for the nuclei engine to find security vulnerabilities.
+10. [**1Marc/todomvc-vanillajs-2022**](https://github.com/1Marc/todomvc-vanillajs-2022)
+Vanilla JS TodoMVC App in 2022
+11. [**facebookresearch/metaseq**](https://github.com/facebookresearch/metaseq)
+Repo for external large-scale work
+12. [**flutter/flutter**](https://github.com/flutter/flutter)
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+13. [**alibaba/fastjson2**](https://github.com/alibaba/fastjson2)
 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
-22. [**bitwarden/clients**](https://github.com/bitwarden/clients)
-Bitwarden client applications (web, browser extension, desktop, and cli)
-23. [**microsoft/calculator**](https://github.com/microsoft/calculator)
+14. [**gogs/gogs**](https://github.com/gogs/gogs)
+Gogs is a painless self-hosted Git service
+15. [**0x192/universal-android-debloater**](https://github.com/0x192/universal-android-debloater)
+Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+16. [**lapce/lapce**](https://github.com/lapce/lapce)
+Lightning-fast and Powerful Code Editor written in Rust
+17. [**NvChad/NvChad**](https://github.com/NvChad/NvChad)
+An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
+18. [**simonbs/Runestone**](https://github.com/simonbs/Runestone)
+📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
+19. [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome)
+😎 Awesome lists about all kinds of interesting topics
+20. [**microsoft/calculator**](https://github.com/microsoft/calculator)
 Windows Calculator: A simple yet powerful calculator that ships with Windows
-24. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
-Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-25. [**go-kratos/kratos**](https://github.com/go-kratos/kratos)
+21. [**supabase/supabase**](https://github.com/supabase/supabase)
+The open source Firebase alternative. Follow to stay updated about our public Beta.
+22. [**huggingface/datasets**](https://github.com/huggingface/datasets)
+🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+23. [**go-kratos/kratos**](https://github.com/go-kratos/kratos)
 Your ultimate Go microservices framework for the cloud-native era.
+24. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
+Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+25. [**google/iosched**](https://github.com/google/iosched)
+The Google I/O Android App
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**The-Run-Philosophy-Organization/run**](https://github.com/The-Run-Philosophy-Organization/run)
 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-2. [**hehonghui/the-economist-ebooks**](https://github.com/hehonghui/the-economist-ebooks)
+2. [**lucidrains/DALLE2-pytorch**](https://github.com/lucidrains/DALLE2-pytorch)
+Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+3. [**hehonghui/the-economist-ebooks**](https://github.com/hehonghui/the-economist-ebooks)
 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
-3. [**JannsenYang/dingdong-helper**](https://github.com/JannsenYang/dingdong-helper)
-叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可
 4. [**alembics/disco-diffusion**](https://github.com/alembics/disco-diffusion)
 No repo_description
-5. [**mastodon/mastodon**](https://github.com/mastodon/mastodon)
-Your self-hosted, globally interconnected microblogging community
-6. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
+5. [**SebLague/Geographical-Adventures**](https://github.com/SebLague/Geographical-Adventures)
+No repo_description
+6. [**httpie/httpie**](https://github.com/httpie/httpie)
+As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+7. [**microsoft/ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-7. [**SebLague/Geographical-Adventures**](https://github.com/SebLague/Geographical-Adventures)
-No repo_description
-8. [**Vonng/ddia**](https://github.com/Vonng/ddia)
-《Designing Data-Intensive Application》DDIA中文翻译
-9. [**openai/DALL-E**](https://github.com/openai/DALL-E)
-PyTorch package for the discrete VAE used for DALL·E.
-10. [**pytube/pytube**](https://github.com/pytube/pytube)
-A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-11. [**sunflower-land/sunflower-land**](https://github.com/sunflower-land/sunflower-land)
-No repo_description
-12. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
-Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-13. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
-This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
-14. [**vlang/v**](https://github.com/vlang/v)
-Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-15. [**aptos-labs/aptos-core**](https://github.com/aptos-labs/aptos-core)
+8. [**aptos-labs/aptos-core**](https://github.com/aptos-labs/aptos-core)
 A layer 1 for everyone!
-16. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-17. [**bevyengine/bevy**](https://github.com/bevyengine/bevy)
-A refreshingly simple data-driven game engine built in Rust
-18. [**PaddlePaddle/PaddleDetection**](https://github.com/PaddlePaddle/PaddleDetection)
-Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
-19. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
+9. [**mastodon/mastodon**](https://github.com/mastodon/mastodon)
+Your self-hosted, globally interconnected microblogging community
+10. [**sunflower-land/sunflower-land**](https://github.com/sunflower-land/sunflower-land)
+No repo_description
+11. [**terra-money/core**](https://github.com/terra-money/core)
+GO implementation of the Terra Protocol
+12. [**pytube/pytube**](https://github.com/pytube/pytube)
+A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+13. [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith)
+Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+14. [**Vonng/ddia**](https://github.com/Vonng/ddia)
+《Designing Data-Intensive Application》DDIA中文翻译
+15. [**openai/DALL-E**](https://github.com/openai/DALL-E)
+PyTorch package for the discrete VAE used for DALL·E.
+16. [**facebook/lexical**](https://github.com/facebook/lexical)
+Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+17. [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR)
 Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-20. [**fighting41love/funNLP**](https://github.com/fighting41love/funNLP)
-中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
-21. [**Textualize/textual**](https://github.com/Textualize/textual)
-Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-22. [**openai/CLIP**](https://github.com/openai/CLIP)
-Contrastive Language-Image Pretraining
-23. [**papers-we-love/papers-we-love**](https://github.com/papers-we-love/papers-we-love)
-Papers from the computer science community to read and discuss.
-24. [**benbjohnson/litestream**](https://github.com/benbjohnson/litestream)
+18. [**benbjohnson/litestream**](https://github.com/benbjohnson/litestream)
 Streaming replication for SQLite.
-25. [**neovim/neovim**](https://github.com/neovim/neovim)
-Vim-fork focused on extensibility and usability
+19. [**vlang/v**](https://github.com/vlang/v)
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+20. [**Textualize/textual**](https://github.com/Textualize/textual)
+Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+21. [**google/googletest**](https://github.com/google/googletest)
+GoogleTest - Google Testing and Mocking Framework
+22. [**bevyengine/bevy**](https://github.com/bevyengine/bevy)
+A refreshingly simple data-driven game engine built in Rust
+23. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
+50+ mini web projects using HTML, CSS & JS
+24. [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk)
+Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+25. [**PaddlePaddle/PaddleDetection**](https://github.com/PaddlePaddle/PaddleDetection)
+Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 <!-- endtab -->
 {% endtabs %}
