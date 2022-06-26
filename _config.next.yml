@@ -127,7 +127,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: https://i.loli.net/2021/05/25/sFAPQlJjg7nCHhT.gif
+  url: https://raw.githubusercontent.com/S-W-K/Images/master/img/sFAPQlJjg7nCHhT.gif 
   # If true, the avatar will be dispalyed in circle.
   rounded: true
    #If true, the avatar will be rotated with the cursor.
