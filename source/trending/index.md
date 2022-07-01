@@ -9,54 +9,56 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-2. [**Azure/azureml-examples**](https://github.com/Azure/azureml-examples)
-Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
-3. [**TheAlgorithms/Rust**](https://github.com/TheAlgorithms/Rust)
-All Algorithms implemented in Rust
-4. [**practical-tutorials/project-based-learning**](https://github.com/practical-tutorials/project-based-learning)
-Curated list of project-based tutorials
-5. [**facebook/folly**](https://github.com/facebook/folly)
-An open-source C++ library developed and used at Facebook.
-6. [**D3Ext/WEF**](https://github.com/D3Ext/WEF)
-Wi-Fi Exploitation Framework
-7. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-8. [**Hack-with-Github/Awesome-Hacking**](https://github.com/Hack-with-Github/Awesome-Hacking)
-A collection of various awesome lists for hackers, pentesters and security researchers
-9. [**meituan/YOLOv6**](https://github.com/meituan/YOLOv6)
-YOLOv6: a single-stage object detection framework dedicated to industrial applications.
-10. [**qiangmzsx/Software-Engineering-at-Google**](https://github.com/qiangmzsx/Software-Engineering-at-Google)
-《Software Engineering at Google》的中文翻译版本
-11. [**edoardottt/awesome-hacker-search-engines**](https://github.com/edoardottt/awesome-hacker-search-engines)
-A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
-12. [**carlospolop/PEASS-ng**](https://github.com/carlospolop/PEASS-ng)
-PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-13. [**liu673cn/mao**](https://github.com/liu673cn/mao)
-猫影视TV（停运）---> TVbox（空壳）
-14. [**faif/python-patterns**](https://github.com/faif/python-patterns)
-A collection of design patterns/idioms in Python
-15. [**bregman-arie/devops-resources**](https://github.com/bregman-arie/devops-resources)
-DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-16. [**denoland/fresh**](https://github.com/denoland/fresh)
+1. [**delta-io/delta**](https://github.com/delta-io/delta)
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+2. [**denoland/fresh**](https://github.com/denoland/fresh)
 The next-gen web framework.
-17. [**521xueweihan/HelloGitHub**](https://github.com/521xueweihan/HelloGitHub)
-分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-18. [**vim/vim**](https://github.com/vim/vim)
+3. [**Azure/azureml-examples**](https://github.com/Azure/azureml-examples)
+Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
+4. [**dair-ai/ML-Course-Notes**](https://github.com/dair-ai/ML-Course-Notes)
+🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
+5. [**edoardottt/awesome-hacker-search-engines**](https://github.com/edoardottt/awesome-hacker-search-engines)
+A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
+6. [**qq8e/qq**](https://github.com/qq8e/qq)
+8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多
+7. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+8. [**facebook/folly**](https://github.com/facebook/folly)
+An open-source C++ library developed and used at Facebook.
+9. [**storybookjs/storybook**](https://github.com/storybookjs/storybook)
+📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+10. [**jinfagang/yolov7**](https://github.com/jinfagang/yolov7)
+🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
+11. [**ascoders/weekly**](https://github.com/ascoders/weekly)
+前端精读周刊。帮你理解最前沿、实用的技术。
+12. [**D3Ext/WEF**](https://github.com/D3Ext/WEF)
+Wi-Fi Exploitation Framework
+13. [**remix-run/remix**](https://github.com/remix-run/remix)
+Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+14. [**dotnet/maui**](https://github.com/dotnet/maui)
+.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+15. [**directus/directus**](https://github.com/directus/directus)
+The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+16. [**aolofsson/awesome-opensource-hardware**](https://github.com/aolofsson/awesome-opensource-hardware)
+List of awesome open source hardware projects
+17. [**GrowingGit/GitHub-Chinese-Top-Charts**](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+18. [**Hack-with-Github/Awesome-Hacking**](https://github.com/Hack-with-Github/Awesome-Hacking)
+A collection of various awesome lists for hackers, pentesters and security researchers
+19. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
+This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+20. [**lydiahallie/javascript-questions**](https://github.com/lydiahallie/javascript-questions)
+A long list of (advanced) JavaScript questions, and their explanations ✨
+21. [**vercel/next.js**](https://github.com/vercel/next.js)
+The React Framework
+22. [**kuprel/min-dalle**](https://github.com/kuprel/min-dalle)
+min(DALL·E) is a minimal implementation of DALL·E Mini in PyTorch
+23. [**kubernetes-sigs/kubespray**](https://github.com/kubernetes-sigs/kubespray)
+Deploy a Production Ready Kubernetes Cluster
+24. [**vim/vim**](https://github.com/vim/vim)
 The official Vim repository
-19. [**tldraw/tldraw**](https://github.com/tldraw/tldraw)
-A tiny little drawing app.
-20. [**public-apis/public-apis**](https://github.com/public-apis/public-apis)
-A collective list of free APIs
-21. [**pterodactyl/panel**](https://github.com/pterodactyl/panel)
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-22. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
-📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-23. [**angular/angular**](https://github.com/angular/angular)
-The modern web developer’s platform
-24. [**payloadcms/payload**](https://github.com/payloadcms/payload)
-Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
+25. [**qiangmzsx/Software-Engineering-at-Google**](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+《Software Engineering at Google》的中文翻译版本
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**Tencent/spring-cloud-tencent**](https://github.com/Tencent/spring-cloud-tencent)
@@ -65,101 +67,101 @@ Spring Cloud Tencent is a Spring Boot based Service Governance Framework provide
 Tooll 3 is an open source software to create realtime motion graphics.
 3. [**cloudwego/hertz**](https://github.com/cloudwego/hertz)
 A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-4. [**girliemac/a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
-I am trying to describe complex matters in simple doodles!
-5. [**mingrammer/diagrams**](https://github.com/mingrammer/diagrams)
-🎨 Diagram as Code for prototyping cloud system architectures
-6. [**rxyhn/dotfiles**](https://github.com/rxyhn/dotfiles)
+4. [**rxyhn/dotfiles**](https://github.com/rxyhn/dotfiles)
 My awesomewm dotfiles for awesome people! ✨
-7. [**jordibruin/Swift-Charts-Examples**](https://github.com/jordibruin/Swift-Charts-Examples)
-An overview of the different types of charts you can make with Swift Charts
+5. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+6. [**girliemac/a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
+I am trying to describe complex matters in simple doodles!
+7. [**mingrammer/diagrams**](https://github.com/mingrammer/diagrams)
+🎨 Diagram as Code for prototyping cloud system architectures
 8. [**milvus-io/milvus**](https://github.com/milvus-io/milvus)
 Vector database for scalable similarity search and AI applications.
-9. [**hashicorp/nomad**](https://github.com/hashicorp/nomad)
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-10. [**calcom/cal.com**](https://github.com/calcom/cal.com)
-Scheduling infrastructure for absolutely everyone.
-11. [**kraanzu/dooit**](https://github.com/kraanzu/dooit)
-A TUI todo manager
-12. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal)
+9. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal)
 Investment Research for Everyone, Anywhere.
+10. [**LunarVim/nvim-basic-ide**](https://github.com/LunarVim/nvim-basic-ide)
+This is my attempt at a basic stable starting point for a Neovim IDE.
+11. [**delta-io/delta**](https://github.com/delta-io/delta)
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+12. [**hibiken/asynq**](https://github.com/hibiken/asynq)
+Simple, reliable, and efficient distributed task queue in Go
 13. [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool)
 ALL IN ONE Hacking Tool For Hackers
-14. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+14. [**calcom/cal.com**](https://github.com/calcom/cal.com)
+Scheduling infrastructure for absolutely everyone.
+15. [**denoland/fresh**](https://github.com/denoland/fresh)
+The next-gen web framework.
+16. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
-15. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-16. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
-Build smaller, faster, and more secure desktop applications with a web frontend.
-17. [**hibiken/asynq**](https://github.com/hibiken/asynq)
-Simple, reliable, and efficient distributed task queue in Go
-18. [**NVlabs/nvdiffrec**](https://github.com/NVlabs/nvdiffrec)
-Official code for the CVPR 2022 (oral) paper "Extracting Triangular 3D Models, Materials, and Lighting From Images".
-19. [**OAI/OpenAPI-Specification**](https://github.com/OAI/OpenAPI-Specification)
-The OpenAPI Specification Repository
-20. [**fastlane/fastlane**](https://github.com/fastlane/fastlane)
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-21. [**zhiqi-li/BEVFormer**](https://github.com/zhiqi-li/BEVFormer)
-This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
-22. [**mattermost/mattermost-server**](https://github.com/mattermost/mattermost-server)
-Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-23. [**google/leveldb**](https://github.com/google/leveldb)
+17. [**pterodactyl/panel**](https://github.com/pterodactyl/panel)
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+18. [**rizinorg/cutter**](https://github.com/rizinorg/cutter)
+Free and Open Source Reverse Engineering Platform powered by rizin
+19. [**justjavac/free-programming-books-zh_CN**](https://github.com/justjavac/free-programming-books-zh_CN)
+📚 免费的计算机编程类中文书籍，欢迎投稿
+20. [**BuilderIO/qwik**](https://github.com/BuilderIO/qwik)
+The HTML-first framework. Initialize apps of any size with < 1kb JS
+21. [**google/leveldb**](https://github.com/google/leveldb)
 LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-24. [**zulip/zulip**](https://github.com/zulip/zulip)
-Zulip server and web app—powerful open source team chat
-25. [**cloudflare/quiche**](https://github.com/cloudflare/quiche)
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+22. [**easychen/lean-side-bussiness**](https://github.com/easychen/lean-side-bussiness)
+精益副业：程序员如何优雅地做副业
+23. [**ascoders/weekly**](https://github.com/ascoders/weekly)
+前端精读周刊。帮你理解最前沿、实用的技术。
+24. [**GPUOpen-Effects/FidelityFX-FSR2**](https://github.com/GPUOpen-Effects/FidelityFX-FSR2)
+FidelityFX Super Resolution 2
+25. [**chinese-poetry/chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
+The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**borisdayma/dalle-mini**](https://github.com/borisdayma/dalle-mini)
 DALL·E Mini - Generate images from a text prompt
-2. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
+2. [**elebumm/RedditVideoMakerBot**](https://github.com/elebumm/RedditVideoMakerBot)
+Create Reddit Videos with just✨ one command ✨
+3. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
 50+ mini web projects using HTML, CSS & JS
-3. [**dragonflydb/dragonfly**](https://github.com/dragonflydb/dragonfly)
-A modern replacement for Redis and Memcached
 4. [**mingrammer/diagrams**](https://github.com/mingrammer/diagrams)
 🎨 Diagram as Code for prototyping cloud system architectures
-5. [**iperov/DeepFaceLive**](https://github.com/iperov/DeepFaceLive)
-Real-time face swap for PC streaming or video calls
-6. [**google/jax**](https://github.com/google/jax)
-Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-7. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
+5. [**JohnHammond/msdt-follina**](https://github.com/JohnHammond/msdt-follina)
+Codebase to generate an msdt-follina payload
+6. [**smartcontractkit/full-blockchain-solidity-course-js**](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+7. [**dragonflydb/dragonfly**](https://github.com/dragonflydb/dragonfly)
+A modern replacement for Redis and Memcached
+8. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
 ⚙️ NGINX config generator on steroids 💉
-8. [**openai/DALL-E**](https://github.com/openai/DALL-E)
+9. [**google/jax**](https://github.com/google/jax)
+Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+10. [**openai/DALL-E**](https://github.com/openai/DALL-E)
 PyTorch package for the discrete VAE used for DALL·E.
-9. [**doocs/source-code-hunter**](https://github.com/doocs/source-code-hunter)
+11. [**doocs/source-code-hunter**](https://github.com/doocs/source-code-hunter)
 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-10. [**lucidrains/imagen-pytorch**](https://github.com/lucidrains/imagen-pytorch)
-Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
-11. [**hyprwm/Hyprland**](https://github.com/hyprwm/Hyprland)
+12. [**iperov/DeepFaceLive**](https://github.com/iperov/DeepFaceLive)
+Real-time face swap for PC streaming or video calls
+13. [**hyprwm/Hyprland**](https://github.com/hyprwm/Hyprland)
 Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-12. [**ory/kratos**](https://github.com/ory/kratos)
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-13. [**Lissy93/dashy**](https://github.com/Lissy93/dashy)
+14. [**Lissy93/dashy**](https://github.com/Lissy93/dashy)
 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-14. [**samber/lo**](https://github.com/samber/lo)
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-15. [**facebook/folly**](https://github.com/facebook/folly)
+15. [**lucidrains/imagen-pytorch**](https://github.com/lucidrains/imagen-pytorch)
+Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
+16. [**ory/kratos**](https://github.com/ory/kratos)
+Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+17. [**facebook/folly**](https://github.com/facebook/folly)
 An open-source C++ library developed and used at Facebook.
-16. [**elastic/eui**](https://github.com/elastic/eui)
-Elastic UI Framework 🙌
-17. [**cypress-io/cypress**](https://github.com/cypress-io/cypress)
-Fast, easy and reliable testing for anything that runs in a browser.
-18. [**vuejs/vitepress**](https://github.com/vuejs/vitepress)
-Vite & Vue powered static site generator.
-19. [**wailsapp/wails**](https://github.com/wailsapp/wails)
-Create beautiful applications using Go
-20. [**wazuh/wazuh**](https://github.com/wazuh/wazuh)
-Wazuh - The Open Source Security Platform
-21. [**QSCTech/zju-icicles**](https://github.com/QSCTech/zju-icicles)
+18. [**QSCTech/zju-icicles**](https://github.com/QSCTech/zju-icicles)
 浙江大学课程攻略共享计划
-22. [**google/zx**](https://github.com/google/zx)
-A tool for writing better scripts
-23. [**tinygo-org/tinygo**](https://github.com/tinygo-org/tinygo)
-Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-24. [**alan2207/bulletproof-react**](https://github.com/alan2207/bulletproof-react)
+19. [**wazuh/wazuh**](https://github.com/wazuh/wazuh)
+Wazuh - The Open Source Security Platform
+20. [**alan2207/bulletproof-react**](https://github.com/alan2207/bulletproof-react)
 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-25. [**ossu/computer-science**](https://github.com/ossu/computer-science)
-🎓 Path to a free self-taught education in Computer Science!
+21. [**elastic/eui**](https://github.com/elastic/eui)
+Elastic UI Framework 🙌
+22. [**tinygo-org/tinygo**](https://github.com/tinygo-org/tinygo)
+Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+23. [**samber/lo**](https://github.com/samber/lo)
+💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+24. [**vuejs/vitepress**](https://github.com/vuejs/vitepress)
+Vite & Vue powered static site generator.
+25. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
+Build smaller, faster, and more secure desktop applications with a web frontend.
 <!-- endtab -->
 {% endtabs %}
