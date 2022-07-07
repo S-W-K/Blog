@@ -9,108 +9,108 @@ Auto-deployed with [Github Action](https://docs.github.com/en/actions)
 
 {% tabs TAB %}
 <!-- tab Daily -->
-1. [**WhaleFell/SMSBoom**](https://github.com/WhaleFell/SMSBoom)
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
-2. [**searxng/searxng**](https://github.com/searxng/searxng)
-SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-3. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
-All Algorithms implemented in Python
-4. [**mtdvio/every-programmer-should-know**](https://github.com/mtdvio/every-programmer-should-know)
-A collection of (mostly) technical things every software developer should know about
-5. [**webhdx/PicoBoot**](https://github.com/webhdx/PicoBoot)
-Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube
-6. [**soimort/you-get**](https://github.com/soimort/you-get)
-⏬ Dumb downloader that scrapes the web
-7. [**t3-oss/create-t3-app**](https://github.com/t3-oss/create-t3-app)
-Quickest way to start a new web app with full stack typesafety
-8. [**jaywcjlove/awesome-mac**](https://github.com/jaywcjlove/awesome-mac)
- Now we have become very big, Different from the original idea. Collect premium software in various categories.
-9. [**searxng/searxng-docker**](https://github.com/searxng/searxng-docker)
-The docker-compose files for setting up a SearXNG instance with docker.
-10. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
+1. [**OpenEthan/SMSBoom**](https://github.com/OpenEthan/SMSBoom)
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+2. [**awesomekling/ladybird**](https://github.com/awesomekling/ladybird)
+Ladybird web browser
+3. [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock)
 🔎 Hunt down social media accounts by username across social networks
-11. [**chatwoot/chatwoot**](https://github.com/chatwoot/chatwoot)
+4. [**getify/youperiod.app**](https://github.com/getify/youperiod.app)
+YouPeriod.app -- the privacy-first period tracking app
+5. [**t3-oss/create-t3-app**](https://github.com/t3-oss/create-t3-app)
+Quickest way to start a new web app with full stack typesafety
+6. [**hemanth/functional-programming-jargon**](https://github.com/hemanth/functional-programming-jargon)
+Jargon from the functional programming world in simple terms!
+7. [**alexbieber/Bug_Bounty_writeups**](https://github.com/alexbieber/Bug_Bounty_writeups)
+BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔
+8. [**google/google-ctf**](https://github.com/google/google-ctf)
+Google CTF
+9. [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python)
+All Algorithms implemented in Python
+10. [**h33tlit/secret-regex-list**](https://github.com/h33tlit/secret-regex-list)
+List of regex for scraping secret API keys and juicy information.
+11. [**starlite-api/starlite**](https://github.com/starlite-api/starlite)
+Light, Flexible and Extensible ASGI API framework
+12. [**chatwoot/chatwoot**](https://github.com/chatwoot/chatwoot)
 Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-12. [**solidjs/solid**](https://github.com/solidjs/solid)
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
-13. [**kwea123/ngp_pl**](https://github.com/kwea123/ngp_pl)
-Instant-ngp in pytorch+cuda trained with pytorch-lightning (high quality with high speed, with only few lines of legible code)
-14. [**LearningOS/rust-based-os-comp2022**](https://github.com/LearningOS/rust-based-os-comp2022)
-[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
-15. [**30-seconds/30-seconds-of-code**](https://github.com/30-seconds/30-seconds-of-code)
-Short JavaScript code snippets for all your development needs
-16. [**SerenityOS/serenity**](https://github.com/SerenityOS/serenity)
-The Serenity Operating System 🐞
-17. [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x)
-Master programming by recreating your favorite technologies from scratch.
-18. [**Megvii-BaseDetection/YOLOX**](https://github.com/Megvii-BaseDetection/YOLOX)
-YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
-19. [**4ian/GDevelop**](https://github.com/4ian/GDevelop)
-🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
-20. [**eugenp/tutorials**](https://github.com/eugenp/tutorials)
-Just Announced - "Learn Spring Security OAuth":
-21. [**torvalds/linux**](https://github.com/torvalds/linux)
-Linux kernel source tree
-22. [**catchorg/Catch2**](https://github.com/catchorg/Catch2)
-A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-23. [**nvm-sh/nvm**](https://github.com/nvm-sh/nvm)
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-24. [**babysor/MockingBird**](https://github.com/babysor/MockingBird)
-🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-25. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
-千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。
+13. [**angular/angular-cli**](https://github.com/angular/angular-cli)
+CLI tool for Angular
+14. [**KasperskyLab/TinyCheck**](https://github.com/KasperskyLab/TinyCheck)
+TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…
+15. [**DrKLO/Telegram**](https://github.com/DrKLO/Telegram)
+Telegram for Android source
+16. [**Yin-Hongwei/music-website**](https://github.com/Yin-Hongwei/music-website)
+🎧 Vue + SpringBoot + MyBatis 音乐网站
+17. [**gustavoguanabara/html-css**](https://github.com/gustavoguanabara/html-css)
+Curso de HTML5 e CSS3
+18. [**rancher/rancher**](https://github.com/rancher/rancher)
+Complete container management platform
+19. [**secretflow/secretflow**](https://github.com/secretflow/secretflow)
+A unified framework for privacy-preserving data analysis and machine learning
+20. [**operator-framework/operator-sdk**](https://github.com/operator-framework/operator-sdk)
+SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+21. [**soimort/you-get**](https://github.com/soimort/you-get)
+⏬ Dumb downloader that scrapes the web
+22. [**mui/material-ui**](https://github.com/mui/material-ui)
+MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+23. [**pola-rs/polars**](https://github.com/pola-rs/polars)
+Fast multi-threaded DataFrame library in Rust | Python | Node.js
+24. [**itsnebulalol/permasigner**](https://github.com/itsnebulalol/permasigner)
+🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
+25. [**geohot/tinygrad**](https://github.com/geohot/tinygrad)
+You like pytorch? You like micrograd? You love tinygrad! ❤️
 <!-- endtab -->
 <!-- tab Weekly -->
 1. [**denoland/fresh**](https://github.com/denoland/fresh)
 The next-gen web framework.
-2. [**WhaleFell/SMSBoom**](https://github.com/WhaleFell/SMSBoom)
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+2. [**delta-io/delta**](https://github.com/delta-io/delta)
+An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 3. [**meituan/YOLOv6**](https://github.com/meituan/YOLOv6)
 YOLOv6: a single-stage object detection framework dedicated to industrial applications.
-4. [**delta-io/delta**](https://github.com/delta-io/delta)
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
-5. [**insidegui/VirtualBuddy**](https://github.com/insidegui/VirtualBuddy)
-Virtualize macOS 12 and later on Apple Silicon
-6. [**vim/vim**](https://github.com/vim/vim)
+4. [**vim/vim**](https://github.com/vim/vim)
 The official Vim repository
-7. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-8. [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
-📚 Freely available programming books
-9. [**autowarefoundation/autoware**](https://github.com/autowarefoundation/autoware)
+5. [**autowarefoundation/autoware**](https://github.com/autowarefoundation/autoware)
 Autoware - the world's leading open-source software project for autonomous driving
-10. [**Azure/azureml-examples**](https://github.com/Azure/azureml-examples)
-Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
-11. [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool)
-ALL IN ONE Hacking Tool For Hackers
-12. [**pterodactyl/panel**](https://github.com/pterodactyl/panel)
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-13. [**tuyoogame/huatuo**](https://github.com/tuyoogame/huatuo)
-huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix
-14. [**CatVodTVOfficial/TVBoxOSC**](https://github.com/CatVodTVOfficial/TVBoxOSC)
-开发阶段请不要提没有意义的PR，也不要用PR来提意见！
-15. [**neovim/neovim**](https://github.com/neovim/neovim)
-Vim-fork focused on extensibility and usability
-16. [**TanStack/table**](https://github.com/TanStack/table)
-🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table
-17. [**vlang/v**](https://github.com/vlang/v)
-Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
-18. [**alibaba/DataX**](https://github.com/alibaba/DataX)
-DataX是阿里云DataWorks数据集成的开源版本。
-19. [**gophish/gophish**](https://github.com/gophish/gophish)
-Open-Source Phishing Toolkit
-20. [**datafold/data-diff**](https://github.com/datafold/data-diff)
-Efficiently diff rows across two different databases.
-21. [**still-scene/t3**](https://github.com/still-scene/t3)
-Tooll 3 is an open source software to create realtime motion graphics.
-22. [**opensumi/core**](https://github.com/opensumi/core)
-🚀 A framework helps you quickly build Cloud or Desktop IDE products.
-23. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
+6. [**kamranahmedse/developer-roadmap**](https://github.com/kamranahmedse/developer-roadmap)
 Roadmap to becoming a developer in 2022
-24. [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms)
-📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-25. [**paritytech/polkadot**](https://github.com/paritytech/polkadot)
+7. [**Azure/azureml-examples**](https://github.com/Azure/azureml-examples)
+Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
+8. [**opensumi/core**](https://github.com/opensumi/core)
+🚀 A framework helps you quickly build Cloud or Desktop IDE products.
+9. [**tuyoogame/huatuo**](https://github.com/tuyoogame/huatuo)
+huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix
+10. [**vlang/v**](https://github.com/vlang/v)
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
+11. [**pterodactyl/panel**](https://github.com/pterodactyl/panel)
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+12. [**appwrite/appwrite**](https://github.com/appwrite/appwrite)
+Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+13. [**paritytech/polkadot**](https://github.com/paritytech/polkadot)
 Polkadot Node Implementation
+14. [**StarRocks/starrocks**](https://github.com/StarRocks/starrocks)
+StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
+15. [**geohot/tinygrad**](https://github.com/geohot/tinygrad)
+You like pytorch? You like micrograd? You love tinygrad! ❤️
+16. [**ultralytics/yolov5**](https://github.com/ultralytics/yolov5)
+YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+17. [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli)
+A cli tool to browse and play anime
+18. [**sveltejs/svelte**](https://github.com/sveltejs/svelte)
+Cybernetically enhanced web apps
+19. [**MichaelCade/90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)
+This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+20. [**OpenEthan/SMSBoom**](https://github.com/OpenEthan/SMSBoom)
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+21. [**mtdvio/every-programmer-should-know**](https://github.com/mtdvio/every-programmer-should-know)
+A collection of (mostly) technical things every software developer should know about
+22. [**pallets/flask**](https://github.com/pallets/flask)
+The Python micro framework for building web applications.
+23. [**edoardottt/awesome-hacker-search-engines**](https://github.com/edoardottt/awesome-hacker-search-engines)
+A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
+24. [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy)
+A new bootable USB solution.
+25. [**searxng/searxng**](https://github.com/searxng/searxng)
+SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 <!-- endtab -->
 <!-- tab Monthly -->
 1. [**borisdayma/dalle-mini**](https://github.com/borisdayma/dalle-mini)
@@ -119,49 +119,49 @@ DALL·E Mini - Generate images from a text prompt
 🎨 Diagram as Code for prototyping cloud system architectures
 3. [**openai/DALL-E**](https://github.com/openai/DALL-E)
 PyTorch package for the discrete VAE used for DALL·E.
-4. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
-50+ mini web projects using HTML, CSS & JS
-5. [**elebumm/RedditVideoMakerBot**](https://github.com/elebumm/RedditVideoMakerBot)
+4. [**elebumm/RedditVideoMakerBot**](https://github.com/elebumm/RedditVideoMakerBot)
 Create Reddit Videos with just✨ one command ✨
-6. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
-⚙️ NGINX config generator on steroids 💉
-7. [**siyuan-note/siyuan**](https://github.com/siyuan-note/siyuan)
+5. [**alan2207/bulletproof-react**](https://github.com/alan2207/bulletproof-react)
+🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+6. [**siyuan-note/siyuan**](https://github.com/siyuan-note/siyuan)
 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1
+7. [**wailsapp/wails**](https://github.com/wailsapp/wails)
+Create beautiful applications using Go
 8. [**google/jax**](https://github.com/google/jax)
 Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 9. [**hyprwm/Hyprland**](https://github.com/hyprwm/Hyprland)
 Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-10. [**wailsapp/wails**](https://github.com/wailsapp/wails)
-Create beautiful applications using Go
-11. [**alan2207/bulletproof-react**](https://github.com/alan2207/bulletproof-react)
-🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-12. [**ory/kratos**](https://github.com/ory/kratos)
+10. [**digitalocean/nginxconfig.io**](https://github.com/digitalocean/nginxconfig.io)
+⚙️ NGINX config generator on steroids 💉
+11. [**ory/kratos**](https://github.com/ory/kratos)
 Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-13. [**doocs/source-code-hunter**](https://github.com/doocs/source-code-hunter)
-😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-14. [**facebook/folly**](https://github.com/facebook/folly)
+12. [**bradtraversy/50projects50days**](https://github.com/bradtraversy/50projects50days)
+50+ mini web projects using HTML, CSS & JS
+13. [**facebook/folly**](https://github.com/facebook/folly)
 An open-source C++ library developed and used at Facebook.
-15. [**ToolJet/ToolJet**](https://github.com/ToolJet/ToolJet)
+14. [**doocs/source-code-hunter**](https://github.com/doocs/source-code-hunter)
+😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+15. [**google/zx**](https://github.com/google/zx)
+A tool for writing better scripts
+16. [**ToolJet/ToolJet**](https://github.com/ToolJet/ToolJet)
 Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-16. [**smartcontractkit/full-blockchain-solidity-course-js**](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
-17. [**jina-ai/dalle-flow**](https://github.com/jina-ai/dalle-flow)
-A Human-in-the-Loop workflow for creating HD images from text
-18. [**delta-io/delta**](https://github.com/delta-io/delta)
+17. [**delta-io/delta**](https://github.com/delta-io/delta)
 An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+18. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
+Build smaller, faster, and more secure desktop applications with a web frontend.
 19. [**VSCodium/vscodium**](https://github.com/VSCodium/vscodium)
 binary releases of VS Code without MS branding/telemetry/licensing
-20. [**google/zx**](https://github.com/google/zx)
-A tool for writing better scripts
-21. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-22. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
+20. [**qianguyihao/Web**](https://github.com/qianguyihao/Web)
 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。
-23. [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri)
-Build smaller, faster, and more secure desktop applications with a web frontend.
-24. [**odoo/odoo**](https://github.com/odoo/odoo)
-Odoo. Open Source Apps To Grow Your Business.
-25. [**iperov/DeepFaceLive**](https://github.com/iperov/DeepFaceLive)
-Real-time face swap for PC streaming or video calls
+21. [**Ebazhanov/linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+22. [**smartcontractkit/full-blockchain-solidity-course-js**](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+23. [**youngyangyang04/leetcode-master**](https://github.com/youngyangyang04/leetcode-master)
+《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+24. [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises)
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+25. [**jina-ai/dalle-flow**](https://github.com/jina-ai/dalle-flow)
+A Human-in-the-Loop workflow for creating HD images from text
 <!-- endtab -->
 {% endtabs %}
